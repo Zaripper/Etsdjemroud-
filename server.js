@@ -10,11 +10,27 @@ const multer = require('multer');
 const XLSX = require('xlsx');
 
 const DATA_FILE = path.join(__dirname, 'data', 'products.json');
+const SEED_FILE = path.join(__dirname, 'seed', 'products.json');
 const PORT = process.env.PORT || 3000;
 const ADMIN_USERNAME = process.env.ADMIN_USERNAME || 'admin';
 const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'changeme123';
 const SESSION_SECRET = process.env.SESSION_SECRET || crypto.randomBytes(32).toString('hex');
 const IS_PROD = process.env.NODE_ENV === 'production';
+
+// If a persistent disk is mounted at data/ and is empty (fresh disk on first deploy),
+// seed it once from the bundled seed copy so the catalogue isn't blank.
+function ensureDataFile() {
+  try {
+    fs.mkdirSync(path.dirname(DATA_FILE), { recursive: true });
+    if (!fs.existsSync(DATA_FILE) && fs.existsSync(SEED_FILE)) {
+      fs.copyFileSync(SEED_FILE, DATA_FILE);
+      console.log('Seeded', DATA_FILE, 'from', SEED_FILE);
+    }
+  } catch (e) {
+    console.error('ensureDataFile error:', e.message);
+  }
+}
+ensureDataFile();
 
 // ---------- DATA LAYER (simple JSON file, atomic-ish writes) ----------
 function loadProducts() {
