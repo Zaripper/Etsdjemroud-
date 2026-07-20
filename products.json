@@ -1,0 +1,10162 @@
+[
+{
+"id": 1,
+"name": "AB+ SAVON ALOE VERA 85gr HYG02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "HYGIENOVA",
+"qty": 7,
+"price": 90.75,
+"cost": 81.22,
+"unit": "U"
+},
+{
+"id": 2,
+"name": "AB+ SAVON CITRON VERT 85gr HYG02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "HYGIENOVA",
+"qty": 18,
+"price": 90.75,
+"cost": 81.22,
+"unit": "U"
+},
+{
+"id": 3,
+"name": "AB+ SAVON SIMPLE 85gr HYG02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "HYGIENOVA",
+"qty": 277,
+"price": 98.04,
+"cost": 84.3,
+"unit": "U"
+},
+{
+"id": 4,
+"name": "Abaisse langue bt100 abs11",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 152,
+"price": 393.53,
+"cost": 337.59,
+"unit": "U"
+},
+{
+"id": 5,
+"name": "ABC boite a pharmacie malette premiers secours ABC011",
+"category": "Parapharm",
+"brand": "ABC",
+"qty": 8,
+"price": 600.0,
+"cost": 440.0,
+"unit": "U"
+},
+{
+"id": 6,
+"name": "ABC boite a pharmacie plate GM ABC011",
+"category": "Dispositifs Médicaux",
+"brand": "ABC",
+"qty": 17,
+"price": 333.5,
+"cost": 290.0,
+"unit": "U"
+},
+{
+"id": 7,
+"name": "ABC boite a pharmacie plate PM ABC011",
+"category": "Dispositifs Médicaux",
+"brand": "ABC",
+"qty": 29,
+"price": 250.0,
+"cost": 166.74,
+"unit": "U"
+},
+{
+"id": 8,
+"name": "Abc garrots bt/10 piéces c/72 ABC09",
+"category": "Parapharm",
+"brand": "ABC",
+"qty": 14,
+"price": 500.0,
+"cost": 400.0,
+"unit": "U"
+},
+{
+"id": 9,
+"name": "Abc sucette a dose sterilisable caoutchouc ABC06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "ABC",
+"qty": 215,
+"price": 65.45,
+"cost": 52.25,
+"unit": "U"
+},
+{
+"id": 10,
+"name": "Abn bande de crépe (velpeau) 4mX7cm ABN09",
+"category": "Parapharm",
+"brand": "ABN MEDICAL",
+"qty": 2619,
+"price": 50.6,
+"cost": 44.0,
+"unit": "U"
+},
+{
+"id": 11,
+"name": "Abn compresse ste 5X5 bt10 ABN09",
+"category": "Parapharm",
+"brand": "ABN MEDICAL",
+"qty": 1361,
+"price": 55.41,
+"cost": 45.33,
+"unit": "U"
+},
+{
+"id": 12,
+"name": "Abn compresse ste 7.5X7.5 bt10 ABN09",
+"category": "Parapharm",
+"brand": "ABN MEDICAL",
+"qty": 784,
+"price": 75.88,
+"cost": 62.08,
+"unit": "U"
+},
+{
+"id": 13,
+"name": "Acm Azeane taches imperfection rougeurs ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 8,
+"price": 1999.0,
+"cost": 1703.25,
+"unit": "U"
+},
+{
+"id": 14,
+"name": "Acm boréade sl soin lissant 40ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1751.79,
+"cost": 1467.64,
+"unit": "U"
+},
+{
+"id": 15,
+"name": "Acm calmol tube crème 40g ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 5,
+"price": 402.0,
+"cost": 307.53,
+"unit": "U"
+},
+{
+"id": 16,
+"name": "Acm cicatryl arnica crème tube 25ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 552.58,
+"cost": 461.62,
+"unit": "U"
+},
+{
+"id": 17,
+"name": "Acm cicatryl bio bt/14 sachet ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 6,
+"price": 949.72,
+"cost": 762.52,
+"unit": "U"
+},
+{
+"id": 18,
+"name": "Acm cicatryl bio tube crème 25ml c/100 ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 6,
+"price": 615.25,
+"cost": 508.25,
+"unit": "U"
+},
+{
+"id": 19,
+"name": "Acm cicatryl crème repair les rougeurs et irritations tube 120ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 1478.4,
+"cost": 1311.04,
+"unit": "U"
+},
+{
+"id": 20,
+"name": "Acm cicatryl crème solaire spf50 invisible tube 50ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 1086.75,
+"cost": 868.22,
+"unit": "U"
+},
+{
+"id": 21,
+"name": "Acm cicatryl vernis amer acm01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 977.5,
+"cost": 765.0,
+"unit": "U"
+},
+{
+"id": 22,
+"name": "ACM De cramp COMPRIME BT/30 ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 10,
+"price": 1207.5,
+"cost": 992.25,
+"unit": "U"
+},
+{
+"id": 23,
+"name": "ACM Depiwhite active gel unifiant anti taches 40ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 4,
+"price": 2366.78,
+"cost": 2028.67,
+"unit": "U"
+},
+{
+"id": 24,
+"name": "Acm depiwhite advanced crème intensive anti-tâches 40ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 8,
+"price": 2001.0,
+"cost": 1653.0,
+"unit": "U"
+},
+{
+"id": 25,
+"name": "Acm depiwhite eclat de teint anti tache bt/60 cmp",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 3,
+"price": 2466.75,
+"cost": 2037.75,
+"unit": "U"
+},
+{
+"id": 26,
+"name": "Acm depiwhite gel contour des yeux ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 4,
+"price": 1298.01,
+"cost": 1100.48,
+"unit": "U"
+},
+{
+"id": 27,
+"name": "ACM depiwhite lait corp 200ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 14,
+"price": 1500.0,
+"cost": 1252.04,
+"unit": "U"
+},
+{
+"id": 28,
+"name": "ACM depiwhite M ecran creme protectrice depigmentant spf 50+ 40ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 8,
+"price": 1621.5,
+"cost": 1078.64,
+"unit": "U"
+},
+{
+"id": 29,
+"name": "Acm depiwhite mousse nettoyante éclaircissante 200ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 3,
+"price": 1945.01,
+"cost": 1606.74,
+"unit": "U"
+},
+{
+"id": 30,
+"name": "ACM depiwhite S ecran soin photo protecteur eclaircissant SPF50+ 50ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 6,
+"price": 1631.85,
+"cost": 1123.38,
+"unit": "U"
+},
+{
+"id": 31,
+"name": "Acm duolys contour des yeux ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 1472.0,
+"cost": 1248.0,
+"unit": "U"
+},
+{
+"id": 32,
+"name": "Acm duolys creme ecran solaire anti age spf50+ 50ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 2350.4,
+"cost": 1976.0,
+"unit": "U"
+},
+{
+"id": 33,
+"name": "ACM Fadiamone creme de jour anti-age 30ml ACM07",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 1060.0,
+"cost": 902.5,
+"unit": "U"
+},
+{
+"id": 34,
+"name": "ACM Fadiamone creme de nuit anti-age 30ml ACM07",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1232.0,
+"cost": 1045.0,
+"unit": "U"
+},
+{
+"id": 35,
+"name": "ACM Fadiamone D3 2000 UI  ACM07",
+"category": "Compléments alimentaires",
+"brand": "ACM",
+"qty": 4,
+"price": 496.16,
+"cost": 306.69,
+"unit": "U"
+},
+{
+"id": 36,
+"name": "Acm hyfac crème protection solaire invisible spf50 40ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1920.5,
+"cost": 1586.5,
+"unit": "U"
+},
+{
+"id": 37,
+"name": "Acm hyfac crème protection solaire teinte spf50 40ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1890.0,
+"cost": 1586.5,
+"unit": "U"
+},
+{
+"id": 38,
+"name": "ACM hyfac gel nettoyant purifiant 50ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 5,
+"price": 595.0,
+"cost": 494.0,
+"unit": "U"
+},
+{
+"id": 39,
+"name": "Acm hyfac mousse nettoyante exfoliante a/pompe 150ml c/48 ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 6,
+"price": 1621.5,
+"cost": 1353.6,
+"unit": "U"
+},
+{
+"id": 40,
+"name": "ACM hyfac soin global creme reduit les imperfections 40ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 5,
+"price": 1670.95,
+"cost": 1380.35,
+"unit": "U"
+},
+{
+"id": 41,
+"name": "Acm hyfac woman gommage douceur lisse la peau tube 40ml c/48 ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 3,
+"price": 1366.4,
+"cost": 1159.0,
+"unit": "U"
+},
+{
+"id": 42,
+"name": "Acm medisun ecran creme spf 50+ invisible ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 6,
+"price": 1811.45,
+"cost": 1522.9,
+"unit": "U"
+},
+{
+"id": 43,
+"name": "Acm novophane chronic lotion anti-chute 100ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 3666.1,
+"cost": 2875.5,
+"unit": "U"
+},
+{
+"id": 44,
+"name": "Acm novophane crème des ongles 15ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 999.99,
+"cost": 855.73,
+"unit": "U"
+},
+{
+"id": 45,
+"name": "Acm novophane gelules cheveux et angles 60 gelu ACM07",
+"category": "Compléments alimentaires",
+"brand": "ACM",
+"qty": 6,
+"price": 1899.79,
+"cost": 1551.35,
+"unit": "U"
+},
+{
+"id": 46,
+"name": "Acm novophane REACTIONAL lotion anti-chute 100ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 1,
+"price": 1710.24,
+"cost": 1450.65,
+"unit": "U"
+},
+{
+"id": 47,
+"name": "Acm novophane shampooing cheveux gras sebo-regulateur 200ml c/25 ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 3,
+"price": 1576.3,
+"cost": 1433.0,
+"unit": "U"
+},
+{
+"id": 48,
+"name": "Acm novophane shampooing energisant (cheveux ternes et fragilisés) 200ml c/25 ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1920.8,
+"cost": 1647.61,
+"unit": "U"
+},
+{
+"id": 49,
+"name": "ACM roll on peaux sensibles 48h rose ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1190.0,
+"cost": 998.4,
+"unit": "U"
+},
+{
+"id": 50,
+"name": "ACM roll on peaux sensibles 72h rouge ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1250.0,
+"cost": 1056.0,
+"unit": "U"
+},
+{
+"id": 51,
+"name": "ACM sebionex K creme keratoregulatrice 40ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1345.2,
+"cost": 1132.8,
+"unit": "U"
+},
+{
+"id": 52,
+"name": "Acm sebionex TRIO 40ml creme apaisante anti imperfection ACM 01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1255.26,
+"cost": 1075.94,
+"unit": "U"
+},
+{
+"id": 53,
+"name": "Acm sensitelial soin emollient 200ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1420.23,
+"cost": 1176.81,
+"unit": "U"
+},
+{
+"id": 54,
+"name": "Acm vitix comprimés anti oxydant bt/30 ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 4,
+"price": 2486.4,
+"cost": 2037.95,
+"unit": "U"
+},
+{
+"id": 55,
+"name": "Acm vitix gel régulateur de la pigmentation t/20 ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 4,
+"price": 2193.81,
+"cost": 1980.24,
+"unit": "U"
+},
+{
+"id": 56,
+"name": "Acm xerolys 5 soin émollient longue durée peaux sèches 200ml c/30 ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 3,
+"price": 1512.5,
+"cost": 1340.62,
+"unit": "U"
+},
+{
+"id": 57,
+"name": "Acm xerolys creme visage emulision hydratante 50ml ACM01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ACM",
+"qty": 2,
+"price": 1145.84,
+"cost": 1015.66,
+"unit": "U"
+},
+{
+"id": 58,
+"name": "Adhaffou vinaigre de pomme 250ml pack /12 ADH07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 10,
+"price": 195.0,
+"cost": 160.0,
+"unit": "U"
+},
+{
+"id": 59,
+"name": "Advitam multivitamine en goutte fraise 15ml ADV07",
+"category": "Compléments alimentaires",
+"brand": "ADVITAM",
+"qty": 3,
+"price": 500.0,
+"cost": 303.03,
+"unit": "U"
+},
+{
+"id": 60,
+"name": "AHPC gant latex M bt/100",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 6,
+"price": 1100.0,
+"cost": 938.4,
+"unit": "U"
+},
+{
+"id": 61,
+"name": "AI gant nitrile",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 18,
+"price": 1200.0,
+"cost": 1000.0,
+"unit": "U"
+},
+{
+"id": 62,
+"name": "Akileine vert forte transpiration peau fragilisee",
+"category": "Dispositifs Médicaux",
+"brand": "AKILEINE",
+"qty": 3,
+"price": 329.16,
+"cost": 252.79,
+"unit": "U"
+},
+{
+"id": 63,
+"name": "Alcapur stick levres hydratant original bt/12",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 2,
+"price": 299.99,
+"cost": 233.21,
+"unit": "U"
+},
+{
+"id": 64,
+"name": "Alcapur stick levres hydratant vanille bt/12",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 3,
+"price": 299.99,
+"cost": 233.21,
+"unit": "U"
+},
+{
+"id": 65,
+"name": "Aldismed aldisplast sparadraps non perforé 05mx18cm ALD09",
+"category": "Parapharm",
+"brand": "ALDISMED",
+"qty": 3,
+"price": 699.99,
+"cost": 561.2,
+"unit": "U"
+},
+{
+"id": 66,
+"name": "Aldismed compresses PUR 5cmx5cm bt/10 ALD09",
+"category": "Parapharm",
+"brand": "ALDISMED",
+"qty": 80,
+"price": 36.8,
+"cost": 29.44,
+"unit": "U"
+},
+{
+"id": 67,
+"name": "Alofresh spray buccal 20ml",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 28,
+"price": 162.5,
+"cost": 141.67,
+"unit": "U"
+},
+{
+"id": 68,
+"name": "Alvityl a croquer b/20 des 4ans ref:2618",
+"category": "Compléments alimentaires",
+"brand": "UL",
+"qty": 11,
+"price": 1083.34,
+"cost": 984.85,
+"unit": "U"
+},
+{
+"id": 69,
+"name": "Alvityl sirop appetit 100ml",
+"category": "Compléments alimentaires",
+"brand": "UL",
+"qty": 25,
+"price": 1125.0,
+"cost": 1022.73,
+"unit": "U"
+},
+{
+"id": 70,
+"name": "AMD couche adulte culotte/pants large p/14 AMD09",
+"category": "Parapharm",
+"brand": "AMD",
+"qty": 49,
+"price": 1300.0,
+"cost": 1062.0,
+"unit": "U"
+},
+{
+"id": 71,
+"name": "AMD couche adulte culotte/pants medium p/14 AMD09",
+"category": "Parapharm",
+"brand": "AMD",
+"qty": 8,
+"price": 1200.0,
+"cost": 1027.93,
+"unit": "U"
+},
+{
+"id": 72,
+"name": "AMD Couche adulte scratch medium  paquet de 10 pcs",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 3,
+"price": 650.0,
+"cost": 535.0,
+"unit": "U"
+},
+{
+"id": 73,
+"name": "AMD couche adulte slip/scratch medium p/20 AMD09",
+"category": "Parapharm",
+"brand": "AMD",
+"qty": 8,
+"price": 1400.0,
+"cost": 1243.06,
+"unit": "U"
+},
+{
+"id": 74,
+"name": "Anabox 7days NBK11",
+"category": "Dispositifs Médicaux",
+"brand": "ANABOX",
+"qty": 388,
+"price": 1887.0,
+"cost": 1885.0,
+"unit": "U"
+},
+{
+"id": 75,
+"name": "Arvea gel 85% aloe vera 100ml ARV01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ARVEA",
+"qty": 1,
+"price": 1480.0,
+"cost": 1171.66,
+"unit": "U"
+},
+{
+"id": 76,
+"name": "Arvea gel amincissant attaque les graisses 100ml ARV01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ARVEA",
+"qty": 8,
+"price": 2000.0,
+"cost": 1583.33,
+"unit": "U"
+},
+{
+"id": 77,
+"name": "Arvea gel intime nettoie en douceur 180ml ARV01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ARVEA",
+"qty": 4,
+"price": 840.0,
+"cost": 665.0,
+"unit": "U"
+},
+{
+"id": 78,
+"name": "Arvea instant glow huile seche pailletee ARV01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ARVEA",
+"qty": 2,
+"price": 2400.0,
+"cost": 1962.7,
+"unit": "U"
+},
+{
+"id": 79,
+"name": "Arvea six cream claire 50ml ARV01",
+"category": "Dermo-Cos & Make-up",
+"brand": "ARVEA",
+"qty": 1,
+"price": 2000.0,
+"cost": 1583.32,
+"unit": "U"
+},
+{
+"id": 80,
+"name": "Aylie Ecran total SPF50 toucher sec 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 1250.01,
+"cost": 1136.37,
+"unit": "U"
+},
+{
+"id": 81,
+"name": "BAD electrique enfant",
+"category": "Hygiène bucco-dentaire",
+"brand": "Sans marque",
+"qty": 6,
+"price": 1500.0,
+"cost": 1000.0,
+"unit": "U"
+},
+{
+"id": 82,
+"name": "BAD electrique M2000",
+"category": "Hygiène bucco-dentaire",
+"brand": "Sans marque",
+"qty": 2,
+"price": 4150.0,
+"cost": 3000.0,
+"unit": "U"
+},
+{
+"id": 83,
+"name": "BAD electrique nettoyeur dentaire a eau",
+"category": "Hygiène bucco-dentaire",
+"brand": "Sans marque",
+"qty": 4,
+"price": 5375.0,
+"cost": 4300.0,
+"unit": "U"
+},
+{
+"id": 84,
+"name": "Bavette avec barette adulte bt/50",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 4500,
+"price": 10.0,
+"cost": 6.75,
+"unit": "U"
+},
+{
+"id": 85,
+"name": "Bavette noire avec barette adulte bt/10",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 1970,
+"price": 10.0,
+"cost": 6.55,
+"unit": "U"
+},
+{
+"id": 86,
+"name": "Bavette purifie avec barette adulte bt/50",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 50,
+"price": 10.0,
+"cost": 9.0,
+"unit": "U"
+},
+{
+"id": 87,
+"name": "BEBE STAR savon BLEU 85GR BBS02",
+"category": "Dermo-Cos & Make-up",
+"brand": "HYGIENOVA",
+"qty": 126,
+"price": 70.37,
+"cost": 59.36,
+"unit": "U"
+},
+{
+"id": 88,
+"name": "BEBE STAR savon ROSE 85GR BBS02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "HYGIENOVA",
+"qty": 102,
+"price": 67.0,
+"cost": 56.95,
+"unit": "U"
+},
+{
+"id": 89,
+"name": "BEMA cosmetici baby creme corporelle hydratante bebe 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 185,
+"price": 520.0,
+"cost": 411.07,
+"unit": "U"
+},
+{
+"id": 90,
+"name": "BEMA cosmetici baume cheuveux (apres shamp) 200ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 540,
+"price": 1104.0,
+"cost": 872.72,
+"unit": "U"
+},
+{
+"id": 91,
+"name": "BEMA cosmetici BIO creme adoucissante mains 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 142,
+"price": 464.0,
+"cost": 366.8,
+"unit": "U"
+},
+{
+"id": 92,
+"name": "BEMA cosmetici bioigen gel 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 310,
+"price": 608.0,
+"cost": 480.63,
+"unit": "U"
+},
+{
+"id": 93,
+"name": "BEMA cosmetici Bioigen gel pour hygienne intime 200ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 484,
+"price": 791.2,
+"cost": 625.45,
+"unit": "U"
+},
+{
+"id": 94,
+"name": "BEMA cosmetici creme de massage corporelle a l'extrait d'arnica 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 173,
+"price": 624.0,
+"cost": 493.28,
+"unit": "U"
+},
+{
+"id": 95,
+"name": "BEMA cosmetici creme de massage rafraichissante pieds 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 212,
+"price": 624.0,
+"cost": 493.28,
+"unit": "U"
+},
+{
+"id": 96,
+"name": "BEMA cosmetici creme nourissante et hydratante mains 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 212,
+"price": 544.0,
+"cost": 430.04,
+"unit": "U"
+},
+{
+"id": 97,
+"name": "BEMA cosmetici creme visage hydratante 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 265,
+"price": 944.0,
+"cost": 746.25,
+"unit": "U"
+},
+{
+"id": 98,
+"name": "BEMA cosmetici FEET creme hydratante et adoucissante pieds 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 212,
+"price": 944.0,
+"cost": 746.25,
+"unit": "U"
+},
+{
+"id": 99,
+"name": "BEMA cosmetici lotion hydratante pour ongles 10ml  PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 62,
+"price": 768.0,
+"cost": 607.11,
+"unit": "U"
+},
+{
+"id": 100,
+"name": "BEMA cosmetici serum anti-chute 10ml*6pcs PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 127,
+"price": 2360.0,
+"cost": 1865.61,
+"unit": "U"
+},
+{
+"id": 101,
+"name": "BEMA cosmetici shampoing anti-chute 200ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 241,
+"price": 1344.0,
+"cost": 1062.45,
+"unit": "U"
+},
+{
+"id": 102,
+"name": "BEMA cosmetici shampoing anti pelicullaire 200ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 81,
+"price": 1104.0,
+"cost": 872.73,
+"unit": "U"
+},
+{
+"id": 103,
+"name": "BEMA cosmetici shampoing lavages frequents 200ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 559,
+"price": 960.0,
+"cost": 758.89,
+"unit": "U"
+},
+{
+"id": 104,
+"name": "BEMA cosmetici shampoing sebo equilibrant 200ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 439,
+"price": 1104.0,
+"cost": 872.72,
+"unit": "U"
+},
+{
+"id": 105,
+"name": "BEMA cosmetici Solartea spf50+ invisible 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 46,
+"price": 1650.0,
+"cost": 1291.16,
+"unit": "U"
+},
+{
+"id": 106,
+"name": "BEMA cosmetici white creme eclaircissante visage 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 110,
+"price": 1560.0,
+"cost": 1233.2,
+"unit": "U"
+},
+{
+"id": 107,
+"name": "BEMA cosmetici white emulsion eclaircissante visage et corps 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 148,
+"price": 1560.0,
+"cost": 1233.2,
+"unit": "U"
+},
+{
+"id": 108,
+"name": "BEMA cosmetici white lait nettoyant eclaircissant tous type de peau 200ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 81,
+"price": 1760.0,
+"cost": 1391.3,
+"unit": "U"
+},
+{
+"id": 109,
+"name": "BEMA cosmetici white masque eclaircissant visage 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 209,
+"price": 1400.0,
+"cost": 1106.72,
+"unit": "U"
+},
+{
+"id": 110,
+"name": "BEMA cosmetici white peeling eclaircissant pour tous types de peaux 50ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 212,
+"price": 1400.0,
+"cost": 1106.72,
+"unit": "U"
+},
+{
+"id": 111,
+"name": "BEMA cosmetici white solution tonique eclaircissante pour tous types de peaux 200ml PRG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PROG",
+"qty": 82,
+"price": 1488.0,
+"cost": 1176.28,
+"unit": "U"
+},
+{
+"id": 112,
+"name": "Beny Durex b3- BT/12",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 18,
+"price": 350.0,
+"cost": 274.75,
+"unit": "U"
+},
+{
+"id": 113,
+"name": "Bepanthen sensicalm creme tube 20gr",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 6,
+"price": 1358.34,
+"cost": 1234.85,
+"unit": "U"
+},
+{
+"id": 114,
+"name": "Bio plus royal honey bt/12 20gr BIO07",
+"category": "Compléments alimentaires",
+"brand": "BIO PLUS PHARM",
+"qty": 8,
+"price": 3583.33,
+"cost": 2662.23,
+"unit": "U"
+},
+{
+"id": 115,
+"name": "Bio plus sel de rehydratation goùt banane bt/10 scht  c/50 BIO07",
+"category": "Compléments alimentaires",
+"brand": "BIO PLUS PHARM",
+"qty": 7,
+"price": 375.0,
+"cost": 210.79,
+"unit": "U"
+},
+{
+"id": 116,
+"name": "Bio plus sel de rehydratation poudre goùt fraise bt/10 scht c/50 BIO07",
+"category": "Compléments alimentaires",
+"brand": "BIO PLUS PHARM",
+"qty": 7,
+"price": 375.0,
+"cost": 210.63,
+"unit": "U"
+},
+{
+"id": 117,
+"name": "Bio plus sel de rehydratation poudre goùt framboise bt/10 scht c/50 BIO07",
+"category": "Compléments alimentaires",
+"brand": "BIO PLUS PHARM",
+"qty": 7,
+"price": 375.0,
+"cost": 218.68,
+"unit": "U"
+},
+{
+"id": 118,
+"name": "Biomax aloe digest confort intestinal bt/30cps ref:8777 c/48 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 10,
+"price": 733.33,
+"cost": 599.99,
+"unit": "U"
+},
+{
+"id": 119,
+"name": "Biomax anti-chute bt/30cpsl BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 1,
+"price": 1124.99,
+"cost": 997.15,
+"unit": "U"
+},
+{
+"id": 120,
+"name": "Biomax appetit max comp bt30 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 4,
+"price": 625.0,
+"cost": 546.08,
+"unit": "U"
+},
+{
+"id": 121,
+"name": "Biomax bio-fertyl femmes bt/30 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 2,
+"price": 3750.0,
+"cost": 3238.64,
+"unit": "U"
+},
+{
+"id": 122,
+"name": "Biomax biodigest confort digestif effervescent bt/10 pastille sans sucre",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 1,
+"price": 500.0,
+"cost": 431.81,
+"unit": "U"
+},
+{
+"id": 123,
+"name": "Biomax biositol ovaires SOPK 30 caps BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 1,
+"price": 2083.34,
+"cost": 1799.24,
+"unit": "U"
+},
+{
+"id": 124,
+"name": "Biomax biovit multivitamine bt/30 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 20,
+"price": 762.5,
+"cost": 658.52,
+"unit": "U"
+},
+{
+"id": 125,
+"name": "Biomax biovit multivitamine sirop kids 150ml c/35 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 11,
+"price": 541.66,
+"cost": 233.9,
+"unit": "U"
+},
+{
+"id": 126,
+"name": "Biomax colic block sirop 150ml c/35 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 24,
+"price": 491.66,
+"cost": 376.69,
+"unit": "U"
+},
+{
+"id": 127,
+"name": "Biomax collagen marin bt/60 cmp BMX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 7,
+"price": 2333.33,
+"cost": 2068.18,
+"unit": "U"
+},
+{
+"id": 128,
+"name": "Biomax curcuma bt/30cps BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 1,
+"price": 1375.0,
+"cost": 1218.75,
+"unit": "U"
+},
+{
+"id": 129,
+"name": "Biomax mag max magnésium 500mg+ vitamine b1.b2.b6 30cps c/48 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 30,
+"price": 708.34,
+"cost": 618.69,
+"unit": "U"
+},
+{
+"id": 130,
+"name": "Biomax melatonine pour le sommeil 30 cps c/48 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 13,
+"price": 708.34,
+"cost": 611.73,
+"unit": "U"
+},
+{
+"id": 131,
+"name": "Biomax memoire+omega3 1000mg bt/30 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 3,
+"price": 1066.67,
+"cost": 941.41,
+"unit": "U"
+},
+{
+"id": 132,
+"name": "Biomax nutrition BCAA 400GR",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 2,
+"price": 2491.66,
+"cost": 2208.52,
+"unit": "U"
+},
+{
+"id": 133,
+"name": "Biomax nutrition creatine powder 300gr BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 3,
+"price": 2816.66,
+"cost": 2496.0,
+"unit": "U"
+},
+{
+"id": 134,
+"name": "Biomax nutrition L-tryptophan bt/60 cps",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 1,
+"price": 2708.33,
+"cost": 2400.57,
+"unit": "U"
+},
+{
+"id": 135,
+"name": "Biomax nutrition L-tyrosine bt/60 cps",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 2,
+"price": 2567.5,
+"cost": 2275.74,
+"unit": "U"
+},
+{
+"id": 136,
+"name": "Biomax nutrition magnesium+zinc bt/60 cps",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 1,
+"price": 1787.5,
+"cost": 1584.38,
+"unit": "U"
+},
+{
+"id": 137,
+"name": "Biomax nutrition magnesium+zinc effer bt/60 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 3,
+"price": 2333.33,
+"cost": 2121.21,
+"unit": "U"
+},
+{
+"id": 138,
+"name": "Biomax nutrition omega 3 bt/60 cps",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 3,
+"price": 2058.33,
+"cost": 1836.12,
+"unit": "U"
+},
+{
+"id": 139,
+"name": "Biomax nutrition vit e bt/120 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 9,
+"price": 2916.66,
+"cost": 1723.48,
+"unit": "U"
+},
+{
+"id": 140,
+"name": "Biomax nutrition vitamine c+zinc efferv bt/60",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 3,
+"price": 2083.33,
+"cost": 1846.59,
+"unit": "U"
+},
+{
+"id": 141,
+"name": "Biomax nutrition WHEY proteine powder cookies 1KG BMX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 14,
+"price": 5583.32,
+"cost": 4926.6,
+"unit": "U"
+},
+{
+"id": 142,
+"name": "Biomax omega3  1000MG bt30 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 30,
+"price": 1025.0,
+"cost": 885.22,
+"unit": "U"
+},
+{
+"id": 143,
+"name": "Biomax omega3 1000mg gold bt/30 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 9,
+"price": 1541.66,
+"cost": 1331.43,
+"unit": "U"
+},
+{
+"id": 144,
+"name": "Biomax SELENIUM 30 caps BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 1,
+"price": 933.33,
+"cost": 825.34,
+"unit": "U"
+},
+{
+"id": 145,
+"name": "Biomax Suprabiotique confort intestinal bt/20",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 2,
+"price": 625.0,
+"cost": 359.85,
+"unit": "U"
+},
+{
+"id": 146,
+"name": "Biomax TESTO MAX fortifie hormone bt/30cpsl BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 4,
+"price": 574.99,
+"cost": 504.98,
+"unit": "U"
+},
+{
+"id": 147,
+"name": "Biomax vit C + zinc effervescent 250mg /10mg bt/10",
+"category": "Dermo-Cos & Make-up",
+"brand": "BIOMAX ALGERIE",
+"qty": 10,
+"price": 516.66,
+"cost": 305.3,
+"unit": "U"
+},
+{
+"id": 148,
+"name": "Biomax vitamine d3 50000 ui bt/8cps c/56 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 18,
+"price": 583.34,
+"cost": 335.86,
+"unit": "U"
+},
+{
+"id": 149,
+"name": "Biomax vitamine E b/30 400mg cps  c/60 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 14,
+"price": 816.67,
+"cost": 720.77,
+"unit": "U"
+},
+{
+"id": 150,
+"name": "Bionnex preventiva creme solaire teinte spf50+ 50ml BNX01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 2,
+"price": 1975.0,
+"cost": 1918.59,
+"unit": "U"
+},
+{
+"id": 151,
+"name": "BIONUTREX Antiacid a sucer brulures d'estomac bt/60",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 1,
+"price": 408.32,
+"cost": 371.2,
+"unit": "U"
+},
+{
+"id": 152,
+"name": "Bionutrex appetit pro kids 6m+ 125ml BNX07",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 6,
+"price": 749.16,
+"cost": 326.9,
+"unit": "U"
+},
+{
+"id": 153,
+"name": "Bionutrex energy boost efferv bt/10 BNX07",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 4,
+"price": 832.5,
+"cost": 484.36,
+"unit": "U"
+},
+{
+"id": 154,
+"name": "BIONUTREX Erector tongat ali homme bt/30 BNX07",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 10,
+"price": 999.16,
+"cost": 420.1,
+"unit": "U"
+},
+{
+"id": 155,
+"name": "BIONUTREX Erector tongat ali homme bt/60 BNX07",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 1,
+"price": 1241.67,
+"cost": 522.06,
+"unit": "U"
+},
+{
+"id": 156,
+"name": "BIONUTREX magnesium 300mg lyoc bt/45 comprimes a sucer c/30",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 11,
+"price": 749.16,
+"cost": 567.54,
+"unit": "U"
+},
+{
+"id": 157,
+"name": "Bionutrex multivitamine efferv bt/10 BNX07",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 3,
+"price": 707.5,
+"cost": 411.63,
+"unit": "U"
+},
+{
+"id": 158,
+"name": "BIONUTREX nausecalm adulte bt/40",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 1,
+"price": 374.99,
+"cost": 340.9,
+"unit": "U"
+},
+{
+"id": 159,
+"name": "Bionutrex omega3 1000mg bt/30 BNX07",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 9,
+"price": 1165.83,
+"cost": 678.3,
+"unit": "U"
+},
+{
+"id": 160,
+"name": "Bionutrex selenium +A.C.E bt/30",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 5,
+"price": 915.83,
+"cost": 399.63,
+"unit": "U"
+},
+{
+"id": 161,
+"name": "Bionutrex Vit d3 50000 ui BTX07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 7,
+"price": 541.66,
+"cost": 224.05,
+"unit": "U"
+},
+{
+"id": 162,
+"name": "Bionutrex vit E 400 bt/30",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 3,
+"price": 632.5,
+"cost": 287.5,
+"unit": "U"
+},
+{
+"id": 163,
+"name": "Bionutrx biotine 10000 bt/30",
+"category": "Compléments alimentaires",
+"brand": "BIONUTREX",
+"qty": 2,
+"price": 1249.16,
+"cost": 1135.6,
+"unit": "U"
+},
+{
+"id": 164,
+"name": "Biopeer gypanex collutoire maux de gorge 30ml BPR09",
+"category": "Parapharm",
+"brand": "BIOPEER",
+"qty": 65,
+"price": 433.33,
+"cost": 315.05,
+"unit": "U"
+},
+{
+"id": 165,
+"name": "Biopeer hyxeryl creme sechresses et brulures 200gr BPR01",
+"category": "Dermo-Cos & Make-up",
+"brand": "BIOPEER",
+"qty": 137,
+"price": 725.75,
+"cost": 373.87,
+"unit": "U"
+},
+{
+"id": 166,
+"name": "Biopeer kytol GEL douleur musculaire 50gr BPR11",
+"category": "Dispositifs Médicaux",
+"brand": "BIO PEER",
+"qty": 188,
+"price": 275.0,
+"cost": 188.57,
+"unit": "U"
+},
+{
+"id": 167,
+"name": "Biopeer kytol liquide douleur musculaire 225ml BPR11",
+"category": "Dispositifs Médicaux",
+"brand": "BIOPEER",
+"qty": 331,
+"price": 275.0,
+"cost": 132.76,
+"unit": "U"
+},
+{
+"id": 168,
+"name": "Biopeer nezomer hypertonique spray nasal BPR09",
+"category": "Parapharm",
+"brand": "BIOPEER",
+"qty": 83,
+"price": 558.34,
+"cost": 286.53,
+"unit": "U"
+},
+{
+"id": 169,
+"name": "Biopeer nezomer isotonique spray nasal BPR09",
+"category": "Parapharm",
+"brand": "BIOPEER",
+"qty": 165,
+"price": 517.16,
+"cost": 230.2,
+"unit": "U"
+},
+{
+"id": 170,
+"name": "Biopeer xadozinc creme  75gr BPR01",
+"category": "Dermo-Cos & Make-up",
+"brand": "BIOPEER",
+"qty": 59,
+"price": 350.0,
+"cost": 259.79,
+"unit": "U"
+},
+{
+"id": 171,
+"name": "Biopex bio soak gm solution pour les lentilles 360ml c/24 BPX09",
+"category": "Dermo-Cos & Make-up",
+"brand": "BIOPEX",
+"qty": 20,
+"price": 1195.0,
+"cost": 1050.0,
+"unit": "U"
+},
+{
+"id": 172,
+"name": "Biopex bio soak pm solution pour les lentilles 120ml c/24 BPX09",
+"category": "Dermo-Cos & Make-up",
+"brand": "BIOPEX",
+"qty": 20,
+"price": 795.0,
+"cost": 700.0,
+"unit": "U"
+},
+{
+"id": 173,
+"name": "Biopharmhadok dexaspray maux de gorge 100ml BPH10",
+"category": "Parapharm",
+"brand": "BIOPHARMHADOK",
+"qty": 379,
+"price": 413.91,
+"cost": 136.22,
+"unit": "U"
+},
+{
+"id": 174,
+"name": "Biorga sebophane shampooing 200 ml BST01",
+"category": "Dermo-Cos & Make-up",
+"brand": "BIORGA DERMATOLOGIE",
+"qty": 4,
+"price": 1608.85,
+"cost": 1399.0,
+"unit": "U"
+},
+{
+"id": 175,
+"name": "Biovie Levure de biere bt/100 BIX07",
+"category": "Compléments alimentaires",
+"brand": "BIOMAX ALGERIE",
+"qty": 1,
+"price": 327.75,
+"cost": 284.15,
+"unit": "U"
+},
+{
+"id": 176,
+"name": "Bissane lab rosagyn mousse intime enfant et adultes flacon 150ml",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "Sans marque",
+"qty": 9,
+"price": 575.0,
+"cost": 470.45,
+"unit": "U"
+},
+{
+"id": 177,
+"name": "BK deanbulateur AVEC CHAISE BK011",
+"category": "Dispositifs Médicaux",
+"brand": "BK",
+"qty": 1,
+"price": 10844.5,
+"cost": 9430.0,
+"unit": "U"
+},
+{
+"id": 178,
+"name": "BK pot sterile 50ml bk09",
+"category": "Parapharm",
+"brand": "BK",
+"qty": 320,
+"price": 15.0,
+"cost": 10.66,
+"unit": "U"
+},
+{
+"id": 179,
+"name": "Bobodent gel pour la pousse dentaire 30gr",
+"category": "Hygiène bucco-dentaire",
+"brand": "Sans marque",
+"qty": 26,
+"price": 499.16,
+"cost": 348.16,
+"unit": "U"
+},
+{
+"id": 180,
+"name": "BPN Eromax plus bt/10stick",
+"category": "Compléments alimentaires",
+"brand": "BPN",
+"qty": 3,
+"price": 3333.34,
+"cost": 2472.73,
+"unit": "U"
+},
+{
+"id": 181,
+"name": "Brevartis d3 50000 ui 08 gelule",
+"category": "Compléments alimentaires",
+"brand": "BREVARTIS",
+"qty": 90,
+"price": 583.33,
+"cost": 370.37,
+"unit": "U"
+},
+{
+"id": 182,
+"name": "Brevartis magnesium +b6 300 bt/30",
+"category": "Compléments alimentaires",
+"brand": "BREVARTIS",
+"qty": 110,
+"price": 708.33,
+"cost": 374.78,
+"unit": "U"
+},
+{
+"id": 183,
+"name": "Brevartis omega 3 1000mg bt/30",
+"category": "Compléments alimentaires",
+"brand": "BREVARTIS",
+"qty": 134,
+"price": 1083.33,
+"cost": 573.19,
+"unit": "U"
+},
+{
+"id": 184,
+"name": "CALMIR savon 85gr hyg02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "HYGIENOVA",
+"qty": 59,
+"price": 83.34,
+"cost": 79.46,
+"unit": "U"
+},
+{
+"id": 185,
+"name": "Carelia creme mains 75ml CAR01",
+"category": "Dermo-Cos & Make-up",
+"brand": "CARELIA",
+"qty": 54,
+"price": 375.0,
+"cost": 280.82,
+"unit": "U"
+},
+{
+"id": 186,
+"name": "Carelia creme pied 75ml CAR01",
+"category": "Dermo-Cos & Make-up",
+"brand": "CARELIA",
+"qty": 36,
+"price": 375.0,
+"cost": 280.61,
+"unit": "U"
+},
+{
+"id": 187,
+"name": "Carelia creme visage 75ML CAR01",
+"category": "Dermo-Cos & Make-up",
+"brand": "CARELIA",
+"qty": 162,
+"price": 400.0,
+"cost": 286.5,
+"unit": "U"
+},
+{
+"id": 188,
+"name": "Celimax Retinal shot 15ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 3,
+"price": 2650.0,
+"cost": 2300.0,
+"unit": "U"
+},
+{
+"id": 189,
+"name": "Cevapharm Fertiom fertilite masculine bt/30 cmp CVP07",
+"category": "Compléments alimentaires",
+"brand": "cevapharm",
+"qty": 3,
+"price": 2500.0,
+"cost": 2083.33,
+"unit": "U"
+},
+{
+"id": 190,
+"name": "Cevapharm Gynosea + DHEA + vitb9 + vit D bt/60 cmp CVP07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 1,
+"price": 4500.0,
+"cost": 3750.0,
+"unit": "U"
+},
+{
+"id": 191,
+"name": "Cevapharm Gynosol SOPK bt/60 cmp CVP07",
+"category": "Compléments alimentaires",
+"brand": "cevapharm",
+"qty": 1,
+"price": 3500.0,
+"cost": 2916.68,
+"unit": "U"
+},
+{
+"id": 192,
+"name": "Cevapharm Hepatix detox et bien etre de foie bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 3,
+"price": 833.34,
+"cost": 694.44,
+"unit": "U"
+},
+{
+"id": 193,
+"name": "Cevapharm Renova plus anti oxydant bt/90 cmp CVP07",
+"category": "Compléments alimentaires",
+"brand": "cevapharm",
+"qty": 1,
+"price": 15500.0,
+"cost": 13194.45,
+"unit": "U"
+},
+{
+"id": 194,
+"name": "Cevapharm synapse pour le systeme nerveux et hematopoietique bt/30",
+"category": "Compléments alimentaires",
+"brand": "W.M.L",
+"qty": 14,
+"price": 1333.34,
+"cost": 1111.11,
+"unit": "U"
+},
+{
+"id": 195,
+"name": "Cevapharm Visionet bt/60 cmp CVP07",
+"category": "Compléments alimentaires",
+"brand": "cevapharm",
+"qty": 2,
+"price": 3300.0,
+"cost": 2777.78,
+"unit": "U"
+},
+{
+"id": 196,
+"name": "Chaima sirop de fenugrec adulte abricot 180ml",
+"category": "Compléments alimentaires",
+"brand": "CHAIMA",
+"qty": 60,
+"price": 145.0,
+"cost": 100.51,
+"unit": "U"
+},
+{
+"id": 197,
+"name": "Chaima sirop de fenugrec enfant abricot 180ml",
+"category": "Compléments alimentaires",
+"brand": "CHAIMA",
+"qty": 106,
+"price": 135.0,
+"cost": 96.99,
+"unit": "U"
+},
+{
+"id": 198,
+"name": "Cheks gummies Bi relax mag 1500mg bt/30 CKS07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 3,
+"price": 791.67,
+"cost": 690.91,
+"unit": "U"
+},
+{
+"id": 199,
+"name": "Cheks gummies collagen 1350mg bt/30 CKS07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1250.07,
+"cost": 1090.91,
+"unit": "U"
+},
+{
+"id": 200,
+"name": "Cheks gummies cystebiotine 10000mcg  bt/30 CKS07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1083.34,
+"cost": 945.45,
+"unit": "U"
+},
+{
+"id": 201,
+"name": "Cheks gummies D3 5000UI bt/30 CKS07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1250.07,
+"cost": 1090.91,
+"unit": "U"
+},
+{
+"id": 202,
+"name": "Cheks gummies Kids grow and glow bt/30 CKS07",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1166.67,
+"cost": 1018.19,
+"unit": "U"
+},
+{
+"id": 203,
+"name": "Cheks gummies kids magnesium calm bt/30 CKS07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 3,
+"price": 825.05,
+"cost": 720.0,
+"unit": "U"
+},
+{
+"id": 204,
+"name": "Cheks gummies Kids multivitamine bt/30 CKS07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1333.42,
+"cost": 1163.64,
+"unit": "U"
+},
+{
+"id": 205,
+"name": "Cheks gummies kids omega 3 bt/30 CKS07",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1250.07,
+"cost": 1050.91,
+"unit": "U"
+},
+{
+"id": 206,
+"name": "Cheks gummies magquad bt/30 CKS07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 3,
+"price": 916.72,
+"cost": 800.0,
+"unit": "U"
+},
+{
+"id": 207,
+"name": "Cheks gummies melatonine 5mg bt/30 CKS07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 5,
+"price": 1250.07,
+"cost": 1090.91,
+"unit": "U"
+},
+{
+"id": 208,
+"name": "Cheks gummies postbiotic bt/30 CKS07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1583.43,
+"cost": 1381.82,
+"unit": "U"
+},
+{
+"id": 209,
+"name": "Cheli bande de crepe 10CM CHL09",
+"category": "Parapharm",
+"brand": "CHELI",
+"qty": 1328,
+"price": 57.98,
+"cost": 52.71,
+"unit": "U"
+},
+{
+"id": 210,
+"name": "Cheli bande de crepe 7CM CHL09",
+"category": "Parapharm",
+"brand": "CHELI",
+"qty": 72,
+"price": 46.02,
+"cost": 40.02,
+"unit": "U"
+},
+{
+"id": 211,
+"name": "Cheli compresse purifie 7.5X7.5cm BT/10 CHL09",
+"category": "Parapharm",
+"brand": "CHELI",
+"qty": 28,
+"price": 58.85,
+"cost": 40.94,
+"unit": "U"
+},
+{
+"id": 212,
+"name": "Chicco- suc physio light neutre 6-16m sili 2pcs ref:6382 CHI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 1,
+"price": 1380.0,
+"cost": 1140.0,
+"unit": "U"
+},
+{
+"id": 213,
+"name": "Chicco-2135 porte sucette fantastic love ref : 2139 CHI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 2,
+"price": 770.5,
+"cost": 636.5,
+"unit": "U"
+},
+{
+"id": 214,
+"name": "Chicco-2142 teether pony fantastic love ref : 2146 (anneau de dentition silicone couleur) CHI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 2,
+"price": 1150.0,
+"cost": 902.5,
+"unit": "U"
+},
+{
+"id": 215,
+"name": "Chicco-4765 micro biberon pp silic +0m 60ml ref:4769 cl/6 CHI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 6,
+"price": 935.0,
+"cost": 760.0,
+"unit": "U"
+},
+{
+"id": 216,
+"name": "Chicco-4841 tetine silicone 2m+ 2pcs adjustable ref:2926 CHI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 11,
+"price": 870.0,
+"cost": 712.5,
+"unit": "U"
+},
+{
+"id": 217,
+"name": "Chicco-ciseaux a lames de chemise ref:9510 CHI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 5,
+"price": 1035.0,
+"cost": 855.0,
+"unit": "U"
+},
+{
+"id": 218,
+"name": "Chicco-ciseaux a ongles pour bb rose ref:9916 CHI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 4,
+"price": 1035.0,
+"cost": 855.0,
+"unit": "U"
+},
+{
+"id": 219,
+"name": "Chicco baby care kit",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 2,
+"price": 5289.0,
+"cost": 4100.0,
+"unit": "U"
+},
+{
+"id": 220,
+"name": "Chicco starter set NF(bib+sucette+tetine+goupillon)ref:3701 CHI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 1,
+"price": 6325.0,
+"cost": 5225.0,
+"unit": "U"
+},
+{
+"id": 221,
+"name": "Chicco tetine au toucher nature silicone flux medium 2M+ ref:8209 CHI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CHICCO",
+"qty": 1,
+"price": 747.5,
+"cost": 617.5,
+"unit": "U"
+},
+{
+"id": 222,
+"name": "CIC emplatre le lion PM -PEPPER- 40PCS CIC013",
+"category": "Dermo-Cos & Make-up",
+"brand": "CICRÊTES Algérie",
+"qty": 360,
+"price": 88.78,
+"cost": 68.88,
+"unit": "U"
+},
+{
+"id": 223,
+"name": "Cicrêtes control adapta aromatisé 6 b/24 CIC11",
+"category": "Dispositifs Médicaux",
+"brand": "CICRÊTES Algérie",
+"qty": 6,
+"price": 4045.84,
+"cost": 3619.96,
+"unit": "U"
+},
+{
+"id": 224,
+"name": "Cicrêtes control adapta nature 12 b/15 CIC11",
+"category": "Dispositifs Médicaux",
+"brand": "CICRÊTES Algérie",
+"qty": 6,
+"price": 4757.55,
+"cost": 4113.37,
+"unit": "U"
+},
+{
+"id": 225,
+"name": "Cicrêtes control adapta nature 3 b/54 CIC11",
+"category": "Dispositifs Médicaux",
+"brand": "CICRÊTES Algérie",
+"qty": 15,
+"price": 4990.61,
+"cost": 4410.63,
+"unit": "U"
+},
+{
+"id": 226,
+"name": "Cicrêtes control adapta nature 6 b/24 CIC11",
+"category": "Dispositifs Médicaux",
+"brand": "CICRÊTES Algérie",
+"qty": 6,
+"price": 3880.0,
+"cost": 3660.0,
+"unit": "U"
+},
+{
+"id": 227,
+"name": "Cicrêtes seringue pronto 5ml 800 pcs/cartons CIC13",
+"category": "Dispositifs Médicaux",
+"brand": "CICRÊTES Algérie",
+"qty": 800,
+"price": 11.46,
+"cost": 10.42,
+"unit": "U"
+},
+{
+"id": 228,
+"name": "Cicrêtes seringue pronto 5ml 800 pcs/cartons CIC13",
+"category": "Dispositifs Médicaux",
+"brand": "CICRÊTES Algérie",
+"qty": 600,
+"price": 11.46,
+"cost": 10.18,
+"unit": "U"
+},
+{
+"id": 229,
+"name": "Cicrêtes test de grossesse k7 p/50 c/3000 CIC11",
+"category": "Dispositifs Médicaux",
+"brand": "CICRÊTES Algérie",
+"qty": 150,
+"price": 55.0,
+"cost": 47.07,
+"unit": "U"
+},
+{
+"id": 230,
+"name": "Cicrêtes thermométre flexible CIC11",
+"category": "Dispositifs Médicaux",
+"brand": "CICRÊTES Algérie",
+"qty": 15,
+"price": 540.62,
+"cost": 461.58,
+"unit": "U"
+},
+{
+"id": 231,
+"name": "Cicrêtes thermométre non-flexible CIC11",
+"category": "Dispositifs Médicaux",
+"brand": "CICRÊTES Algérie",
+"qty": 16,
+"price": 492.38,
+"cost": 416.75,
+"unit": "U"
+},
+{
+"id": 232,
+"name": "Ciseaux simple pour boite a pharmacie",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 723,
+"price": 79.98,
+"cost": 65.0,
+"unit": "U"
+},
+{
+"id": 233,
+"name": "COCCO Tire lait en verre CCO06",
+"category": "Dermo-Cos & Make-up",
+"brand": "COCCO",
+"qty": 17,
+"price": 684.25,
+"cost": 535.5,
+"unit": "U"
+},
+{
+"id": 234,
+"name": "CocoNut eleis creme pour cheuveux 100GR CCN01",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 6,
+"price": 172.5,
+"cost": 138.0,
+"unit": "U"
+},
+{
+"id": 235,
+"name": "Coditex  blocage d'epaule (coude au corps) COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 17,
+"price": 1293.75,
+"cost": 879.75,
+"unit": "U"
+},
+{
+"id": 236,
+"name": "Coditex attelle de poignet T/L COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 40,
+"price": 598.0,
+"cost": 442.0,
+"unit": "U"
+},
+{
+"id": 237,
+"name": "Coditex attelle de poignet T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 42,
+"price": 598.0,
+"cost": 442.02,
+"unit": "U"
+},
+{
+"id": 238,
+"name": "Coditex attelle de pouce COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 50,
+"price": 485.0,
+"cost": 340.0,
+"unit": "U"
+},
+{
+"id": 239,
+"name": "Coditex ceinture après accouchement T/L COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 15,
+"price": 584.2,
+"cost": 431.88,
+"unit": "U"
+},
+{
+"id": 240,
+"name": "Coditex ceinture après accouchement T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 24,
+"price": 584.2,
+"cost": 433.66,
+"unit": "U"
+},
+{
+"id": 241,
+"name": "Coditex ceinture après accouchement T/XL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 17,
+"price": 584.2,
+"cost": 432.07,
+"unit": "U"
+},
+{
+"id": 242,
+"name": "Coditex ceinture après accouchement T/XXL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 13,
+"price": 584.2,
+"cost": 431.8,
+"unit": "U"
+},
+{
+"id": 243,
+"name": "Coditex ceinture lombaire 23cm T/L COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 15,
+"price": 1495.0,
+"cost": 1105.0,
+"unit": "U"
+},
+{
+"id": 244,
+"name": "Coditex ceinture lombaire 23cm T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 7,
+"price": 1495.0,
+"cost": 1105.0,
+"unit": "U"
+},
+{
+"id": 245,
+"name": "Coditex ceinture lombaire 23cm T/XL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 14,
+"price": 1495.0,
+"cost": 1105.0,
+"unit": "U"
+},
+{
+"id": 246,
+"name": "Coditex ceinture lombaire 23cm T/XXL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 7,
+"price": 1495.0,
+"cost": 1105.0,
+"unit": "U"
+},
+{
+"id": 247,
+"name": "Coditex ceinture lombaire 26cm T/L COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 17,
+"price": 1713.5,
+"cost": 1266.5,
+"unit": "U"
+},
+{
+"id": 248,
+"name": "Coditex ceinture lombaire 26cm T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 8,
+"price": 1713.5,
+"cost": 1266.5,
+"unit": "U"
+},
+{
+"id": 249,
+"name": "Coditex ceinture lombaire 26cm T/XL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 14,
+"price": 1713.5,
+"cost": 1266.5,
+"unit": "U"
+},
+{
+"id": 250,
+"name": "Coditex ceinture lombaire 26cm T/XXL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 4,
+"price": 1713.5,
+"cost": 1266.5,
+"unit": "U"
+},
+{
+"id": 251,
+"name": "Coditex ceinture lombaire 26cm T/XXXL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 7,
+"price": 1713.5,
+"cost": 1266.5,
+"unit": "U"
+},
+{
+"id": 252,
+"name": "Coditex ceinture ombilicale bébé COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 43,
+"price": 143.75,
+"cost": 89.63,
+"unit": "U"
+},
+{
+"id": 253,
+"name": "Coditex ceinture pour hernie ombilicale T/3xL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 15,
+"price": 1110.93,
+"cost": 821.13,
+"unit": "U"
+},
+{
+"id": 254,
+"name": "Coditex ceinture pour hernie ombilicale T/L COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 26,
+"price": 1110.9,
+"cost": 821.11,
+"unit": "U"
+},
+{
+"id": 255,
+"name": "Coditex ceinture pour hernie ombilicale T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 16,
+"price": 1110.9,
+"cost": 821.1,
+"unit": "U"
+},
+{
+"id": 256,
+"name": "Coditex ceinture pour hernie ombilicale T/S COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 23,
+"price": 1110.93,
+"cost": 826.51,
+"unit": "U"
+},
+{
+"id": 257,
+"name": "Coditex ceinture pour hernie ombilicale T/XL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 23,
+"price": 1110.9,
+"cost": 821.1,
+"unit": "U"
+},
+{
+"id": 258,
+"name": "Coditex ceinture pour hernie ombilicale T/XXL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 25,
+"price": 1110.93,
+"cost": 821.12,
+"unit": "U"
+},
+{
+"id": 259,
+"name": "Coditex chevillière reglable COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 85,
+"price": 165.0,
+"cost": 102.0,
+"unit": "U"
+},
+{
+"id": 260,
+"name": "Coditex collier cervical renforcé T/L COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 19,
+"price": 391.0,
+"cost": 289.56,
+"unit": "U"
+},
+{
+"id": 261,
+"name": "Coditex collier cervical renforcé T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 11,
+"price": 391.0,
+"cost": 289.58,
+"unit": "U"
+},
+{
+"id": 262,
+"name": "Coditex collier cervical renforcé T/XL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 1,
+"price": 435.2,
+"cost": 289.0,
+"unit": "U"
+},
+{
+"id": 263,
+"name": "Coditex collier cervical renforcé T/XXL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 11,
+"price": 391.0,
+"cost": 289.1,
+"unit": "U"
+},
+{
+"id": 264,
+"name": "Coditex collier cervical souple T/L COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 13,
+"price": 345.0,
+"cost": 255.0,
+"unit": "U"
+},
+{
+"id": 265,
+"name": "Coditex collier cervical souple T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 9,
+"price": 345.0,
+"cost": 255.0,
+"unit": "U"
+},
+{
+"id": 266,
+"name": "Coditex collier cervical souple T/XL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 17,
+"price": 385.0,
+"cost": 255.0,
+"unit": "U"
+},
+{
+"id": 267,
+"name": "Coditex collier cervical souple T/XXL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 20,
+"price": 385.0,
+"cost": 255.0,
+"unit": "U"
+},
+{
+"id": 268,
+"name": "Coditex echarpe d'epaule adulte  T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 41,
+"price": 300.0,
+"cost": 212.5,
+"unit": "U"
+},
+{
+"id": 269,
+"name": "Coditex echarpe d'epaule adulte T/L  COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 49,
+"price": 300.0,
+"cost": 212.5,
+"unit": "U"
+},
+{
+"id": 270,
+"name": "Coditex echarpe d'epaule adulte T/XL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 45,
+"price": 300.0,
+"cost": 212.5,
+"unit": "U"
+},
+{
+"id": 271,
+"name": "Coditex echarpe d'epaule pour enfant COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 31,
+"price": 350.0,
+"cost": 238.0,
+"unit": "U"
+},
+{
+"id": 272,
+"name": "Coditex gaine abdominale T/L COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 18,
+"price": 644.0,
+"cost": 476.0,
+"unit": "U"
+},
+{
+"id": 273,
+"name": "Coditex gaine abdominale T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 20,
+"price": 644.0,
+"cost": 476.0,
+"unit": "U"
+},
+{
+"id": 274,
+"name": "Coditex gaine abdominale T/XL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 24,
+"price": 644.0,
+"cost": 476.0,
+"unit": "U"
+},
+{
+"id": 275,
+"name": "Coditex gaine abdominale T/XXL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 24,
+"price": 644.0,
+"cost": 476.0,
+"unit": "U"
+},
+{
+"id": 276,
+"name": "Coditex genouillière réglable COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 154,
+"price": 350.0,
+"cost": 229.5,
+"unit": "U"
+},
+{
+"id": 277,
+"name": "Coditex redress dos T/L COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 30,
+"price": 1127.02,
+"cost": 833.0,
+"unit": "U"
+},
+{
+"id": 278,
+"name": "Coditex redress dos T/M COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 13,
+"price": 1127.0,
+"cost": 833.0,
+"unit": "U"
+},
+{
+"id": 279,
+"name": "Coditex redress dos T/S COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 18,
+"price": 1127.0,
+"cost": 833.0,
+"unit": "U"
+},
+{
+"id": 280,
+"name": "Coditex redress dos T/XL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 27,
+"price": 1127.0,
+"cost": 833.0,
+"unit": "U"
+},
+{
+"id": 281,
+"name": "Coditex redress dos T/XXL COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 27,
+"price": 1127.02,
+"cost": 833.02,
+"unit": "U"
+},
+{
+"id": 282,
+"name": "Coditex serre poignet de maintien COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 85,
+"price": 197.5,
+"cost": 134.3,
+"unit": "U"
+},
+{
+"id": 283,
+"name": "Coditex serre poignet réglable COD10",
+"category": "Matériel orthopédique",
+"brand": "CODITEX",
+"qty": 90,
+"price": 81.0,
+"cost": 51.0,
+"unit": "U"
+},
+{
+"id": 284,
+"name": "Colgate DENT MAX FRESH  CGT04",
+"category": "Hygiène bucco-dentaire",
+"brand": "COLGATE",
+"qty": 2,
+"price": 480.0,
+"cost": 400.0,
+"unit": "U"
+},
+{
+"id": 285,
+"name": "Colgate FAMILY PACK 4PCS medium  CLG04",
+"category": "Dermo-Cos & Make-up",
+"brand": "COLGATE",
+"qty": 18,
+"price": 384.0,
+"cost": 320.0,
+"unit": "U"
+},
+{
+"id": 286,
+"name": "Cotonnhyde coton 100g COTONNHYDE09",
+"category": "Parapharm",
+"brand": "LOTUS pharm",
+"qty": 6960,
+"price": 105.56,
+"cost": 76.12,
+"unit": "U"
+},
+{
+"id": 287,
+"name": "Cotonnhyde coton 25g COTONNHYDE09",
+"category": "Parapharm",
+"brand": "LOTUS pharm",
+"qty": 16415,
+"price": 39.0,
+"cost": 28.09,
+"unit": "U"
+},
+{
+"id": 288,
+"name": "Cotonnhyde coton 50g COTONNHYDE09",
+"category": "Parapharm",
+"brand": "LOTUS pharm",
+"qty": 7800,
+"price": 57.72,
+"cost": 41.54,
+"unit": "U"
+},
+{
+"id": 289,
+"name": "Cotonnyde coton tige adulte bt300 c/36 CTD02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "LOTUS pharm",
+"qty": 8582,
+"price": 113.22,
+"cost": 83.04,
+"unit": "U"
+},
+{
+"id": 290,
+"name": "Cotonnyde coton tige BB bt/50 C/36 CTD02",
+"category": "Parapharm",
+"brand": "COTONNHYDE",
+"qty": 371,
+"price": 69.0,
+"cost": 48.0,
+"unit": "U"
+},
+{
+"id": 291,
+"name": "Cotonnyhde disque demaquillant p70",
+"category": "Parapharm",
+"brand": "LOTUS pharm",
+"qty": 38,
+"price": 100.1,
+"cost": 75.0,
+"unit": "U"
+},
+{
+"id": 292,
+"name": "Coudiere standard",
+"category": "Matériel orthopédique",
+"brand": "Sans marque",
+"qty": 2,
+"price": 300.0,
+"cost": 225.0,
+"unit": "U"
+},
+{
+"id": 293,
+"name": "CP Ecrinal lotion HOMME 200ml ref:0350",
+"category": "Dermo-Cos & Make-up",
+"brand": "ECRINAL",
+"qty": 2,
+"price": 2100.0,
+"cost": 1850.0,
+"unit": "U"
+},
+{
+"id": 294,
+"name": "CP Ecrinal vernis amer 10ml ref:8855",
+"category": "Dermo-Cos & Make-up",
+"brand": "ECRINAL",
+"qty": 3,
+"price": 1552.5,
+"cost": 1350.0,
+"unit": "U"
+},
+{
+"id": 295,
+"name": "Crown serum eclaircissant vit C 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 396.8,
+"cost": 310.0,
+"unit": "U"
+},
+{
+"id": 296,
+"name": "Cur-colic eau digestive SANS GLUTEN 120ML CUC07",
+"category": "Compléments alimentaires",
+"brand": "CUR-COLIC",
+"qty": 5,
+"price": 616.67,
+"cost": 340.0,
+"unit": "U"
+},
+{
+"id": 297,
+"name": "Cur betadine 1% 60ml",
+"category": "Hygiène bucco-dentaire",
+"brand": "Sans marque",
+"qty": 125,
+"price": 125.0,
+"cost": 87.08,
+"unit": "U"
+},
+{
+"id": 298,
+"name": "Deep freeze pommade cold menthol 35gr DEP09",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 1,
+"price": 325.0,
+"cost": 295.45,
+"unit": "U"
+},
+{
+"id": 299,
+"name": "Deniz assiette bébé duo REF: 764 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 4,
+"price": 211.2,
+"cost": 179.52,
+"unit": "U"
+},
+{
+"id": 300,
+"name": "Deniz attache sucette REF 310: DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 38,
+"price": 114.4,
+"cost": 97.24,
+"unit": "U"
+},
+{
+"id": 301,
+"name": "Deniz Bib 120ml plastique A/B REF: 225 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 56,
+"price": 189.5,
+"cost": 147.03,
+"unit": "U"
+},
+{
+"id": 302,
+"name": "Deniz Bib 120ml plastique S/B REF: 220 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 42,
+"price": 189.5,
+"cost": 143.55,
+"unit": "U"
+},
+{
+"id": 303,
+"name": "Deniz Bib 120ml verre A/B REF: 261 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 22,
+"price": 247.5,
+"cost": 210.38,
+"unit": "U"
+},
+{
+"id": 304,
+"name": "Deniz Bib 240ml plastique A/B REF: 235 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 126,
+"price": 199.8,
+"cost": 155.73,
+"unit": "U"
+},
+{
+"id": 305,
+"name": "Deniz Bib 240ml plastique carré A/B REF: 234 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 34,
+"price": 196.9,
+"cost": 155.73,
+"unit": "U"
+},
+{
+"id": 306,
+"name": "Deniz Bib 240ml plastique S/B REF: 230 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 135,
+"price": 199.98,
+"cost": 152.25,
+"unit": "U"
+},
+{
+"id": 307,
+"name": "Deniz Bib 240ml silicone S/B REF: 280 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 36,
+"price": 549.95,
+"cost": 430.65,
+"unit": "U"
+},
+{
+"id": 308,
+"name": "Deniz Bib 240ml verre A/B REF: 266 DNZ04",
+"category": "Hygiène bucco-dentaire",
+"brand": "DENIZ",
+"qty": 65,
+"price": 269.08,
+"cost": 204.45,
+"unit": "U"
+},
+{
+"id": 309,
+"name": "Deniz Bib 240ml verre S/B REF: 263 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 30,
+"price": 258.75,
+"cost": 195.75,
+"unit": "U"
+},
+{
+"id": 310,
+"name": "Deniz Bib 260ml verre S/B REF: 272 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 45,
+"price": 577.5,
+"cost": 456.75,
+"unit": "U"
+},
+{
+"id": 311,
+"name": "Deniz Bib cuillére 90ml A/ventouse REF: 320 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 8,
+"price": 467.5,
+"cost": 397.38,
+"unit": "U"
+},
+{
+"id": 312,
+"name": "Deniz cuilléres en silicone REF: 311 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 32,
+"price": 328.9,
+"cost": 279.56,
+"unit": "U"
+},
+{
+"id": 313,
+"name": "Deniz masse gencive a eau REF:314 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 25,
+"price": 207.9,
+"cost": 176.72,
+"unit": "U"
+},
+{
+"id": 314,
+"name": "Deniz masse gencive a eau REF:315 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 31,
+"price": 214.5,
+"cost": 182.32,
+"unit": "U"
+},
+{
+"id": 315,
+"name": "Deniz masse gencive animaux REF:732 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 36,
+"price": 127.6,
+"cost": 108.46,
+"unit": "U"
+},
+{
+"id": 316,
+"name": "Deniz rince nez en silicone REF: 752 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 17,
+"price": 218.9,
+"cost": 186.06,
+"unit": "U"
+},
+{
+"id": 317,
+"name": "Deniz sucette silicone NN REF: 531 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 144,
+"price": 89.0,
+"cost": 64.38,
+"unit": "U"
+},
+{
+"id": 318,
+"name": "Deniz sucette silicone physio REF: 532 DNZ04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "DENIZ",
+"qty": 96,
+"price": 89.0,
+"cost": 64.38,
+"unit": "U"
+},
+{
+"id": 319,
+"name": "Derma soufre savon liquide peau sensible 250ml drm01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PHARMAGHREB",
+"qty": 56,
+"price": 309.0,
+"cost": 264.0,
+"unit": "U"
+},
+{
+"id": 320,
+"name": "Dermab creme anti taches eclaircissante 40ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMA SOUFRE",
+"qty": 2,
+"price": 2299.0,
+"cost": 2090.0,
+"unit": "U"
+},
+{
+"id": 321,
+"name": "Dermab creme de jour pot 40ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1249.98,
+"cost": 1136.35,
+"unit": "U"
+},
+{
+"id": 322,
+"name": "Dermab creme lavante peau seche 300ml",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "Sans marque",
+"qty": 2,
+"price": 999.99,
+"cost": 909.08,
+"unit": "U"
+},
+{
+"id": 323,
+"name": "Dermab creme soins hydratants anti age pot 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1208.33,
+"cost": 1098.48,
+"unit": "U"
+},
+{
+"id": 324,
+"name": "Dermab creme solaire SPF50+ anti brillance 50ml+",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1438.8,
+"cost": 1320.0,
+"unit": "U"
+},
+{
+"id": 325,
+"name": "Dermab gel nettoyant BHA vit B5 300ml avec pompe",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 4,
+"price": 1393.93,
+"cost": 1212.11,
+"unit": "U"
+},
+{
+"id": 326,
+"name": "Dermab gel nettoyant charbon actif 300ml avec pompe",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1132.57,
+"cost": 984.84,
+"unit": "U"
+},
+{
+"id": 327,
+"name": "Dermaeos cicaram B5 creme reparatrice peau seche et sensible 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 2666.68,
+"cost": 2424.25,
+"unit": "U"
+},
+{
+"id": 328,
+"name": "Dermaeos creme a complex eclaircissante intense spf50+",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 3750.0,
+"cost": 3409.09,
+"unit": "U"
+},
+{
+"id": 329,
+"name": "Dermaeos creme anti tache brune 30ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 3333.33,
+"cost": 3030.3,
+"unit": "U"
+},
+{
+"id": 330,
+"name": "Dermaeos hair care shp reparateur fortifiant tout type de cheveux 300ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 2416.68,
+"cost": 2196.98,
+"unit": "U"
+},
+{
+"id": 331,
+"name": "Dermaeos uveleos creme solaire hydratante spf50+ peaux normale a seche 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 2916.67,
+"cost": 2651.52,
+"unit": "U"
+},
+{
+"id": 332,
+"name": "Dermaeos Uveleos Creme Solaire Matifiante Peaux Mixte et Grasse F/50ML R:1939.",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 2916.67,
+"cost": 2651.52,
+"unit": "U"
+},
+{
+"id": 333,
+"name": "Dermagor creme au collagene 40ml DG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMAGOR",
+"qty": 4,
+"price": 1050.0,
+"cost": 928.2,
+"unit": "U"
+},
+{
+"id": 334,
+"name": "Dermagor simulcium G3 creme anti vergeture 75ml DG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMAGOR",
+"qty": 1,
+"price": 1302.46,
+"cost": 1184.05,
+"unit": "U"
+},
+{
+"id": 335,
+"name": "DERMAGOR suppletive visage 40",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMAGOR",
+"qty": 3,
+"price": 1160.0,
+"cost": 1047.2,
+"unit": "U"
+},
+{
+"id": 336,
+"name": "Dermapro plus huile amande douce 60ml DPP01",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 3,
+"price": 129.95,
+"cost": 101.7,
+"unit": "U"
+},
+{
+"id": 337,
+"name": "Dermapro plus huile recin 60ml DPP01",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 18,
+"price": 112.7,
+"cost": 88.2,
+"unit": "U"
+},
+{
+"id": 338,
+"name": "Dermapro savon marseille a la glycerine 110grvert c/60",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 35,
+"price": 98.4,
+"cost": 73.8,
+"unit": "U"
+},
+{
+"id": 339,
+"name": "Dermilyne bio poux shampooing anti-poux 200ml DEL01",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERM & SENS",
+"qty": 29,
+"price": 387.5,
+"cost": 158.52,
+"unit": "U"
+},
+{
+"id": 340,
+"name": "Dermilyne bio romarin shampooing anti-chute 200ml c/27 DEL01",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERM & SENS",
+"qty": 44,
+"price": 708.34,
+"cost": 317.16,
+"unit": "U"
+},
+{
+"id": 341,
+"name": "Dermilyne biocade shp al'huile de cade 200ml DEL01",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "DERMILYNE",
+"qty": 60,
+"price": 916.67,
+"cost": 273.64,
+"unit": "U"
+},
+{
+"id": 342,
+"name": "Dermilyne gynodermix creme 30gr mycoses vaginales et vulvaires",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMILYNE",
+"qty": 3,
+"price": 329.16,
+"cost": 294.77,
+"unit": "U"
+},
+{
+"id": 343,
+"name": "Dermilyne hemo plus crème hémorroïdes fissures anales 30gr c/110 DEL01",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMILYNE LAB",
+"qty": 2,
+"price": 541.66,
+"cost": 220.71,
+"unit": "U"
+},
+{
+"id": 344,
+"name": "Dermilyne lentiscia crème cicatrice et brûlure 30gr DEL01",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMILYNE LAB",
+"qty": 64,
+"price": 725.0,
+"cost": 304.83,
+"unit": "U"
+},
+{
+"id": 345,
+"name": "Dermilyne mamocalm creme anti crevasses 50gr",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMILYNE",
+"qty": 12,
+"price": 1000.0,
+"cost": 639.66,
+"unit": "U"
+},
+{
+"id": 346,
+"name": "Dermilyne melaskare creme escarres pied diabetique 30gr",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMILYNE",
+"qty": 3,
+"price": 1000.0,
+"cost": 746.27,
+"unit": "U"
+},
+{
+"id": 347,
+"name": "Dermilyne melaskare creme escarres pied diabetique 75gr",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMILYNE",
+"qty": 3,
+"price": 2083.32,
+"cost": 1554.72,
+"unit": "U"
+},
+{
+"id": 348,
+"name": "Dermilyne titanoreilyne creme hemorroidaire 30gr",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMILYNE",
+"qty": 7,
+"price": 541.66,
+"cost": 285.34,
+"unit": "U"
+},
+{
+"id": 349,
+"name": "DERMO STYLE ATOPICREAM creme nourrissante corps 200gr DST",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMO STYLE",
+"qty": 20,
+"price": 1416.66,
+"cost": 966.96,
+"unit": "U"
+},
+{
+"id": 350,
+"name": "DERMO STYLE dermo HEC gel tube 20GR DRS01",
+"category": "Dermo-Cos & Make-up",
+"brand": "DERMO STYLE",
+"qty": 12,
+"price": 666.66,
+"cost": 320.83,
+"unit": "U"
+},
+{
+"id": 351,
+"name": "DERMO STYLE mag pro sirop 100ml DST01",
+"category": "Compléments alimentaires",
+"brand": "DERMO STYLE",
+"qty": 2,
+"price": 291.67,
+"cost": 133.19,
+"unit": "U"
+},
+{
+"id": 352,
+"name": "Devlor Alopelios anti chute bt30 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 5,
+"price": 2488.17,
+"cost": 2148.87,
+"unit": "U"
+},
+{
+"id": 353,
+"name": "DEVLOR alopélios serum anti chute 40ml DVR07",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 3,
+"price": 3166.67,
+"cost": 2597.82,
+"unit": "U"
+},
+{
+"id": 354,
+"name": "DEVLOR alopélios shamp énergisant anti chute 200ml DVR07",
+"category": "Dermo-Cos & Make-up",
+"brand": "DEVLOR",
+"qty": 1,
+"price": 1962.5,
+"cost": 1669.92,
+"unit": "U"
+},
+{
+"id": 355,
+"name": "Devlor biotine forte 5000mg bt/30 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 2,
+"price": 1238.16,
+"cost": 1013.04,
+"unit": "U"
+},
+{
+"id": 356,
+"name": "Devlor collagene 1000+biotine bt30 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 7,
+"price": 2375.79,
+"cost": 2072.1,
+"unit": "U"
+},
+{
+"id": 357,
+"name": "Devlor D3 50000 DVR07",
+"category": "Parapharm",
+"brand": "DEVLOR",
+"qty": 4,
+"price": 753.17,
+"cost": 640.68,
+"unit": "U"
+},
+{
+"id": 358,
+"name": "Devlor Endormel melatonine bt20 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 10,
+"price": 825.0,
+"cost": 705.0,
+"unit": "U"
+},
+{
+"id": 359,
+"name": "Devlor gestadev grossesse bt20 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 3,
+"price": 1465.16,
+"cost": 1238.73,
+"unit": "U"
+},
+{
+"id": 360,
+"name": "Devlor magnesium 400 + D3 2000 UI bt20 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 4,
+"price": 996.32,
+"cost": 843.56,
+"unit": "U"
+},
+{
+"id": 361,
+"name": "Devlor magnesium 400+B1+B6+B12 bt20 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 14,
+"price": 916.66,
+"cost": 785.71,
+"unit": "U"
+},
+{
+"id": 362,
+"name": "Devlor menopause bt30 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 4,
+"price": 1642.33,
+"cost": 1493.03,
+"unit": "U"
+},
+{
+"id": 363,
+"name": "Devlor multivitamine pour elle energie et vitalite feminine bt20 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 5,
+"price": 954.16,
+"cost": 815.37,
+"unit": "U"
+},
+{
+"id": 364,
+"name": "DEVLOR niacide-b3 gel anti acné 5% niacinamide DVR07",
+"category": "Dermo-Cos & Make-up",
+"brand": "DEVLOR",
+"qty": 1,
+"price": 1750.0,
+"cost": 1375.14,
+"unit": "U"
+},
+{
+"id": 365,
+"name": "Devlor omega 3 1000mg bt30 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 12,
+"price": 1325.36,
+"cost": 1176.58,
+"unit": "U"
+},
+{
+"id": 366,
+"name": "Devlor omega 3 2000mg bt90 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 1,
+"price": 3629.15,
+"cost": 3006.02,
+"unit": "U"
+},
+{
+"id": 367,
+"name": "Devlor panoderm 4% gel nettoyant anti acne 105gr",
+"category": "Dermo-Cos & Make-up",
+"brand": "DEVLOR",
+"qty": 1,
+"price": 2019.0,
+"cost": 1674.42,
+"unit": "U"
+},
+{
+"id": 368,
+"name": "Devlor scorbol zinc 30mg+vit c 1000mg+d3 800 u.i bt/30 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 7,
+"price": 1165.0,
+"cost": 991.64,
+"unit": "U"
+},
+{
+"id": 369,
+"name": "Devlor selenium 100 bt20 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 2,
+"price": 1058.34,
+"cost": 938.07,
+"unit": "U"
+},
+{
+"id": 370,
+"name": "Devlor supraferon b9 bt30 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 2,
+"price": 1296.04,
+"cost": 1178.21,
+"unit": "U"
+},
+{
+"id": 371,
+"name": "Devlor visio force 20mg bt20 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 14,
+"price": 2004.91,
+"cost": 1689.24,
+"unit": "U"
+},
+{
+"id": 372,
+"name": "Devlor vitamine E400 twist off  bt20 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 5,
+"price": 832.08,
+"cost": 711.05,
+"unit": "U"
+},
+{
+"id": 373,
+"name": "Devlor zinc liposomal 50mg bt/40 DVR07",
+"category": "Compléments alimentaires",
+"brand": "DEVLOR",
+"qty": 2,
+"price": 1324.08,
+"cost": 1083.33,
+"unit": "U"
+},
+{
+"id": 374,
+"name": "Dhan naam haba souda pommade huile autruche douleur musculaire 30gr",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 7,
+"price": 225.0,
+"cost": 184.0,
+"unit": "U"
+},
+{
+"id": 375,
+"name": "Di hiposol eau de cologne (senteur) bébé 250ml  HIP06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "HIPOSOL",
+"qty": 32,
+"price": 266.67,
+"cost": 237.0,
+"unit": "U"
+},
+{
+"id": 376,
+"name": "Di hiposol eau de cologne bébé 400 ml c/20 HIP06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "HIPOSOL",
+"qty": 2,
+"price": 323.4,
+"cost": 288.75,
+"unit": "U"
+},
+{
+"id": 377,
+"name": "Di hiposol huile de massage pour bébé 250ml HIP06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "HIPOSOL",
+"qty": 3,
+"price": 295.0,
+"cost": 258.23,
+"unit": "U"
+},
+{
+"id": 378,
+"name": "Di hiposol lait bébé 250ml c/12 HIP06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "HIPOSOL",
+"qty": 20,
+"price": 231.33,
+"cost": 203.53,
+"unit": "U"
+},
+{
+"id": 379,
+"name": "Di hiposol lait bébé 400ml c/20 HIP06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "HIPOSOL",
+"qty": 1,
+"price": 299.98,
+"cost": 265.0,
+"unit": "U"
+},
+{
+"id": 380,
+"name": "Di hiposol shampooing bébé 400 ml c/20 HIP06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "HIPOSOL",
+"qty": 20,
+"price": 242.03,
+"cost": 210.0,
+"unit": "U"
+},
+{
+"id": 381,
+"name": "Di p’tit ours eau de cologne (senteur) bébé 250 ml c/24 PTI06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "P'TIT OURS",
+"qty": 31,
+"price": 195.5,
+"cost": 162.14,
+"unit": "U"
+},
+{
+"id": 382,
+"name": "Diamond BAD MEDIUM DMD04",
+"category": "Hygiène bucco-dentaire",
+"brand": "DIADERMINE",
+"qty": 180,
+"price": 89.99,
+"cost": 57.26,
+"unit": "U"
+},
+{
+"id": 383,
+"name": "DMI Perevex preservatif bt/12 c/9",
+"category": "Parapharm",
+"brand": "DMI",
+"qty": 6,
+"price": 4640.25,
+"cost": 4035.0,
+"unit": "U"
+},
+{
+"id": 384,
+"name": "DMI Perevex preservatif bt/3 c/36",
+"category": "Parapharm",
+"brand": "DMI",
+"qty": 7,
+"price": 3229.2,
+"cost": 2808.0,
+"unit": "U"
+},
+{
+"id": 385,
+"name": "DMI Perevex preservatif bt/6 c/18",
+"category": "Parapharm",
+"brand": "DMI",
+"qty": 4,
+"price": 2980.8,
+"cost": 2592.07,
+"unit": "U"
+},
+{
+"id": 386,
+"name": "DMI prevex preservatif aromatise gout banane bt/6",
+"category": "Parapharm",
+"brand": "DMI",
+"qty": 2,
+"price": 3099.97,
+"cost": 2592.0,
+"unit": "U"
+},
+{
+"id": 387,
+"name": "DMI prevex preservatif aromatise gout chocolat bt/6",
+"category": "Parapharm",
+"brand": "DMI",
+"qty": 2,
+"price": 3099.97,
+"cost": 2592.0,
+"unit": "U"
+},
+{
+"id": 388,
+"name": "DMI prevex preservatif aromatise gout fraise bt/6",
+"category": "Parapharm",
+"brand": "DMI",
+"qty": 2,
+"price": 3099.97,
+"cost": 2592.0,
+"unit": "U"
+},
+{
+"id": 389,
+"name": "DMI prevex preservatif aromatise gout vanille bt/6",
+"category": "Parapharm",
+"brand": "DMI",
+"qty": 1,
+"price": 3099.97,
+"cost": 2592.0,
+"unit": "U"
+},
+{
+"id": 390,
+"name": "DMI Test+ test grossesse STYLO bt/50 DMI011",
+"category": "Parapharm",
+"brand": "DMI",
+"qty": 46,
+"price": 162.1,
+"cost": 120.61,
+"unit": "U"
+},
+{
+"id": 391,
+"name": "Dolpina Neuro bt/30 DLP07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 8,
+"price": 1458.34,
+"cost": 1301.85,
+"unit": "U"
+},
+{
+"id": 392,
+"name": "Doppel hand magnesium sommeil (MAG350mg) bt/30 DPH07",
+"category": "Compléments alimentaires",
+"brand": "DOPPEL HAND",
+"qty": 4,
+"price": 915.0,
+"cost": 735.94,
+"unit": "U"
+},
+{
+"id": 393,
+"name": "Doppel hand omega Vision (omega3 600mg) bt30 gelules DPH07",
+"category": "Compléments alimentaires",
+"brand": "DOPPEL HAND",
+"qty": 13,
+"price": 1166.67,
+"cost": 950.31,
+"unit": "U"
+},
+{
+"id": 394,
+"name": "Doppel hand vitE 410mg  bt/30 cps DPH07",
+"category": "Compléments alimentaires",
+"brand": "DOPPEL HAND",
+"qty": 33,
+"price": 816.66,
+"cost": 679.91,
+"unit": "U"
+},
+{
+"id": 395,
+"name": "DOSE VITAL Abaisse langue bt/100",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 444,
+"price": 200.0,
+"cost": 99.31,
+"unit": "U"
+},
+{
+"id": 396,
+"name": "Dove savon beauty cream 3en1 BST02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "DOVE",
+"qty": 9,
+"price": 239.95,
+"cost": 205.0,
+"unit": "U"
+},
+{
+"id": 397,
+"name": "DR gloves gant keratine pro T/L bt/10pcs",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 9,
+"price": 194.3,
+"cost": 164.5,
+"unit": "U"
+},
+{
+"id": 398,
+"name": "DR gloves gant keratine pro T/M bt/10pcs",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 9,
+"price": 194.3,
+"cost": 165.38,
+"unit": "U"
+},
+{
+"id": 399,
+"name": "DR gloves gant keratine pro T/S bt/10pcs",
+"category": "Parapharm",
+"brand": "RBB",
+"qty": 4,
+"price": 194.3,
+"cost": 162.2,
+"unit": "U"
+},
+{
+"id": 400,
+"name": "DR gloves gant latex T/M bt/10pcs",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 10,
+"price": 194.3,
+"cost": 160.51,
+"unit": "U"
+},
+{
+"id": 401,
+"name": "DR ming ginsing appetit+ stimulant appetit naturel 280mg bt/60 DRM07",
+"category": "Compléments alimentaires",
+"brand": "DR MING",
+"qty": 1,
+"price": 2127.5,
+"cost": 1850.0,
+"unit": "U"
+},
+{
+"id": 402,
+"name": "EimaSol BDB extra cool 250ml",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROG",
+"qty": 9222,
+"price": 250.0,
+"cost": 184.0,
+"unit": "U"
+},
+{
+"id": 403,
+"name": "EimaSol BDB menthe 250ml",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROG",
+"qty": 296,
+"price": 250.0,
+"cost": 185.0,
+"unit": "U"
+},
+{
+"id": 404,
+"name": "EimaSol BDB soft 250ml",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROG",
+"qty": 285,
+"price": 250.0,
+"cost": 185.0,
+"unit": "U"
+},
+{
+"id": 405,
+"name": "EKM deambulateur avec roues E04",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 1,
+"price": 5023.2,
+"cost": 3894.61,
+"unit": "U"
+},
+{
+"id": 406,
+"name": "El farabi Keltinerf fort bt/20",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 5,
+"price": 1166.67,
+"cost": 1040.12,
+"unit": "U"
+},
+{
+"id": 407,
+"name": "EL mouahiddine pastilles bonbon gout menth",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 18,
+"price": 65.81,
+"cost": 53.54,
+"unit": "U"
+},
+{
+"id": 408,
+"name": "EL SAIN cire depilatoire visage et corps SAN02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "EL-SAIN",
+"qty": 8,
+"price": 92.3,
+"cost": 71.0,
+"unit": "U"
+},
+{
+"id": 409,
+"name": "Energia D3 50000 bt/12 cmp ERG07",
+"category": "Compléments alimentaires",
+"brand": "ENERGIA",
+"qty": 3,
+"price": 641.66,
+"cost": 448.72,
+"unit": "U"
+},
+{
+"id": 410,
+"name": "Energia grossesse bt/30 cmp ERG07",
+"category": "Compléments alimentaires",
+"brand": "ENERGIA",
+"qty": 6,
+"price": 1158.37,
+"cost": 877.55,
+"unit": "U"
+},
+{
+"id": 411,
+"name": "Energia Omega 3 1000 mg bt/30 cmp ERG07",
+"category": "Compléments alimentaires",
+"brand": "ENERGIA",
+"qty": 17,
+"price": 1241.66,
+"cost": 940.65,
+"unit": "U"
+},
+{
+"id": 412,
+"name": "Energia Omega 3 500 mg bt/30 cmp ERG07",
+"category": "Compléments alimentaires",
+"brand": "ENERGIA",
+"qty": 2,
+"price": 808.34,
+"cost": 612.38,
+"unit": "U"
+},
+{
+"id": 413,
+"name": "Eucerin ecran oil control dry touch SPF 50+",
+"category": "Dermo-Cos & Make-up",
+"brand": "EUCERIN",
+"qty": 5,
+"price": 3300.0,
+"cost": 2550.0,
+"unit": "U"
+},
+{
+"id": 414,
+"name": "Evegiene gel intime 180 ml",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "PROG",
+"qty": 766,
+"price": 530.0,
+"cost": 265.0,
+"unit": "U"
+},
+{
+"id": 415,
+"name": "EXAM GLOVE gant latex large b/100 EGL11",
+"category": "Dispositifs Médicaux",
+"brand": "EXAM GLOVES",
+"qty": 15,
+"price": 1100.0,
+"cost": 925.28,
+"unit": "U"
+},
+{
+"id": 416,
+"name": "Expert one lotion anti poux 200ml",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "Sans marque",
+"qty": 19,
+"price": 458.34,
+"cost": 352.56,
+"unit": "U"
+},
+{
+"id": 417,
+"name": "Expert one savon lait de chevre 100gr",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "Sans marque",
+"qty": 4,
+"price": 117.78,
+"cost": 100.8,
+"unit": "U"
+},
+{
+"id": 418,
+"name": "Expert one savon psoriasis 100gr",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "Sans marque",
+"qty": 3,
+"price": 165.0,
+"cost": 140.0,
+"unit": "U"
+},
+{
+"id": 419,
+"name": "Expert one shamp anti poux 200ml",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "Sans marque",
+"qty": 15,
+"price": 458.33,
+"cost": 352.56,
+"unit": "U"
+},
+{
+"id": 420,
+"name": "Expert one talc anti-poux 100gr",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "Sans marque",
+"qty": 3,
+"price": 207.14,
+"cost": 180.0,
+"unit": "U"
+},
+{
+"id": 421,
+"name": "Extra medic Bande de gaze bt/25",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 1924,
+"price": 28.6,
+"cost": 22.0,
+"unit": "U"
+},
+{
+"id": 422,
+"name": "Fixaderm sterile 10cm X 25cm FIX",
+"category": "Parapharm",
+"brand": "FIX CAST",
+"qty": 35,
+"price": 454.68,
+"cost": 395.37,
+"unit": "U"
+},
+{
+"id": 423,
+"name": "Flore Coffert Perfect Skin (Gel Nettoyan+Creme Hydratante+Serum)",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 4166.66,
+"cost": 3788.4,
+"unit": "U"
+},
+{
+"id": 424,
+"name": "Flore Perfect Hair Masque Capillaire Anti Chute POT 150 GRS REF:0063",
+"category": "Dermo-Cos & Make-up",
+"brand": "FLAMINGO",
+"qty": 1,
+"price": 2166.66,
+"cost": 1969.78,
+"unit": "U"
+},
+{
+"id": 425,
+"name": "Flore Perfect Skin Creme Hydratante A La NIACINAM POT 100GR REF:0087",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1583.33,
+"cost": 1439.9,
+"unit": "U"
+},
+{
+"id": 426,
+"name": "Flore Perfect Skin GEL Nettoyant A L'Acide Salicylique ET Glycerine 200ML REF:0117",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1458.33,
+"cost": 1325.5,
+"unit": "U"
+},
+{
+"id": 427,
+"name": "Flore Shiny Capillaire Serum B/30 ML REF:0056",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1666.66,
+"cost": 1515.15,
+"unit": "U"
+},
+{
+"id": 428,
+"name": "Floxia creme mains nourrisantes 40ml FLX01",
+"category": "Dermo-Cos & Make-up",
+"brand": "FLOXIA",
+"qty": 1,
+"price": 1000.0,
+"cost": 872.0,
+"unit": "U"
+},
+{
+"id": 429,
+"name": "Floxia micro emulsion controle taches et teint hyper pigmentation 40ml bleu FLX01",
+"category": "Dermo-Cos & Make-up",
+"brand": "FLOXIA",
+"qty": 2,
+"price": 1729.17,
+"cost": 1403.46,
+"unit": "U"
+},
+{
+"id": 430,
+"name": "Floxia savon dermocosmetique exfoliant 100gr bleu FLX01",
+"category": "Dermo-Cos & Make-up",
+"brand": "FLOXIA",
+"qty": 3,
+"price": 1158.0,
+"cost": 1010.19,
+"unit": "U"
+},
+{
+"id": 431,
+"name": "Floxia savon dermocosmetique nourrissant peaux seches 100gr FLX01",
+"category": "Dermo-Cos & Make-up",
+"brand": "FLOXIA",
+"qty": 1,
+"price": 1158.0,
+"cost": 1010.91,
+"unit": "U"
+},
+{
+"id": 432,
+"name": "Flux care shamp Avocat 265ML FLX02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "FLUX",
+"qty": 2,
+"price": 237.95,
+"cost": 203.38,
+"unit": "U"
+},
+{
+"id": 433,
+"name": "FORTIMAX poudre gout banane 200ml FTX07",
+"category": "Compléments alimentaires",
+"brand": "FORTIMAX",
+"qty": 5,
+"price": 486.12,
+"cost": 441.92,
+"unit": "U"
+},
+{
+"id": 434,
+"name": "FORTIMAX poudre gout fraise 200ml FTX07",
+"category": "Compléments alimentaires",
+"brand": "FORTIMAX",
+"qty": 16,
+"price": 486.12,
+"cost": 441.92,
+"unit": "U"
+},
+{
+"id": 435,
+"name": "Gant H en NITRILE small",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 23,
+"price": 985.0,
+"cost": 740.0,
+"unit": "U"
+},
+{
+"id": 436,
+"name": "GEL ECO",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 4,
+"price": 1000.0,
+"cost": 580.34,
+"unit": "U"
+},
+{
+"id": 437,
+"name": "Gelphore 1000 bt/10 amp 10ml GLP07",
+"category": "Compléments alimentaires",
+"brand": "GELPHORE",
+"qty": 6,
+"price": 1025.0,
+"cost": 764.08,
+"unit": "U"
+},
+{
+"id": 438,
+"name": "Gelphore 2000 plus GLP07",
+"category": "Compléments alimentaires",
+"brand": "GELPHORE",
+"qty": 4,
+"price": 1250.0,
+"cost": 931.82,
+"unit": "U"
+},
+{
+"id": 439,
+"name": "Gelphore nobilephore nobiletine mémoire et concentration b/10 flacon ref:7300  GLP07",
+"category": "Compléments alimentaires",
+"brand": "GELPHORE",
+"qty": 5,
+"price": 1125.01,
+"cost": 750.0,
+"unit": "U"
+},
+{
+"id": 440,
+"name": "Gentiane liniment creme de change 200ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 17,
+"price": 566.67,
+"cost": 470.0,
+"unit": "U"
+},
+{
+"id": 441,
+"name": "GL bleu de methylene 60cc PRG09",
+"category": "Parapharm",
+"brand": "GLOBAL LAB",
+"qty": 125,
+"price": 48.5,
+"cost": 35.06,
+"unit": "U"
+},
+{
+"id": 442,
+"name": "GL EAU OXYGENE 10V 1L RBB09",
+"category": "Parapharm",
+"brand": "GLOBAL LAB",
+"qty": 181,
+"price": 145.0,
+"cost": 70.47,
+"unit": "U"
+},
+{
+"id": 443,
+"name": "GL eau oxygene 10v 60CC RBB09",
+"category": "Parapharm",
+"brand": "GLOBAL LAB",
+"qty": 21,
+"price": 35.0,
+"cost": 19.63,
+"unit": "U"
+},
+{
+"id": 444,
+"name": "GL EOSINE AQUEUSE 2%60ML 1L GL09",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 120,
+"price": 269.77,
+"cost": 224.81,
+"unit": "U"
+},
+{
+"id": 445,
+"name": "GL EOSINE AQUEUSE 2%60ML bouchon simple GL09",
+"category": "Parapharm",
+"brand": "GLOBAL LAB",
+"qty": 14,
+"price": 39.56,
+"cost": 26.33,
+"unit": "U"
+},
+{
+"id": 446,
+"name": "GL EOSINE AQUEUSE 2%60ML bouchon SPRAY GL09",
+"category": "Parapharm",
+"brand": "GLOBAL LAB",
+"qty": 102,
+"price": 59.95,
+"cost": 48.19,
+"unit": "U"
+},
+{
+"id": 447,
+"name": "GL Povidone iodee 10% 125ml GL011",
+"category": "Parapharm",
+"brand": "GLOBAL LAB",
+"qty": 183,
+"price": 222.99,
+"cost": 185.76,
+"unit": "U"
+},
+{
+"id": 448,
+"name": "GL Serum physiologique 0.9% 60ml GL011",
+"category": "Parapharm",
+"brand": "GLOBAL LAB",
+"qty": 165,
+"price": 35.0,
+"cost": 22.77,
+"unit": "U"
+},
+{
+"id": 449,
+"name": "GL serum physiologique 500ml GLB011",
+"category": "Parapharm",
+"brand": "GLOBAL LAB",
+"qty": 220,
+"price": 107.91,
+"cost": 90.68,
+"unit": "U"
+},
+{
+"id": 450,
+"name": "GL solution hydro alcoolique 100 ml GL011",
+"category": "Parapharm",
+"brand": "GLOBAL LAB",
+"qty": 179,
+"price": 86.42,
+"cost": 69.14,
+"unit": "U"
+},
+{
+"id": 451,
+"name": "Good Care couche bebe n4 paquet de 25 pcs 7kg-18kg",
+"category": "Puériculture et hygiéne bébé",
+"brand": "GOOD CARE",
+"qty": 95,
+"price": 446.25,
+"cost": 408.82,
+"unit": "U"
+},
+{
+"id": 452,
+"name": "Good Care couche bebe n5 paquet de 25 pcs 11kg-25kg",
+"category": "Puériculture et hygiéne bébé",
+"brand": "GOOD CARE",
+"qty": 112,
+"price": 477.75,
+"cost": 437.68,
+"unit": "U"
+},
+{
+"id": 453,
+"name": "Good Care couche bebe n6 paquet de 25 pcs +16KG",
+"category": "Puériculture et hygiéne bébé",
+"brand": "GOOD CARE",
+"qty": 121,
+"price": 546.0,
+"cost": 500.21,
+"unit": "U"
+},
+{
+"id": 454,
+"name": "Green H biotinor peaux cheveux ongle bt30 GHN07",
+"category": "Compléments alimentaires",
+"brand": "GREEN HEALTH NUTRITION",
+"qty": 1,
+"price": 1083.32,
+"cost": 908.24,
+"unit": "U"
+},
+{
+"id": 455,
+"name": "Green H cuivre 2MG bt/30",
+"category": "Compléments alimentaires",
+"brand": "GREEN HEALTH NUTRITION",
+"qty": 4,
+"price": 708.33,
+"cost": 605.3,
+"unit": "U"
+},
+{
+"id": 456,
+"name": "Green H Q10 coenzyme  bts/30 GHN07",
+"category": "Compléments alimentaires",
+"brand": "GREEN HEALTH NUTRITION",
+"qty": 2,
+"price": 1692.9,
+"cost": 1432.33,
+"unit": "U"
+},
+{
+"id": 457,
+"name": "Green H ultra collagen c 325mg bt60 GHN07",
+"category": "Compléments alimentaires",
+"brand": "GREEN HEALTH NUTRITION",
+"qty": 5,
+"price": 1299.17,
+"cost": 1111.95,
+"unit": "U"
+},
+{
+"id": 458,
+"name": "Green H vitamine K2 100 MCG BT/30 GRH070",
+"category": "Compléments alimentaires",
+"brand": "GREEN HEALTH NUTRITION",
+"qty": 4,
+"price": 833.22,
+"cost": 704.45,
+"unit": "U"
+},
+{
+"id": 459,
+"name": "Greennovar Stimulum bt/4",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1316.66,
+"cost": 1149.08,
+"unit": "U"
+},
+{
+"id": 460,
+"name": "HBDERMA hydracure creme hydratante 150ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "HBDERMA",
+"qty": 9,
+"price": 1166.67,
+"cost": 936.74,
+"unit": "U"
+},
+{
+"id": 461,
+"name": "HBDERMA hydracure lotion hydratante 250ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "HBDERMA",
+"qty": 4,
+"price": 1500.0,
+"cost": 1309.09,
+"unit": "U"
+},
+{
+"id": 462,
+"name": "HBDERMA ILIOS creme solaire spf50+ toucher sec invisible 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 5,
+"price": 1791.67,
+"cost": 1422.9,
+"unit": "U"
+},
+{
+"id": 463,
+"name": "HBDERMA ILIOS creme solaire spf50+ toucher sec teinte 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "HBDERMA",
+"qty": 5,
+"price": 1791.67,
+"cost": 1422.9,
+"unit": "U"
+},
+{
+"id": 464,
+"name": "Herakles Gynogrossesse bt/20",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 9,
+"price": 708.33,
+"cost": 268.31,
+"unit": "U"
+},
+{
+"id": 465,
+"name": "Herba bio collagen 500mg bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 16,
+"price": 1416.66,
+"cost": 917.59,
+"unit": "U"
+},
+{
+"id": 466,
+"name": "Herbezal tisane BB pf005",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 12,
+"price": 99.0,
+"cost": 70.71,
+"unit": "U"
+},
+{
+"id": 467,
+"name": "Herbezal tisane verveine pf005",
+"category": "Compléments alimentaires",
+"brand": "HEAD & SHOULDERS",
+"qty": 10,
+"price": 93.71,
+"cost": 77.42,
+"unit": "U"
+},
+{
+"id": 468,
+"name": "Higeen barrad tube 120ml HIG09",
+"category": "Parapharm",
+"brand": "HIGEEN",
+"qty": 5,
+"price": 416.0,
+"cost": 275.06,
+"unit": "U"
+},
+{
+"id": 469,
+"name": "Higeen HARRAR tube 120ml HIG09",
+"category": "Parapharm",
+"brand": "HIGEEN",
+"qty": 8,
+"price": 415.83,
+"cost": 270.43,
+"unit": "U"
+},
+{
+"id": 470,
+"name": "HIPOSOL TALC ANTI POUX 200ML",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 12,
+"price": 331.5,
+"cost": 297.56,
+"unit": "U"
+},
+{
+"id": 471,
+"name": "Holy savon liquide 400ml",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "HOLY",
+"qty": 5,
+"price": 95.0,
+"cost": 76.0,
+"unit": "U"
+},
+{
+"id": 472,
+"name": "Holy vaseline nature HLY09",
+"category": "Parapharm",
+"brand": "HOLY",
+"qty": 494,
+"price": 50.0,
+"cost": 36.0,
+"unit": "U"
+},
+{
+"id": 473,
+"name": "Holy vaseline pot verre 130gr nature HLY011",
+"category": "Parapharm",
+"brand": "HOLY",
+"qty": 152,
+"price": 115.42,
+"cost": 85.5,
+"unit": "U"
+},
+{
+"id": 474,
+"name": "Hygiacide eosine aqueuse 2% 60ml",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 1502,
+"price": 35.0,
+"cost": 13.99,
+"unit": "U"
+},
+{
+"id": 475,
+"name": "Hygienova savon actisoufre 85gr HGN02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "HYGIENOVA",
+"qty": 77,
+"price": 76.0,
+"cost": 73.35,
+"unit": "U"
+},
+{
+"id": 476,
+"name": "Hysa hysacor pomade anti crevasse 30gr HYS01",
+"category": "Dermo-Cos & Make-up",
+"brand": "HYSA",
+"qty": 4,
+"price": 303.0,
+"cost": 238.0,
+"unit": "U"
+},
+{
+"id": 477,
+"name": "Imc biodose unidose 50X10ML IMC09",
+"category": "Dermo-Cos & Make-up",
+"brand": "IMC",
+"qty": 58,
+"price": 1050.0,
+"cost": 851.59,
+"unit": "U"
+},
+{
+"id": 478,
+"name": "Imc biolyse serum chloru de soduim0.9% IMC09",
+"category": "Parapharm",
+"brand": "SARL IMC",
+"qty": 10,
+"price": 147.66,
+"cost": 138.0,
+"unit": "U"
+},
+{
+"id": 479,
+"name": "Imc intranule rose G20 IMC09",
+"category": "Dispositifs Médicaux",
+"brand": "SARL IMC",
+"qty": 155,
+"price": 27.2,
+"cost": 23.65,
+"unit": "U"
+},
+{
+"id": 480,
+"name": "IN CIDE hyguard MPD solution desinfectante concentree pour surfaces 1L PRG011",
+"category": "Parapharm",
+"brand": "PROG",
+"qty": 12,
+"price": 1680.0,
+"cost": 1325.05,
+"unit": "U"
+},
+{
+"id": 481,
+"name": "IN CIDE hyguard MPD solution desinfectante concentree pour surfaces sans ALDEHYDE 1L PRG011",
+"category": "Parapharm",
+"brand": "PROG",
+"qty": 12,
+"price": 1680.0,
+"cost": 1325.05,
+"unit": "U"
+},
+{
+"id": 482,
+"name": "Inalpharm gesta plus b/30 INL07",
+"category": "Compléments alimentaires",
+"brand": "INALPHARM",
+"qty": 4,
+"price": 791.66,
+"cost": 647.72,
+"unit": "U"
+},
+{
+"id": 483,
+"name": "Innoskin creme solaire fluide invisible SPF50+ 40ML ISK01",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1616.66,
+"cost": 1469.69,
+"unit": "U"
+},
+{
+"id": 484,
+"name": "Innoskin creme solaire teinte SPF50+ 40ML ISK01",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 1,
+"price": 1733.32,
+"cost": 1566.9,
+"unit": "U"
+},
+{
+"id": 485,
+"name": "Innoskin sebiopur gel dermo nettoyant visage et corps 150ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 4,
+"price": 1166.66,
+"cost": 1060.6,
+"unit": "U"
+},
+{
+"id": 486,
+"name": "Inphamedis serum sale 500ml",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 50,
+"price": 145.0,
+"cost": 135.0,
+"unit": "U"
+},
+{
+"id": 487,
+"name": "Ismed eau oxygenee 60ml colis30",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 11,
+"price": 35.0,
+"cost": 17.5,
+"unit": "U"
+},
+{
+"id": 488,
+"name": "Ismed serum 0.9% 60ml colis36",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 5439,
+"price": 35.0,
+"cost": 28.12,
+"unit": "U"
+},
+{
+"id": 489,
+"name": "Jazz solution lentilles 350ml JAZ011",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 11,
+"price": 946.0,
+"cost": 860.0,
+"unit": "U"
+},
+{
+"id": 490,
+"name": "Julphar mebo créme T/15g MEB01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MEBO",
+"qty": 22,
+"price": 955.31,
+"cost": 919.63,
+"unit": "U"
+},
+{
+"id": 491,
+"name": "Kalos caspa gouttes 30ml confort digestif p/24 c/144 KAL07",
+"category": "Compléments alimentaires",
+"brand": "KALOS",
+"qty": 22,
+"price": 541.66,
+"cost": 454.92,
+"unit": "U"
+},
+{
+"id": 492,
+"name": "Kalos cornex gel 15g  KAL01",
+"category": "Dermo-Cos & Make-up",
+"brand": "KALOS",
+"qty": 37,
+"price": 741.67,
+"cost": 634.75,
+"unit": "U"
+},
+{
+"id": 493,
+"name": "Kalos delice solution anti poux 50ml KAL06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "KALOS",
+"qty": 15,
+"price": 1750.0,
+"cost": 1549.37,
+"unit": "U"
+},
+{
+"id": 494,
+"name": "Kalos mostal solution spray  pour fortifie les cheveux 50ml  c/56 KAL01",
+"category": "Dermo-Cos & Make-up",
+"brand": "KALOS",
+"qty": 3,
+"price": 2499.19,
+"cost": 2158.39,
+"unit": "U"
+},
+{
+"id": 495,
+"name": "Kalos zeal kid gouttes 30ml confort respiratoire KAL07",
+"category": "Compléments alimentaires",
+"brand": "KALOS",
+"qty": 25,
+"price": 541.66,
+"cost": 462.87,
+"unit": "U"
+},
+{
+"id": 496,
+"name": "Kalos zeal sf sirop pour la toux 100ml KAL07",
+"category": "Compléments alimentaires",
+"brand": "KALOS",
+"qty": 34,
+"price": 541.66,
+"cost": 471.03,
+"unit": "U"
+},
+{
+"id": 497,
+"name": "Kenzi huile de bronzage 110ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 24,
+"price": 250.0,
+"cost": 200.0,
+"unit": "U"
+},
+{
+"id": 498,
+"name": "KING TEST de grossesse cassette bt/60",
+"category": "Parapharm",
+"brand": "LH",
+"qty": 35,
+"price": 46.29,
+"cost": 38.64,
+"unit": "U"
+},
+{
+"id": 499,
+"name": "KURTPLAST patch 10cm*6cm bt/05",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 116,
+"price": 295.0,
+"cost": 225.0,
+"unit": "U"
+},
+{
+"id": 500,
+"name": "La roche-posay cicaplast baume b5+spf50 LRP01",
+"category": "Dermo-Cos & Make-up",
+"brand": "LA ROCHE POSAY",
+"qty": 7,
+"price": 2880.0,
+"cost": 2250.0,
+"unit": "U"
+},
+{
+"id": 501,
+"name": "La roche posay anthelios oil correct photocorrection gelcreme quotidien spf50+ 50ml RP01",
+"category": "Dermo-Cos & Make-up",
+"brand": "LA ROCHE POSAY",
+"qty": 1,
+"price": 3150.0,
+"cost": 2850.0,
+"unit": "U"
+},
+{
+"id": 502,
+"name": "Labello baume a lévre pot 19ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "LABELLO",
+"qty": 25,
+"price": 660.0,
+"cost": 550.0,
+"unit": "U"
+},
+{
+"id": 503,
+"name": "Labioco Alcool iode 1% 60cc PRG09",
+"category": "Parapharm",
+"brand": "PROG",
+"qty": 63,
+"price": 109.03,
+"cost": 86.39,
+"unit": "U"
+},
+{
+"id": 504,
+"name": "Labioco ascabios lotion anti parasitaire en goutte 125ml",
+"category": "Compléments alimentaires",
+"brand": "LABIOCO",
+"qty": 9,
+"price": 225.0,
+"cost": 93.58,
+"unit": "U"
+},
+{
+"id": 505,
+"name": "Labioco biodent calment dentaire liquide 8ml bt/20",
+"category": "Parapharm",
+"brand": "LABIOCO",
+"qty": 20,
+"price": 79.89,
+"cost": 62.41,
+"unit": "U"
+},
+{
+"id": 506,
+"name": "Labioco biodent calment dentaire pate 5ml bt/20",
+"category": "Parapharm",
+"brand": "LABIOCO",
+"qty": 80,
+"price": 79.89,
+"cost": 63.58,
+"unit": "U"
+},
+{
+"id": 507,
+"name": "Labioco bleu de methylene 60cc PRG09",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 20,
+"price": 68.4,
+"cost": 52.44,
+"unit": "U"
+},
+{
+"id": 508,
+"name": "Labioco Verrucorp 5ml p/20",
+"category": "Dispositifs Médicaux",
+"brand": "LABIOCO",
+"qty": 160,
+"price": 90.0,
+"cost": 69.0,
+"unit": "U"
+},
+{
+"id": 509,
+"name": "LAformul creme anti imperfections 50ml LFR01",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 2,
+"price": 675.0,
+"cost": 604.15,
+"unit": "U"
+},
+{
+"id": 510,
+"name": "LAformul creme ultra hydratante B5+ 50ml LFR01",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 5,
+"price": 550.0,
+"cost": 492.26,
+"unit": "U"
+},
+{
+"id": 511,
+"name": "LAformul fluide solaire visage invisible spf50+ toucher sec 50ml LFR01",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1416.66,
+"cost": 1267.94,
+"unit": "U"
+},
+{
+"id": 512,
+"name": "LAformul fluide solaire visage teinte spf50+ toucher sec 50ml LFR01",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1416.66,
+"cost": 1267.94,
+"unit": "U"
+},
+{
+"id": 513,
+"name": "Laxena 25mg bt/14 BKR07",
+"category": "Compléments alimentaires",
+"brand": "BEKER",
+"qty": 30,
+"price": 287.79,
+"cost": 221.24,
+"unit": "U"
+},
+{
+"id": 514,
+"name": "Le roi Tenue de bloc ROI011",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 6,
+"price": 2576.0,
+"cost": 2300.0,
+"unit": "U"
+},
+{
+"id": 515,
+"name": "Lilium DHEA plus 75mg bt30 LUM07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 6,
+"price": 5325.0,
+"cost": 4356.82,
+"unit": "U"
+},
+{
+"id": 516,
+"name": "Lilium HEPALIB DETOXICATION du foie bt/30",
+"category": "Compléments alimentaires",
+"brand": "LILIUM",
+"qty": 1,
+"price": 2166.67,
+"cost": 1812.12,
+"unit": "U"
+},
+{
+"id": 517,
+"name": "Lilium YES vit grossesse bt/30 LUM07",
+"category": "Compléments alimentaires",
+"brand": "LILIUM",
+"qty": 2,
+"price": 2166.66,
+"cost": 1812.11,
+"unit": "U"
+},
+{
+"id": 518,
+"name": "Ln plast sachet pharmacie MM p/100 C/50 LNP11",
+"category": "Dispositifs Médicaux",
+"brand": "LN PLAST",
+"qty": 34,
+"price": 141.45,
+"cost": 121.55,
+"unit": "U"
+},
+{
+"id": 519,
+"name": "Ln plast sachet pharmacie PM p/100 C/60 LNP11",
+"category": "Parapharm",
+"brand": "LN PLAST",
+"qty": 745,
+"price": 96.6,
+"cost": 83.78,
+"unit": "U"
+},
+{
+"id": 520,
+"name": "Lotus BAD + brosse a longue + fil dentaire LOT04",
+"category": "Hygiène bucco-dentaire",
+"brand": "LOTUS BAD",
+"qty": 132,
+"price": 245.0,
+"cost": 210.0,
+"unit": "U"
+},
+{
+"id": 521,
+"name": "Lotus Bad + Fil dentaire LOT04",
+"category": "Hygiène bucco-dentaire",
+"brand": "LOTUS BAD",
+"qty": 12,
+"price": 239.4,
+"cost": 210.0,
+"unit": "U"
+},
+{
+"id": 522,
+"name": "Lotus Bad + floss LOT04",
+"category": "Hygiène bucco-dentaire",
+"brand": "LOTUS BAD",
+"qty": 336,
+"price": 195.5,
+"cost": 170.0,
+"unit": "U"
+},
+{
+"id": 523,
+"name": "Lotus BAD BOUCHON et PROTECTION GENSIVE souple LOT04",
+"category": "Hygiène bucco-dentaire",
+"brand": "LOTUS BAD",
+"qty": 264,
+"price": 150.0,
+"cost": 125.2,
+"unit": "U"
+},
+{
+"id": 524,
+"name": "Lotus BAD enfant bt/20 LOT04",
+"category": "Hygiène bucco-dentaire",
+"brand": "LOTUS BAD",
+"qty": 399,
+"price": 145.0,
+"cost": 80.0,
+"unit": "U"
+},
+{
+"id": 525,
+"name": "Lotus BAD multi action medium LOT04",
+"category": "Hygiène bucco-dentaire",
+"brand": "LOTUS BAD",
+"qty": 168,
+"price": 162.5,
+"cost": 129.97,
+"unit": "U"
+},
+{
+"id": 526,
+"name": "Lotus Bad Souple bleu LOT04",
+"category": "Hygiène bucco-dentaire",
+"brand": "LOTUS BAD",
+"qty": 372,
+"price": 135.0,
+"cost": 115.0,
+"unit": "U"
+},
+{
+"id": 527,
+"name": "Lowell beauty GEL INTIME 120ml LNB02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "LOWELL BEAUTY",
+"qty": 13,
+"price": 335.5,
+"cost": 287.92,
+"unit": "U"
+},
+{
+"id": 528,
+"name": "Lowell beauty shampooing ALOE VERA  485ml LNB02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "LOWELL BEAUTY",
+"qty": 1,
+"price": 456.5,
+"cost": 391.76,
+"unit": "U"
+},
+{
+"id": 529,
+"name": "LYN Occuplastlyn pansement ENF occulaire ENFANT lyn011",
+"category": "Dispositifs Médicaux",
+"brand": "LYN",
+"qty": 156,
+"price": 179.89,
+"cost": 124.25,
+"unit": "U"
+},
+{
+"id": 530,
+"name": "LYN Occuplastlyn pansement occulaire adult 9.5cm*6.5 bt/10 lyn011",
+"category": "Dispositifs Médicaux",
+"brand": "LYN",
+"qty": 30,
+"price": 238.84,
+"cost": 182.38,
+"unit": "U"
+},
+{
+"id": 531,
+"name": "M2 shamp anti-pelliculaire a l'huile de cade 270ml M201",
+"category": "Dermo-Cos & Make-up",
+"brand": "M2",
+"qty": 60,
+"price": 162.15,
+"cost": 141.0,
+"unit": "U"
+},
+{
+"id": 532,
+"name": "Magic star BAD medium bt/12 MGC04",
+"category": "Hygiène bucco-dentaire",
+"brand": "Sans marque",
+"qty": 4320,
+"price": 100.0,
+"cost": 50.84,
+"unit": "U"
+},
+{
+"id": 533,
+"name": "Magimix Magilightn sucre en poudre bt/50 MGL09",
+"category": "Parapharm",
+"brand": "magilight",
+"qty": 10,
+"price": 110.88,
+"cost": 87.4,
+"unit": "U"
+},
+{
+"id": 534,
+"name": "Magpharm a-derma dermalibour+ barrier creme isolante 50ml ref:8712 MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 4,
+"price": 1791.66,
+"cost": 1479.63,
+"unit": "U"
+},
+{
+"id": 535,
+"name": "Magpharm a-derma dermalibour+ gel moussant tube 100 ml ref:5014 MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 2,
+"price": 2062.5,
+"cost": 1699.19,
+"unit": "U"
+},
+{
+"id": 536,
+"name": "Magpharm a-derma epitheliale a.h ultra (duo) crème 100ml ref:9488 MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 5,
+"price": 3187.5,
+"cost": 2691.67,
+"unit": "U"
+},
+{
+"id": 537,
+"name": "Magpharm a-derma epitheliale a.h ultra (duo) crème 40ml ref:9495 MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 9,
+"price": 2070.8,
+"cost": 1720.25,
+"unit": "U"
+},
+{
+"id": 538,
+"name": "Magpharm Acticarbine 70mg soulage ballonement bt/14 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 8,
+"price": 245.85,
+"cost": 189.11,
+"unit": "U"
+},
+{
+"id": 539,
+"name": "Magpharm appeti kid 100ml sirop c/24 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 18,
+"price": 491.0,
+"cost": 388.22,
+"unit": "U"
+},
+{
+"id": 540,
+"name": "Magpharm Avene CICALFATE+ creme reparatrice protectrice 40ml MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "AVÈNE",
+"qty": 62,
+"price": 2500.0,
+"cost": 2002.31,
+"unit": "U"
+},
+{
+"id": 541,
+"name": "Magpharm baby gaz sirop 100ml MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 3,
+"price": 529.17,
+"cost": 414.31,
+"unit": "U"
+},
+{
+"id": 542,
+"name": "Magpharm babydo gouttes 60ml c/40 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 8,
+"price": 520.84,
+"cost": 415.21,
+"unit": "U"
+},
+{
+"id": 543,
+"name": "Magpharm bionnex perfederm creme CORPS ultra hydratante AVEC POMPE  ref: MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 1,
+"price": 1625.0,
+"cost": 1547.26,
+"unit": "U"
+},
+{
+"id": 544,
+"name": "Magpharm bionnex perfederm creme mains 50ml ref:1126 MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 8,
+"price": 824.99,
+"cost": 592.32,
+"unit": "U"
+},
+{
+"id": 545,
+"name": "Magpharm Bionnex preventiva creme solaire SPF100 MAX 50ml BNX01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 2,
+"price": 2058.33,
+"cost": 1847.81,
+"unit": "U"
+},
+{
+"id": 546,
+"name": "Magpharm Bionnex the NORDEA caffein +serum angelica 30ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 1,
+"price": 2041.67,
+"cost": 1657.45,
+"unit": "U"
+},
+{
+"id": 547,
+"name": "Magpharm Bionnex the NORDEA pour peau grasse AHA+BHA 30ML serum",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 10,
+"price": 2041.67,
+"cost": 1807.34,
+"unit": "U"
+},
+{
+"id": 548,
+"name": "Magpharm Bionnex the NORDEA pour peau grasse retinol serum 30ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 1,
+"price": 1625.0,
+"cost": 1403.41,
+"unit": "U"
+},
+{
+"id": 549,
+"name": "Magpharm Bionnex the NORDEA tous types acide salicylique serum 30ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 5,
+"price": 2041.67,
+"cost": 1760.44,
+"unit": "U"
+},
+{
+"id": 550,
+"name": "Magpharm Bionnex the NORDEA tous types vit c +acide ferulique serum 30ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 3,
+"price": 2583.33,
+"cost": 2289.77,
+"unit": "U"
+},
+{
+"id": 551,
+"name": "Magpharm Bionnex white expert contour des yeux 15ml MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 2,
+"price": 1541.67,
+"cost": 1283.61,
+"unit": "U"
+},
+{
+"id": 552,
+"name": "Magpharm bionnex whitexpert crème éclaircissante ZONE INTIME 50ml ref:1256 MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 1,
+"price": 2566.67,
+"cost": 2130.51,
+"unit": "U"
+},
+{
+"id": 553,
+"name": "Magpharm bionnex whitexpert VISAGE crème éclaircissante SPF30 50ml  MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 1,
+"price": 2458.34,
+"cost": 2046.07,
+"unit": "U"
+},
+{
+"id": 554,
+"name": "Magpharm bronchonet sirop a/sucre 100ml c/48 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 47,
+"price": 458.33,
+"cost": 367.18,
+"unit": "U"
+},
+{
+"id": 555,
+"name": "Magpharm bronchonet sirop sans-sucre 100ml c/48 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 48,
+"price": 537.5,
+"cost": 433.44,
+"unit": "U"
+},
+{
+"id": 556,
+"name": "Magpharm cartiflex douleurs articulaire bt30 MAG07",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 15,
+"price": 483.34,
+"cost": 385.31,
+"unit": "U"
+},
+{
+"id": 557,
+"name": "Magpharm ducray keracnyl PP+ creme anti-imperfection 30ml  MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 3,
+"price": 2050.0,
+"cost": 1681.45,
+"unit": "U"
+},
+{
+"id": 558,
+"name": "Magpharm ducray keracnyl repair creme d'hydratation 50ml MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 2,
+"price": 2212.5,
+"cost": 1820.62,
+"unit": "U"
+},
+{
+"id": 559,
+"name": "Magpharm Ducray kertyol P.S.O shampoing 200ml ref:8473",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 1,
+"price": 2750.0,
+"cost": 2280.28,
+"unit": "U"
+},
+{
+"id": 560,
+"name": "Magpharm flexofytol BT/30 CPS c/50 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MEDIFLEX",
+"qty": 7,
+"price": 1416.66,
+"cost": 1147.67,
+"unit": "U"
+},
+{
+"id": 561,
+"name": "Magpharm glucoflex 750mg gelules arthrose douleurs 30 gelu c/168 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 14,
+"price": 816.67,
+"cost": 632.0,
+"unit": "U"
+},
+{
+"id": 562,
+"name": "Magpharm Goflex fort inflamation musculaire bt/30 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 6,
+"price": 1616.0,
+"cost": 1288.82,
+"unit": "U"
+},
+{
+"id": 563,
+"name": "Magpharm Kelo cote scar traitement 15GR MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 5,
+"price": 1500.0,
+"cost": 1050.0,
+"unit": "U"
+},
+{
+"id": 564,
+"name": "Magpharm klorane SHP SEC extra doux au lait tous types cheuveux bruns 150ml MAG06",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 1,
+"price": 1870.83,
+"cost": 1497.0,
+"unit": "U"
+},
+{
+"id": 565,
+"name": "Magpharm lca lait eclairecissant 200ml MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 5,
+"price": 1487.5,
+"cost": 1155.29,
+"unit": "U"
+},
+{
+"id": 566,
+"name": "Magpharm lca masque depigmentant 75 ml MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 9,
+"price": 1900.0,
+"cost": 1481.62,
+"unit": "U"
+},
+{
+"id": 567,
+"name": "Magpharm mediflex PEA300mg bt/30 gelules anti douleurs lombaires MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 11,
+"price": 1890.0,
+"cost": 1417.33,
+"unit": "U"
+},
+{
+"id": 568,
+"name": "Magpharm Noreva Actipur 3en1 soin anti imperfections intensif 30ml MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 17,
+"price": 2750.0,
+"cost": 2325.88,
+"unit": "U"
+},
+{
+"id": 569,
+"name": "Magpharm Noreva exfoliac ACNOMEGA 200 soin correcteur intensif 30ml MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 5,
+"price": 2833.0,
+"cost": 2481.82,
+"unit": "U"
+},
+{
+"id": 570,
+"name": "Magpharm Noreva Exfoliac creme reparatrice 40ml MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 2,
+"price": 3125.0,
+"cost": 2727.28,
+"unit": "U"
+},
+{
+"id": 571,
+"name": "Magpharm Noreva exfoliac Gommage purifiant visage 50ml MAG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 11,
+"price": 2016.0,
+"cost": 1703.78,
+"unit": "U"
+},
+{
+"id": 572,
+"name": "Magpharm phybaby gouttes 60ml c/60 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 11,
+"price": 366.67,
+"cost": 292.3,
+"unit": "U"
+},
+{
+"id": 573,
+"name": "Magpharm phylait lactation bt/30 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 9,
+"price": 541.67,
+"cost": 440.55,
+"unit": "U"
+},
+{
+"id": 574,
+"name": "Magpharm solyne B12 1000mcg bt/30",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 3,
+"price": 815.0,
+"cost": 651.04,
+"unit": "U"
+},
+{
+"id": 575,
+"name": "Magpharm SOLYNE defence bt/30 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 3,
+"price": 945.84,
+"cost": 754.01,
+"unit": "U"
+},
+{
+"id": 576,
+"name": "Magpharm solyne energy vit c+zinc+ginseng bt/30 c/96 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 15,
+"price": 541.66,
+"cost": 431.82,
+"unit": "U"
+},
+{
+"id": 577,
+"name": "Magpharm solyne grossesse bt/15 c/128 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 31,
+"price": 595.84,
+"cost": 487.5,
+"unit": "U"
+},
+{
+"id": 578,
+"name": "Magpharm solyne magnesium 300mg c/24 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 778,
+"price": 708.34,
+"cost": 569.07,
+"unit": "U"
+},
+{
+"id": 579,
+"name": "Magpharm solyne melatonine  MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 4,
+"price": 541.67,
+"cost": 431.82,
+"unit": "U"
+},
+{
+"id": 580,
+"name": "magpharm Solyne omega 3(DHA+VIT E) bt/30",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 9,
+"price": 595.83,
+"cost": 487.5,
+"unit": "U"
+},
+{
+"id": 581,
+"name": "Magpharm solyne sirop magnesium 125ml c/48 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 5,
+"price": 458.34,
+"cost": 365.38,
+"unit": "U"
+},
+{
+"id": 582,
+"name": "Magpharm solyne solvityl baby sirop 0-6 mois 60ml MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 37,
+"price": 500.0,
+"cost": 409.09,
+"unit": "U"
+},
+{
+"id": 583,
+"name": "Magpharm solyne vitamine d3 1000 ui c/65 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 17,
+"price": 595.83,
+"cost": 487.49,
+"unit": "U"
+},
+{
+"id": 584,
+"name": "Magpharm solyne vitamine d3 50000 ui c/65 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 206,
+"price": 579.0,
+"cost": 488.28,
+"unit": "U"
+},
+{
+"id": 585,
+"name": "Magpharm solyne WAZY anti-acide bt24 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 9,
+"price": 304.17,
+"cost": 248.86,
+"unit": "U"
+},
+{
+"id": 586,
+"name": "Magpharm solyne ZEN jour et nuit bt/45  MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 4,
+"price": 750.0,
+"cost": 602.68,
+"unit": "U"
+},
+{
+"id": 587,
+"name": "Magpharm thymoseptine sirop 100ml c/48",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 54,
+"price": 499.16,
+"cost": 427.6,
+"unit": "U"
+},
+{
+"id": 588,
+"name": "Magpharm tisane BB calmante bt/12 N°8 phyto MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 36,
+"price": 332.5,
+"cost": 270.76,
+"unit": "U"
+},
+{
+"id": 589,
+"name": "Magpharm tisane sante vie gaz&colon MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 3,
+"price": 362.5,
+"cost": 308.45,
+"unit": "U"
+},
+{
+"id": 590,
+"name": "Magpharm tisane sante vie rhumes-grippe MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 3,
+"price": 341.67,
+"cost": 308.45,
+"unit": "U"
+},
+{
+"id": 591,
+"name": "Magpharm toux kid 100ml c/48 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 44,
+"price": 450.0,
+"cost": 368.04,
+"unit": "U"
+},
+{
+"id": 592,
+"name": "Magpharm Vomi-kid sirop pour vomissement 100ml NAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 56,
+"price": 399.99,
+"cost": 313.19,
+"unit": "U"
+},
+{
+"id": 593,
+"name": "Magpharm vomiteb comp bt/30 c/96 MAG07",
+"category": "Compléments alimentaires",
+"brand": "MAGPHARM",
+"qty": 13,
+"price": 483.0,
+"cost": 365.99,
+"unit": "U"
+},
+{
+"id": 594,
+"name": "Magpharm vomiteb sirop 100ml c/48 MAG07",
+"category": "Dermo-Cos & Make-up",
+"brand": "MAGPHARM",
+"qty": 9,
+"price": 433.0,
+"cost": 325.61,
+"unit": "U"
+},
+{
+"id": 595,
+"name": "Make ecran total spf50+ tous type de peau 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 24,
+"price": 700.0,
+"cost": 586.5,
+"unit": "U"
+},
+{
+"id": 596,
+"name": "MARIA nitral plus creme pour hemorroides 100gr",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 57,
+"price": 235.0,
+"cost": 180.95,
+"unit": "U"
+},
+{
+"id": 597,
+"name": "Maria nitral plus tube creme 35gr pour hemorroides",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 40,
+"price": 441.66,
+"cost": 361.36,
+"unit": "U"
+},
+{
+"id": 598,
+"name": "MBS amuse dent fruit REF-14 MBS04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "MBS",
+"qty": 35,
+"price": 499.0,
+"cost": 450.0,
+"unit": "U"
+},
+{
+"id": 599,
+"name": "MBS attache sucette OREO REF-6 MBS04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "MBS",
+"qty": 41,
+"price": 524.4,
+"cost": 460.0,
+"unit": "U"
+},
+{
+"id": 600,
+"name": "MBS attache sucette REF:9001-9 MBS04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "MBS",
+"qty": 15,
+"price": 399.0,
+"cost": 360.0,
+"unit": "U"
+},
+{
+"id": 601,
+"name": "MBS brosse et peigne SIMPLE REF 0037-11 MBS04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "MBS",
+"qty": 61,
+"price": 219.84,
+"cost": 195.0,
+"unit": "U"
+},
+{
+"id": 602,
+"name": "MBS masse gensive REF-10 MBS04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "MBS",
+"qty": 72,
+"price": 285.0,
+"cost": 250.0,
+"unit": "U"
+},
+{
+"id": 603,
+"name": "MBS Sucette silicone avec attache REF 9001-13 MBS04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "MBS",
+"qty": 72,
+"price": 209.66,
+"cost": 185.0,
+"unit": "U"
+},
+{
+"id": 604,
+"name": "Medi9 gants steriles 7.0",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 659,
+"price": 99.0,
+"cost": 85.0,
+"unit": "U"
+},
+{
+"id": 605,
+"name": "Medi9 gants steriles 7.5",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 195,
+"price": 99.0,
+"cost": 85.0,
+"unit": "U"
+},
+{
+"id": 606,
+"name": "Medicaflor tisane aerophagie N°17 MED07",
+"category": "Compléments alimentaires",
+"brand": "MEDICAFLOR",
+"qty": 600,
+"price": 83.34,
+"cost": 57.2,
+"unit": "U"
+},
+{
+"id": 607,
+"name": "Medicaflor tisane antigrippal bts/12 (25sachets) N°14 MED07",
+"category": "Parapharm",
+"brand": "MEDICAFLOR",
+"qty": 127,
+"price": 145.0,
+"cost": 96.0,
+"unit": "U"
+},
+{
+"id": 608,
+"name": "Medicaflor tisane antigrippale N°14 MED07",
+"category": "Compléments alimentaires",
+"brand": "MEDICAFLOR",
+"qty": 310,
+"price": 83.34,
+"cost": 57.2,
+"unit": "U"
+},
+{
+"id": 609,
+"name": "Medicaflor tisane bebe bts/12 (25sachets) N°19 MED07",
+"category": "Parapharm",
+"brand": "MEDICAFLOR",
+"qty": 136,
+"price": 145.0,
+"cost": 96.0,
+"unit": "U"
+},
+{
+"id": 610,
+"name": "Medicaflor tisane bebe N°19 MED07",
+"category": "Compléments alimentaires",
+"brand": "MEDICAFLOR",
+"qty": 77,
+"price": 83.34,
+"cost": 57.2,
+"unit": "U"
+},
+{
+"id": 611,
+"name": "Medicaflor tisane gaz colon bts/12 (25sachets) N°17 MED07",
+"category": "Parapharm",
+"brand": "MEDICAFLOR",
+"qty": 97,
+"price": 145.0,
+"cost": 96.0,
+"unit": "U"
+},
+{
+"id": 612,
+"name": "Medicaflor tisane verveine bts/12 (25sachets) N°23 MED07",
+"category": "Compléments alimentaires",
+"brand": "MEDICAFLOR",
+"qty": 103,
+"price": 99.99,
+"cost": 68.0,
+"unit": "U"
+},
+{
+"id": 613,
+"name": "Medicaflor tisane verveine N°23 MED07",
+"category": "Compléments alimentaires",
+"brand": "MEDICAFLOR",
+"qty": 570,
+"price": 83.34,
+"cost": 54.4,
+"unit": "U"
+},
+{
+"id": 614,
+"name": "Merinal Fertigen HOMME bt30 MRN07",
+"category": "Compléments alimentaires",
+"brand": "MERINAL",
+"qty": 1,
+"price": 6250.0,
+"cost": 5454.56,
+"unit": "U"
+},
+{
+"id": 615,
+"name": "Merinal genesia grossesse allaitement bt/20 MRN07",
+"category": "Compléments alimentaires",
+"brand": "MERINAL",
+"qty": 15,
+"price": 750.0,
+"cost": 664.78,
+"unit": "U"
+},
+{
+"id": 616,
+"name": "Merinal kamil energie & vitalites multi vit bt/20 MRN07",
+"category": "Compléments alimentaires",
+"brand": "MERINAL",
+"qty": 5,
+"price": 708.34,
+"cost": 585.99,
+"unit": "U"
+},
+{
+"id": 617,
+"name": "Merinal magnol stresse magnesium 300mg+vit b6 20cmp MRN07",
+"category": "Compléments alimentaires",
+"brand": "MERINAL",
+"qty": 26,
+"price": 625.0,
+"cost": 568.18,
+"unit": "U"
+},
+{
+"id": 618,
+"name": "Merinal Pycnoven jambes lourdes bt/30 MRN07",
+"category": "Compléments alimentaires",
+"brand": "MERINAL",
+"qty": 10,
+"price": 708.34,
+"cost": 643.94,
+"unit": "U"
+},
+{
+"id": 619,
+"name": "Merinal SOMNUIT bt/20 MRN07",
+"category": "Compléments alimentaires",
+"brand": "MERINAL",
+"qty": 4,
+"price": 708.34,
+"cost": 615.33,
+"unit": "U"
+},
+{
+"id": 620,
+"name": "Microlife AFIB tensiometre +adaptateur gratuit",
+"category": "Dispositifs Médicaux",
+"brand": "MICROLIFE",
+"qty": 2,
+"price": 8996.36,
+"cost": 7881.78,
+"unit": "U"
+},
+{
+"id": 621,
+"name": "Miraz hexabiocel colon nerveux 5en1 ballonement,constipation,douleurs,diahree bt20 MRZ07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 21,
+"price": 831.67,
+"cost": 745.61,
+"unit": "U"
+},
+{
+"id": 622,
+"name": "Miraz synbiotique infantil zero age bt/7 sachets MRZ07",
+"category": "Compléments alimentaires",
+"brand": "MIRAZ",
+"qty": 5,
+"price": 783.34,
+"cost": 662.3,
+"unit": "U"
+},
+{
+"id": 623,
+"name": "Moben magnesium 300mg+zn 15mg eff BT10 S/SUCRE  MBN07",
+"category": "Compléments alimentaires",
+"brand": "MOBEN",
+"qty": 114,
+"price": 541.66,
+"cost": 379.47,
+"unit": "U"
+},
+{
+"id": 624,
+"name": "Moben magnesium 400mg eff BT10   MBN07",
+"category": "Compléments alimentaires",
+"brand": "MOBEN",
+"qty": 28,
+"price": 708.34,
+"cost": 504.87,
+"unit": "U"
+},
+{
+"id": 625,
+"name": "Moben vidaroc MAG 1000MG+taurine+B6 bt/60cmp   MBN07",
+"category": "Compléments alimentaires",
+"brand": "MOBEN",
+"qty": 4,
+"price": 1166.67,
+"cost": 817.29,
+"unit": "U"
+},
+{
+"id": 626,
+"name": "Moben vit C 1000mg + zn eff bt 15comp SANS SUCRE MBN07",
+"category": "Compléments alimentaires",
+"brand": "MOBEN",
+"qty": 59,
+"price": 541.67,
+"cost": 344.16,
+"unit": "U"
+},
+{
+"id": 627,
+"name": "Moben vit C 500mg + zn eff bt 20 comp SANS SUCRE MBN07",
+"category": "Compléments alimentaires",
+"brand": "MOBEN",
+"qty": 36,
+"price": 375.0,
+"cost": 213.26,
+"unit": "U"
+},
+{
+"id": 628,
+"name": "Moldex Bouchon oreilles",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 29,
+"price": 221.38,
+"cost": 192.5,
+"unit": "U"
+},
+{
+"id": 629,
+"name": "MOLFIX COUCHE PM N°02 C/12",
+"category": "Puériculture et hygiéne bébé",
+"brand": "MOLFIX",
+"qty": 28,
+"price": 2759.27,
+"cost": 2555.27,
+"unit": "U"
+},
+{
+"id": 630,
+"name": "MOLFIX OXYGEN COUCHE PM N°01 MLX04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 3,
+"price": 2792.43,
+"cost": 2485.53,
+"unit": "U"
+},
+{
+"id": 631,
+"name": "Molped hyg shield long 9X24 single MLD09",
+"category": "Parapharm",
+"brand": "MOLPED",
+"qty": 17,
+"price": 1899.99,
+"cost": 1629.95,
+"unit": "U"
+},
+{
+"id": 632,
+"name": "Molped hyg shld extra long 8X24 MLD09",
+"category": "Parapharm",
+"brand": "MOLPED",
+"qty": 24,
+"price": 1899.99,
+"cost": 1631.13,
+"unit": "U"
+},
+{
+"id": 633,
+"name": "Molped hyg shld normal 10X24 MLD09",
+"category": "Parapharm",
+"brand": "MOLPED",
+"qty": 36,
+"price": 1899.99,
+"cost": 1632.02,
+"unit": "U"
+},
+{
+"id": 634,
+"name": "Moove creme anti douleur 100gr GM MOV011",
+"category": "Dispositifs Médicaux",
+"brand": "MOOVE",
+"qty": 14,
+"price": 491.05,
+"cost": 374.81,
+"unit": "U"
+},
+{
+"id": 635,
+"name": "Moove creme anti douleur 25gr PM MOV011",
+"category": "Dispositifs Médicaux",
+"brand": "MOOVE",
+"qty": 22,
+"price": 224.25,
+"cost": 172.3,
+"unit": "U"
+},
+{
+"id": 636,
+"name": "Moove creme anti douleur 50gr PM MOV011",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 27,
+"price": 322.69,
+"cost": 256.82,
+"unit": "U"
+},
+{
+"id": 637,
+"name": "My baby presentoir tetine caoutchou bt/100 MBB06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 8,
+"price": 7999.0,
+"cost": 7558.02,
+"unit": "U"
+},
+{
+"id": 638,
+"name": "My baby presentoir tetine silicone bt/100 MBB06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 41,
+"price": 8500.0,
+"cost": 7500.0,
+"unit": "U"
+},
+{
+"id": 639,
+"name": "Myrale digeval appetit plus bt/30 gll MRL07",
+"category": "Compléments alimentaires",
+"brand": "MYRALE",
+"qty": 20,
+"price": 566.67,
+"cost": 483.7,
+"unit": "U"
+},
+{
+"id": 640,
+"name": "Myrale levure de biere simple bt/180 cmp",
+"category": "Compléments alimentaires",
+"brand": "MYRALE",
+"qty": 45,
+"price": 245.83,
+"cost": 207.84,
+"unit": "U"
+},
+{
+"id": 641,
+"name": "Nadef bande de crepe 10cm colis de 120 NDF10",
+"category": "Parapharm",
+"brand": "NADEF",
+"qty": 78,
+"price": 59.84,
+"cost": 27.9,
+"unit": "U"
+},
+{
+"id": 642,
+"name": "Nadef bande de crepe 10cm colis de 60 NDF10",
+"category": "Parapharm",
+"brand": "NADEF",
+"qty": 23745,
+"price": 59.84,
+"cost": 27.9,
+"unit": "U"
+},
+{
+"id": 643,
+"name": "Nadef bande de crepe 5cm NDF10",
+"category": "Parapharm",
+"brand": "NADEF",
+"qty": 6561,
+"price": 29.89,
+"cost": 20.72,
+"unit": "U"
+},
+{
+"id": 644,
+"name": "Narrak bout sein NRK06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NARRAK",
+"qty": 6,
+"price": 150.0,
+"cost": 50.0,
+"unit": "U"
+},
+{
+"id": 645,
+"name": "Natakon Ginkgo biloba en goutte 30ml",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 10,
+"price": 662.5,
+"cost": 578.19,
+"unit": "U"
+},
+{
+"id": 646,
+"name": "NATRIBIFLUOR PATE 100GR",
+"category": "Hygiène bucco-dentaire",
+"brand": "NARTA",
+"qty": 74,
+"price": 199.0,
+"cost": 178.25,
+"unit": "U"
+},
+{
+"id": 647,
+"name": "Natura Pro DENT miswak 100gr",
+"category": "Hygiène bucco-dentaire",
+"brand": "NATURA PRO",
+"qty": 5,
+"price": 118.75,
+"cost": 95.0,
+"unit": "U"
+},
+{
+"id": 648,
+"name": "Natura Pro extra 75gr EXT03",
+"category": "Hygiène bucco-dentaire",
+"brand": "NATURA PRO",
+"qty": 32,
+"price": 99.0,
+"cost": 83.0,
+"unit": "U"
+},
+{
+"id": 649,
+"name": "Natura Pro Extra DENT 50gr EXT03",
+"category": "Hygiène bucco-dentaire",
+"brand": "NATURA PRO",
+"qty": 43,
+"price": 81.25,
+"cost": 65.0,
+"unit": "U"
+},
+{
+"id": 650,
+"name": "Natura Pro Extra DENT black 100gr EXT03",
+"category": "Hygiène bucco-dentaire",
+"brand": "NATURA PRO",
+"qty": 1,
+"price": 169.0,
+"cost": 148.0,
+"unit": "U"
+},
+{
+"id": 651,
+"name": "Natura pro Extra dent junior 50gr EXT03",
+"category": "Hygiène bucco-dentaire",
+"brand": "NATURA PRO",
+"qty": 100,
+"price": 93.0,
+"cost": 75.0,
+"unit": "U"
+},
+{
+"id": 652,
+"name": "Natura Pro masque pour visage 50ml",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "NATURA PRO",
+"qty": 3,
+"price": 189.75,
+"cost": 165.0,
+"unit": "U"
+},
+{
+"id": 653,
+"name": "Neocapsicum creme chauffante T/100g NEO11",
+"category": "Dispositifs Médicaux",
+"brand": "NEOCAPSICUM",
+"qty": 10,
+"price": 458.33,
+"cost": 416.33,
+"unit": "U"
+},
+{
+"id": 654,
+"name": "Neocapsicum creme chauffante T/50g NEO11",
+"category": "Dispositifs Médicaux",
+"brand": "NEOCAPSICUM",
+"qty": 9,
+"price": 299.62,
+"cost": 265.15,
+"unit": "U"
+},
+{
+"id": 655,
+"name": "Neocapsicum emplatre antidouleur GM BT/48 NEO11",
+"category": "Dispositifs Médicaux",
+"brand": "NEOCAPSICUM",
+"qty": 800,
+"price": 166.64,
+"cost": 144.9,
+"unit": "U"
+},
+{
+"id": 656,
+"name": "Neocapsicum emplatre antidouleur PM BT/48 NEO11",
+"category": "Dispositifs Médicaux",
+"brand": "NEOCAPSICUM",
+"qty": 1750,
+"price": 82.11,
+"cost": 71.4,
+"unit": "U"
+},
+{
+"id": 657,
+"name": "Neocapsicum spray 150ml  NEO11",
+"category": "Parapharm",
+"brand": "NEOCAPSICUM",
+"qty": 16,
+"price": 799.99,
+"cost": 684.48,
+"unit": "U"
+},
+{
+"id": 658,
+"name": "Nep nutrisanté force-g power max b/10amp  ref:8484 NUT07",
+"category": "Compléments alimentaires",
+"brand": "NUTRISANTÉ LABORATOIRES",
+"qty": 7,
+"price": 1158.34,
+"cost": 1032.69,
+"unit": "U"
+},
+{
+"id": 659,
+"name": "Nep nutrisanté nutricap kératine et vitalité fortifiant de cheveux b/30 cps *vert* NUT07",
+"category": "Compléments alimentaires",
+"brand": "NUTRISANTÉ LABORATOIRES",
+"qty": 2,
+"price": 1415.84,
+"cost": 1287.13,
+"unit": "U"
+},
+{
+"id": 660,
+"name": "Nep nutrisante nutricap shampoing 150ml  NUT07",
+"category": "Dermo-Cos & Make-up",
+"brand": "NUTRISANTÉ LABORATOIRES",
+"qty": 2,
+"price": 1165.81,
+"cost": 1039.37,
+"unit": "U"
+},
+{
+"id": 661,
+"name": "NEW GL Camident huile calmante gingivale pour les aphtes et pousse dentaire 9ML NGL03",
+"category": "Hygiène bucco-dentaire",
+"brand": "NEW GALENICA",
+"qty": 5,
+"price": 579.17,
+"cost": 368.82,
+"unit": "U"
+},
+{
+"id": 662,
+"name": "NEXT emplatre capsicum GM 15cm*30cm bt/40 NXT09",
+"category": "Parapharm",
+"brand": "NEXT TAID",
+"qty": 80,
+"price": 157.81,
+"cost": 123.51,
+"unit": "U"
+},
+{
+"id": 663,
+"name": "Ng emag mangnésium en ampoules 122 mg/10ml c/48 NGC07",
+"category": "Compléments alimentaires",
+"brand": "NEW GALENICA",
+"qty": 34,
+"price": 412.5,
+"cost": 241.08,
+"unit": "U"
+},
+{
+"id": 664,
+"name": "NGS sonde de foley pediatrique CH 06/08/10 NGS011",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 7,
+"price": 2875.0,
+"cost": 2500.0,
+"unit": "U"
+},
+{
+"id": 665,
+"name": "Nivea soft creme hydratante pot plastique 100ml NIV01",
+"category": "Dermo-Cos & Make-up",
+"brand": "NIVEA",
+"qty": 10,
+"price": 638.0,
+"cost": 580.0,
+"unit": "U"
+},
+{
+"id": 666,
+"name": "Nova couche adulte large paquet de 20 NOVA08",
+"category": "Incontinence adulte et bébé",
+"brand": "LOTUS pharm",
+"qty": 1,
+"price": 1100.0,
+"cost": 950.0,
+"unit": "U"
+},
+{
+"id": 667,
+"name": "Nova pansement pour corps bt/08",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 44,
+"price": 275.0,
+"cost": 169.0,
+"unit": "U"
+},
+{
+"id": 668,
+"name": "Novy's bib plastique PIPPO S/B PM NOVY'S06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOVY'S",
+"qty": 528,
+"price": 130.94,
+"cost": 104.01,
+"unit": "U"
+},
+{
+"id": 669,
+"name": "Novy's BIB plastique PM S/B pack/6  NOVY'S06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOVY'S",
+"qty": 210,
+"price": 139.15,
+"cost": 121.0,
+"unit": "U"
+},
+{
+"id": 670,
+"name": "Novy's couche simple baquet/15 C/10 NOVA08",
+"category": "Incontinence adulte et bébé",
+"brand": "LOTUS pharm",
+"qty": 86,
+"price": 1600.0,
+"cost": 1010.82,
+"unit": "U"
+},
+{
+"id": 671,
+"name": "Novy's lot de 2 cuilleres NOVY'S06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOVY'S",
+"qty": 345,
+"price": 217.35,
+"cost": 189.0,
+"unit": "U"
+},
+{
+"id": 672,
+"name": "Novy's suc geante silicane master NOVY'S06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOVY'S",
+"qty": 36,
+"price": 120.75,
+"cost": 105.0,
+"unit": "U"
+},
+{
+"id": 673,
+"name": "Novy's suc nn silicane NOVY'S06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOVY'S",
+"qty": 363,
+"price": 103.5,
+"cost": 90.0,
+"unit": "U"
+},
+{
+"id": 674,
+"name": "Novy's suc ruche d'abeille geante silicane NOVY'S06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOVY'S",
+"qty": 24,
+"price": 120.75,
+"cost": 105.0,
+"unit": "U"
+},
+{
+"id": 675,
+"name": "Novy's tetine caoutchouc 311.153 NOVY'S06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOVY'S",
+"qty": 1101,
+"price": 78.2,
+"cost": 68.0,
+"unit": "U"
+},
+{
+"id": 676,
+"name": "Noye baby creme de change 40gr NOY06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOYE",
+"qty": 5,
+"price": 291.5,
+"cost": 205.38,
+"unit": "U"
+},
+{
+"id": 677,
+"name": "Noye eau de cologne bebe 420ml NOY06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOYE",
+"qty": 9,
+"price": 579.6,
+"cost": 463.68,
+"unit": "U"
+},
+{
+"id": 678,
+"name": "Noye eau de cologne bebe spray 200ml NOY06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOYE",
+"qty": 92,
+"price": 195.5,
+"cost": 114.46,
+"unit": "U"
+},
+{
+"id": 679,
+"name": "Noye gel intime N'TIMY JUNIOR PH 5.5 150ml NOY02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "NOYE",
+"qty": 1,
+"price": 408.33,
+"cost": 246.59,
+"unit": "U"
+},
+{
+"id": 680,
+"name": "Noye gel intime N'TIMY PH 5.5 150ml NOY02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "NOYE",
+"qty": 307,
+"price": 358.34,
+"cost": 151.52,
+"unit": "U"
+},
+{
+"id": 681,
+"name": "Noye gel intime N'TIMY PH 8 150ml NOY02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "NOYE",
+"qty": 8,
+"price": 505.43,
+"cost": 305.23,
+"unit": "U"
+},
+{
+"id": 682,
+"name": "Noye huile de bain et massage pour bebe SPRAY 125ml NOY04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOYE",
+"qty": 178,
+"price": 285.0,
+"cost": 151.1,
+"unit": "U"
+},
+{
+"id": 683,
+"name": "Noye miel naturel multi fleur 250gr  NOY11",
+"category": "Parapharm",
+"brand": "NOYE",
+"qty": 1,
+"price": 1581.25,
+"cost": 1278.75,
+"unit": "U"
+},
+{
+"id": 684,
+"name": "Noye noxeryl creme peau seche tube 200gr",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOYE",
+"qty": 44,
+"price": 541.66,
+"cost": 305.3,
+"unit": "U"
+},
+{
+"id": 685,
+"name": "Noye noxeryl creme peau seche tube 50gr",
+"category": "Dermo-Cos & Make-up",
+"brand": "NOYE",
+"qty": 5,
+"price": 224.95,
+"cost": 135.53,
+"unit": "U"
+},
+{
+"id": 686,
+"name": "Noye sham baby 2en1 aloe vera 220ml NOY01",
+"category": "Dermo-Cos & Make-up",
+"brand": "NOYE",
+"qty": 483,
+"price": 201.25,
+"cost": 116.25,
+"unit": "U"
+},
+{
+"id": 687,
+"name": "Noye shamp bebe transparant 220ml NOY06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOYE",
+"qty": 504,
+"price": 177.1,
+"cost": 102.29,
+"unit": "U"
+},
+{
+"id": 688,
+"name": "Noye talc simple bebe  100gr NOY01",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NOYE",
+"qty": 4,
+"price": 120.0,
+"cost": 64.95,
+"unit": "U"
+},
+{
+"id": 689,
+"name": "Nutraxin acide folique 400MCG bt100",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 6,
+"price": 1166.67,
+"cost": 911.07,
+"unit": "U"
+},
+{
+"id": 690,
+"name": "Nutraxin arthrofort HYA-C-II acide hyaloronique collagene type2 bt90",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 3,
+"price": 3166.66,
+"cost": 2426.7,
+"unit": "U"
+},
+{
+"id": 691,
+"name": "Nutraxin Big energie bt60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 3,
+"price": 2416.66,
+"cost": 1966.96,
+"unit": "U"
+},
+{
+"id": 692,
+"name": "Nutraxin biotine 5000 MCG bt30",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 3,
+"price": 1166.66,
+"cost": 925.0,
+"unit": "U"
+},
+{
+"id": 693,
+"name": "Nutraxin biotine forte bt/30 comp",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 6,
+"price": 1583.33,
+"cost": 1288.69,
+"unit": "U"
+},
+{
+"id": 694,
+"name": "Nutraxin Bioxcin complex keratine acide amine biotine bt60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 1,
+"price": 2916.66,
+"cost": 2373.91,
+"unit": "U"
+},
+{
+"id": 695,
+"name": "Nutraxin Canaberge 500MG bt30",
+"category": "Dermo-Cos & Make-up",
+"brand": "NUTRAXIN",
+"qty": 1,
+"price": 1830.0,
+"cost": 1530.43,
+"unit": "U"
+},
+{
+"id": 696,
+"name": "Nutraxin carnitine bt/60 NTX07",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 5,
+"price": 3333.34,
+"cost": 2622.84,
+"unit": "U"
+},
+{
+"id": 697,
+"name": "Nutraxin chromium picolinat 200mcg bt90",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 10,
+"price": 1250.0,
+"cost": 983.57,
+"unit": "U"
+},
+{
+"id": 698,
+"name": "Nutraxin collagen en poudre 300gr",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 2,
+"price": 4583.33,
+"cost": 3673.04,
+"unit": "U"
+},
+{
+"id": 699,
+"name": "Nutraxin collagen gold quality bt/30 ntx07",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 10,
+"price": 1750.0,
+"cost": 1425.0,
+"unit": "U"
+},
+{
+"id": 700,
+"name": "Nutraxin collagene complexe hydrolysé type 1/2/3/5/10 bt/30",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 4,
+"price": 2500.0,
+"cost": 1928.56,
+"unit": "U"
+},
+{
+"id": 701,
+"name": "Nutraxin complex multi mineral bt/30",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 3,
+"price": 2125.0,
+"cost": 1729.56,
+"unit": "U"
+},
+{
+"id": 702,
+"name": "Nutraxin complexe 5-htp(caféin,Q10,carnitine,ginko biloba) bt/30",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 6,
+"price": 1583.34,
+"cost": 1352.29,
+"unit": "U"
+},
+{
+"id": 703,
+"name": "Nutraxin complexe multi-vitamine FEMME bt60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 2,
+"price": 2000.0,
+"cost": 1585.71,
+"unit": "U"
+},
+{
+"id": 704,
+"name": "Nutraxin complexe multi-vitamine HOMME bt60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 1,
+"price": 2000.0,
+"cost": 1544.35,
+"unit": "U"
+},
+{
+"id": 705,
+"name": "Nutraxin D3 1000 UI bt/120",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 11,
+"price": 1250.0,
+"cost": 1026.46,
+"unit": "U"
+},
+{
+"id": 706,
+"name": "Nutraxin d3+k2 bt/120 cmp",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 7,
+"price": 1583.34,
+"cost": 1245.84,
+"unit": "U"
+},
+{
+"id": 707,
+"name": "Nutraxin d3+k2 spray",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 2,
+"price": 1250.0,
+"cost": 1017.85,
+"unit": "U"
+},
+{
+"id": 708,
+"name": "Nutraxin immuno S bt/60 NTX07",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 5,
+"price": 2250.0,
+"cost": 1735.7,
+"unit": "U"
+},
+{
+"id": 709,
+"name": "Nutraxin KERATINE formule collagene/cysteine/biotine bt60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 3,
+"price": 2915.0,
+"cost": 2434.79,
+"unit": "U"
+},
+{
+"id": 710,
+"name": "Nutraxin magnesium + D3 + K2 bt/30",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 6,
+"price": 1250.0,
+"cost": 803.56,
+"unit": "U"
+},
+{
+"id": 711,
+"name": "Nutraxin Magnesium 250mg bt60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 21,
+"price": 1830.33,
+"cost": 1476.63,
+"unit": "U"
+},
+{
+"id": 712,
+"name": "Nutraxin Magnesium complexe 125mg bt30",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 27,
+"price": 1083.33,
+"cost": 909.65,
+"unit": "U"
+},
+{
+"id": 713,
+"name": "Nutraxin multivitamine sirop kids 4-10ans(17 vitamine)",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 4,
+"price": 1583.33,
+"cost": 1221.42,
+"unit": "U"
+},
+{
+"id": 714,
+"name": "Nutraxin omega 3 2000mg bt/30",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 4,
+"price": 1964.28,
+"cost": 1639.27,
+"unit": "U"
+},
+{
+"id": 715,
+"name": "Nutraxin omega 3 KIDS sirop 150ml",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 7,
+"price": 3250.0,
+"cost": 2707.71,
+"unit": "U"
+},
+{
+"id": 716,
+"name": "Nutraxin pregnancy",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 3,
+"price": 1625.0,
+"cost": 1322.61,
+"unit": "U"
+},
+{
+"id": 717,
+"name": "Nutraxin saw palmeto la prostate bt/60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 5,
+"price": 2416.66,
+"cost": 1851.93,
+"unit": "U"
+},
+{
+"id": 718,
+"name": "Nutraxin selenium 100MCG bt/100",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 1,
+"price": 2083.33,
+"cost": 1652.19,
+"unit": "U"
+},
+{
+"id": 719,
+"name": "Nutraxin ultra men bt/60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 4,
+"price": 2416.66,
+"cost": 1916.15,
+"unit": "U"
+},
+{
+"id": 720,
+"name": "Nutraxin VIT B12 1000MCG bt/60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 5,
+"price": 1000.0,
+"cost": 821.7,
+"unit": "U"
+},
+{
+"id": 721,
+"name": "Nutraxin vit c LP  1000mg bt/30",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 1,
+"price": 791.66,
+"cost": 627.68,
+"unit": "U"
+},
+{
+"id": 722,
+"name": "Nutraxin VIT D3 en gouttes 10ml NTX07",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 19,
+"price": 625.0,
+"cost": 520.24,
+"unit": "U"
+},
+{
+"id": 723,
+"name": "Nutraxin vit d3 spray 1000 ui 25mcg 30ml",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 5,
+"price": 1250.0,
+"cost": 1019.4,
+"unit": "U"
+},
+{
+"id": 724,
+"name": "Nutraxin VIT max C-D-ZINC bt60  NTX07",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 2,
+"price": 1250.0,
+"cost": 965.21,
+"unit": "U"
+},
+{
+"id": 725,
+"name": "Nutraxin vitamine B complexe bt60",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 12,
+"price": 1625.0,
+"cost": 1286.06,
+"unit": "U"
+},
+{
+"id": 726,
+"name": "Nutraxin zinc 15mg bt/100  NTX07",
+"category": "Compléments alimentaires",
+"brand": "NUTRAXIN",
+"qty": 5,
+"price": 1250.0,
+"cost": 983.57,
+"unit": "U"
+},
+{
+"id": 727,
+"name": "Nutricare calmazen bts/24 NUT07",
+"category": "Compléments alimentaires",
+"brand": "NUTRICARE",
+"qty": 51,
+"price": 731.67,
+"cost": 644.6,
+"unit": "U"
+},
+{
+"id": 728,
+"name": "NUTRICARE RENNICAL BRULURES D'ESTOMAC COMPRIMES A SUCER",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 5,
+"price": 362.49,
+"cost": 293.34,
+"unit": "U"
+},
+{
+"id": 729,
+"name": "Nutricare serenox sommeil bts/24 NUT07",
+"category": "Compléments alimentaires",
+"brand": "NUTRICARE",
+"qty": 21,
+"price": 653.34,
+"cost": 583.23,
+"unit": "U"
+},
+{
+"id": 730,
+"name": "Nutricare Sevrax sevrage des addictions bt/48 NTC07",
+"category": "Compléments alimentaires",
+"brand": "NUTRICARE",
+"qty": 1,
+"price": 1250.0,
+"cost": 1102.27,
+"unit": "U"
+},
+{
+"id": 731,
+"name": "Nutricare tabastop 2mg bt/90 NUT07",
+"category": "Compléments alimentaires",
+"brand": "NUTRICARE",
+"qty": 3,
+"price": 1456.13,
+"cost": 1323.75,
+"unit": "U"
+},
+{
+"id": 732,
+"name": "Nutricare tamarel confort digestif bts/24 NUT07",
+"category": "Compléments alimentaires",
+"brand": "NUTRICARE",
+"qty": 12,
+"price": 642.04,
+"cost": 573.14,
+"unit": "U"
+},
+{
+"id": 733,
+"name": "Nutriphar bimbo tetine col large +6m NPH06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "NUTRIPHAR",
+"qty": 1065,
+"price": 109.25,
+"cost": 95.0,
+"unit": "U"
+},
+{
+"id": 734,
+"name": "NUTRISANTE Ultrabiotique flore intestinale adulte bt16 ref:0148",
+"category": "Compléments alimentaires",
+"brand": "NUTRISANTÉ LABORATOIRES",
+"qty": 69,
+"price": 665.85,
+"cost": 605.15,
+"unit": "U"
+},
+{
+"id": 735,
+"name": "NUTRISANTE Ultrabiotique infantileb/07 sachet ref:0209",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 48,
+"price": 829.18,
+"cost": 752.86,
+"unit": "U"
+},
+{
+"id": 736,
+"name": "NUTRISANTE Ultrabiotique instant adulte bt/10 gels",
+"category": "Compléments alimentaires",
+"brand": "NUTRISANTÉ LABORATOIRES",
+"qty": 42,
+"price": 980.88,
+"cost": 882.95,
+"unit": "U"
+},
+{
+"id": 737,
+"name": "Nyland pansement sparadrap tisse perfore marron 18cm*5m NYD011",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 4,
+"price": 735.0,
+"cost": 384.24,
+"unit": "U"
+},
+{
+"id": 738,
+"name": "Octos Urilyse confort urinaire",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 4,
+"price": 1833.34,
+"cost": 1499.99,
+"unit": "U"
+},
+{
+"id": 739,
+"name": "Octos vigerme Flexovit bt/60",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 5,
+"price": 2000.0,
+"cost": 1636.36,
+"unit": "U"
+},
+{
+"id": 740,
+"name": "OK pharma Biomag 400mg OKP07",
+"category": "Dermo-Cos & Make-up",
+"brand": "OK PHARMA",
+"qty": 22,
+"price": 747.5,
+"cost": 679.55,
+"unit": "U"
+},
+{
+"id": 741,
+"name": "OK pharma opti-kid omega 3 sirop 100ml OKP07",
+"category": "Compléments alimentaires",
+"brand": "OK PHARMA",
+"qty": 13,
+"price": 625.0,
+"cost": 511.36,
+"unit": "U"
+},
+{
+"id": 742,
+"name": "OK pharma pregna+ bt/30 ok07",
+"category": "Compléments alimentaires",
+"brand": "OK PHARMA",
+"qty": 12,
+"price": 815.65,
+"cost": 670.16,
+"unit": "U"
+},
+{
+"id": 743,
+"name": "Omron pese personne elec en verre gris HN-289-ESL OMR11",
+"category": "Dispositifs Médicaux",
+"brand": "OMRON",
+"qty": 1,
+"price": 5507.03,
+"cost": 5006.39,
+"unit": "U"
+},
+{
+"id": 744,
+"name": "ONYX EASYFER 120MG BT 30 GEL ONX",
+"category": "Compléments alimentaires",
+"brand": "ONYX PHARMA ZERIZER TARF",
+"qty": 1,
+"price": 864.41,
+"cost": 648.31,
+"unit": "U"
+},
+{
+"id": 745,
+"name": "Oraldent BAD tongue cleaner anti slip ORL04",
+"category": "Hygiène bucco-dentaire",
+"brand": "ORALDENT",
+"qty": 12,
+"price": 99.0,
+"cost": 40.0,
+"unit": "U"
+},
+{
+"id": 746,
+"name": "Orthopro chevillere elastique reglable",
+"category": "Matériel orthopédique",
+"brand": "Sans marque",
+"qty": 45,
+"price": 230.33,
+"cost": 179.94,
+"unit": "U"
+},
+{
+"id": 747,
+"name": "Orthopro serre poignet de maintien reglable",
+"category": "Matériel orthopédique",
+"brand": "Sans marque",
+"qty": 13,
+"price": 315.29,
+"cost": 244.72,
+"unit": "U"
+},
+{
+"id": 748,
+"name": "Orthopro serre pouce reglable",
+"category": "Matériel orthopédique",
+"brand": "Sans marque",
+"qty": 21,
+"price": 245.0,
+"cost": 182.82,
+"unit": "U"
+},
+{
+"id": 749,
+"name": "Oryks-plast boite a pharmacie PM ORY11",
+"category": "Dispositifs Médicaux",
+"brand": "ORYKS-PLAST",
+"qty": 1,
+"price": 227.7,
+"cost": 218.3,
+"unit": "U"
+},
+{
+"id": 750,
+"name": "Paavo solution pour les lentilles 125ml pav02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "PAAVO",
+"qty": 12,
+"price": 533.0,
+"cost": 418.62,
+"unit": "U"
+},
+{
+"id": 751,
+"name": "Patch scorpion bt/07",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 89,
+"price": 480.0,
+"cost": 380.0,
+"unit": "U"
+},
+{
+"id": 752,
+"name": "PERKINS Bad medium bt/12",
+"category": "Hygiène bucco-dentaire",
+"brand": "PERKINS",
+"qty": 323,
+"price": 179.98,
+"cost": 162.0,
+"unit": "U"
+},
+{
+"id": 753,
+"name": "Permanenza kn 95 ffp2 (5 couche ) b/20 prz09",
+"category": "Parapharm",
+"brand": "ALDISMED",
+"qty": 17020,
+"price": 34.5,
+"cost": 29.96,
+"unit": "U"
+},
+{
+"id": 754,
+"name": "PESE BEBE GM",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 1,
+"price": 9000.0,
+"cost": 4500.0,
+"unit": "U"
+},
+{
+"id": 755,
+"name": "PESE BEBE PETIT MODELE",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 3,
+"price": 8500.0,
+"cost": 4500.0,
+"unit": "U"
+},
+{
+"id": 756,
+"name": "Pharma makers conceptmax women fertilite feminine BT/30 PMK07",
+"category": "Compléments alimentaires",
+"brand": "PHARMA MAKERS",
+"qty": 2,
+"price": 4144.58,
+"cost": 3466.36,
+"unit": "U"
+},
+{
+"id": 757,
+"name": "Pharmaghreb douce plus shampoing bebe 200ml PHG02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "PHARMAGHREB",
+"qty": 50,
+"price": 157.5,
+"cost": 136.96,
+"unit": "U"
+},
+{
+"id": 758,
+"name": "Pharmaghreb septhol gel douleurs musculaires et articulaires t/50 100g PHG11",
+"category": "Dispositifs Médicaux",
+"brand": "PHARMAGHREB",
+"qty": 31,
+"price": 133.92,
+"cost": 125.88,
+"unit": "U"
+},
+{
+"id": 759,
+"name": "Pharmaghreb septhol liquide 225ml PHG11",
+"category": "Compléments alimentaires",
+"brand": "PHARMAGHREB",
+"qty": 7,
+"price": 196.03,
+"cost": 178.21,
+"unit": "U"
+},
+{
+"id": 760,
+"name": "Pharmaplast Cavidagel sterille hydrogel 15G",
+"category": "Dermo-Cos & Make-up",
+"brand": "PHARMAPLAST",
+"qty": 36,
+"price": 497.38,
+"cost": 452.16,
+"unit": "U"
+},
+{
+"id": 761,
+"name": "Pharmaplast Cavidagel sterille hydrogel 30 G",
+"category": "Dermo-Cos & Make-up",
+"brand": "PHARMAPLAST",
+"qty": 48,
+"price": 816.67,
+"cost": 681.74,
+"unit": "U"
+},
+{
+"id": 762,
+"name": "Pharmaplast cureaid ANTI RENFLEMENT pansement predecoupe bt/12 noir PHP09",
+"category": "Parapharm",
+"brand": "PHARMAPLAST",
+"qty": 24,
+"price": 239.65,
+"cost": 208.39,
+"unit": "U"
+},
+{
+"id": 763,
+"name": "Pharmaplast cureaid KIDS pansement predecoupe water resist bt/20 rose PHP09",
+"category": "Parapharm",
+"brand": "PHARMAPLAST",
+"qty": 5,
+"price": 179.99,
+"cost": 147.72,
+"unit": "U"
+},
+{
+"id": 764,
+"name": "Pharmaplast cureaid SENSITIVE pansement predecoupe bt/20 vert PHP09",
+"category": "Parapharm",
+"brand": "PHARMAPLAST",
+"qty": 7,
+"price": 149.99,
+"cost": 112.5,
+"unit": "U"
+},
+{
+"id": 765,
+"name": "Pharmed bio immunity vit d3 100 000+k2 10ml",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 1,
+"price": 1041.66,
+"cost": 909.09,
+"unit": "U"
+},
+{
+"id": 766,
+"name": "Pharmed lab andeol men bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 3,
+"price": 2041.66,
+"cost": 1856.06,
+"unit": "U"
+},
+{
+"id": 767,
+"name": "PHI Phinositol 30 sachets PHI07",
+"category": "Compléments alimentaires",
+"brand": "PHI",
+"qty": 2,
+"price": 3750.0,
+"cost": 3272.72,
+"unit": "U"
+},
+{
+"id": 768,
+"name": "Physiopharm articure plus ampules buv 10ml bt/30 PHM07",
+"category": "Compléments alimentaires",
+"brand": "PHYSIOPHARM",
+"qty": 13,
+"price": 2495.83,
+"cost": 1719.3,
+"unit": "U"
+},
+{
+"id": 769,
+"name": "Physiopharm articure plus pommade 50gr PHM07",
+"category": "Dermo-Cos & Make-up",
+"brand": "PHYSIOPHARM",
+"qty": 15,
+"price": 566.67,
+"cost": 378.44,
+"unit": "U"
+},
+{
+"id": 770,
+"name": "Physiopharm Vitatine sirop 125ml PHY07",
+"category": "Compléments alimentaires",
+"brand": "PHYSIOPHARM",
+"qty": 32,
+"price": 804.16,
+"cost": 623.1,
+"unit": "U"
+},
+{
+"id": 771,
+"name": "Phyto POULLOX lotion anti poux 220ml PLX06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 5,
+"price": 183.34,
+"cost": 141.0,
+"unit": "U"
+},
+{
+"id": 772,
+"name": "Phyto POULLOX shampoing anti poux 220ml PLX06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 71,
+"price": 183.34,
+"cost": 141.0,
+"unit": "U"
+},
+{
+"id": 773,
+"name": "Phytolab GAS OFF BT20",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 29,
+"price": 291.67,
+"cost": 252.13,
+"unit": "U"
+},
+{
+"id": 774,
+"name": "PHYTOLAB IBS OFF BT/20",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 12,
+"price": 541.66,
+"cost": 468.44,
+"unit": "U"
+},
+{
+"id": 775,
+"name": "Phytolife ferti boost homme bt/60",
+"category": "Compléments alimentaires",
+"brand": "PHYTOLIFE",
+"qty": 1,
+"price": 3874.99,
+"cost": 3188.06,
+"unit": "U"
+},
+{
+"id": 776,
+"name": "Phytolife vitamine c complexe 650mg energie et vitalite bt/30 PHL07",
+"category": "Compléments alimentaires",
+"brand": "PHYTOLIFE",
+"qty": 2,
+"price": 1000.0,
+"cost": 909.09,
+"unit": "U"
+},
+{
+"id": 777,
+"name": "Pic insupen aiguille 32g X 12mm 100 pcs -8- c/12 PIC11",
+"category": "Dispositifs Médicaux",
+"brand": "PIC SOLUTION",
+"qty": 12,
+"price": 1832.6,
+"cost": 1666.0,
+"unit": "U"
+},
+{
+"id": 778,
+"name": "Pissette 1000ml",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 1,
+"price": 250.0,
+"cost": 187.0,
+"unit": "U"
+},
+{
+"id": 779,
+"name": "Podorelax semelles IDEAL PDX011",
+"category": "Matériel orthopédique",
+"brand": "Sans marque",
+"qty": 7,
+"price": 595.0,
+"cost": 462.68,
+"unit": "U"
+},
+{
+"id": 780,
+"name": "Polident crème fixative  POL04",
+"category": "Hygiène bucco-dentaire",
+"brand": "POLIDENT",
+"qty": 4,
+"price": 1097.6,
+"cost": 980.0,
+"unit": "U"
+},
+{
+"id": 781,
+"name": "Pot noir",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 100,
+"price": 15.0,
+"cost": 11.53,
+"unit": "U"
+},
+{
+"id": 782,
+"name": "Proderma moderm soleil huile de bronzage adulte et enfants en spray 125ml PRO01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PRODERMA",
+"qty": 20,
+"price": 450.0,
+"cost": 385.0,
+"unit": "U"
+},
+{
+"id": 783,
+"name": "Proderma polydermil crème émolliente 200ml c/40 PRO01",
+"category": "Dermo-Cos & Make-up",
+"brand": "PRODERMA",
+"qty": 7,
+"price": 541.66,
+"cost": 428.32,
+"unit": "U"
+},
+{
+"id": 784,
+"name": "Proderma polydermyl creme emolliente avec pompe 400ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "PRODERMA",
+"qty": 6,
+"price": 850.0,
+"cost": 666.0,
+"unit": "U"
+},
+{
+"id": 785,
+"name": "Proderma soulagel gel apaisant pour massage 50ml c/48 PRO11",
+"category": "Dispositifs Médicaux",
+"brand": "PRODERMA",
+"qty": 57,
+"price": 270.83,
+"cost": 192.18,
+"unit": "U"
+},
+{
+"id": 786,
+"name": "PRODICOS bobogel gel gingival 25 ml",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 20,
+"price": 499.99,
+"cost": 491.73,
+"unit": "U"
+},
+{
+"id": 787,
+"name": "Prodicos madecryl creme pour plaies et cicatrices 25gr PDC07",
+"category": "Compléments alimentaires",
+"brand": "PRODICOS",
+"qty": 7,
+"price": 375.0,
+"cost": 340.0,
+"unit": "U"
+},
+{
+"id": 788,
+"name": "Prog alcool chirurgical 70°/1L PRG09",
+"category": "Parapharm",
+"brand": "PROG",
+"qty": 92,
+"price": 495.0,
+"cost": 390.0,
+"unit": "U"
+},
+{
+"id": 789,
+"name": "Prog alcool chirurgical 70°/250ML PRG09",
+"category": "Parapharm",
+"brand": "PROG",
+"qty": 3318,
+"price": 168.0,
+"cost": 128.0,
+"unit": "U"
+},
+{
+"id": 790,
+"name": "Prog alcool chirurgical 70°/60cc PRG09",
+"category": "Parapharm",
+"brand": "PROG",
+"qty": 8621,
+"price": 45.14,
+"cost": 35.0,
+"unit": "U"
+},
+{
+"id": 791,
+"name": "Promedal kdm seringue 1ml insuline bt/100",
+"category": "Parapharm",
+"brand": "Promedal",
+"qty": 195,
+"price": 17.27,
+"cost": 9.19,
+"unit": "U"
+},
+{
+"id": 792,
+"name": "Prosuitex coledent créme adhesive bleu PRO04",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROSUITEX",
+"qty": 16,
+"price": 850.0,
+"cost": 742.0,
+"unit": "U"
+},
+{
+"id": 793,
+"name": "Prosuitex coledent créme adhesive rose PRO04",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROSUITEX",
+"qty": 1,
+"price": 850.0,
+"cost": 742.0,
+"unit": "U"
+},
+{
+"id": 794,
+"name": "Prosuitex coledent créme adhesive soin et tolerance gris PRO04",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROSUITEX",
+"qty": 23,
+"price": 850.0,
+"cost": 742.0,
+"unit": "U"
+},
+{
+"id": 795,
+"name": "Prosuitex DENT  plaque controle T/100g (vert) PRO04",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROSUITEX",
+"qty": 4,
+"price": 239.32,
+"cost": 206.0,
+"unit": "U"
+},
+{
+"id": 796,
+"name": "Prosuitex DENT sante muqueuse orale T/100g (orange) PRO04",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROSUITEX",
+"qty": 18,
+"price": 355.35,
+"cost": 309.0,
+"unit": "U"
+},
+{
+"id": 797,
+"name": "Prosuitex DENT traitement 3D blancheur T/100g (bleu) PRO04",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROSUITEX",
+"qty": 17,
+"price": 236.9,
+"cost": 206.0,
+"unit": "U"
+},
+{
+"id": 798,
+"name": "Prosuitex DENT traitement anti-tartres T/100g (gris) PRO04",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROSUITEX",
+"qty": 18,
+"price": 236.9,
+"cost": 206.0,
+"unit": "U"
+},
+{
+"id": 799,
+"name": "Prosuitex DENT traitement gensive T/100g (rouge) PRO04",
+"category": "Hygiène bucco-dentaire",
+"brand": "PROSUITEX",
+"qty": 4,
+"price": 355.35,
+"cost": 309.0,
+"unit": "U"
+},
+{
+"id": 800,
+"name": "PURE BB Bib plastique A/B 150ml  0-6mois ref 38/39/40 CAR06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CARELIA",
+"qty": 1,
+"price": 220.0,
+"cost": 180.0,
+"unit": "U"
+},
+{
+"id": 801,
+"name": "PURE BB Bib plastique A/B 240ml 18mois ref 48/49/50 CAR06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CARELIA",
+"qty": 1,
+"price": 231.0,
+"cost": 189.0,
+"unit": "U"
+},
+{
+"id": 802,
+"name": "PURE BB Bib plastique S/B 240ml 6-18mois ref 28/29/30 CAR06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CARELIA",
+"qty": 9,
+"price": 209.0,
+"cost": 173.09,
+"unit": "U"
+},
+{
+"id": 803,
+"name": "PURE BB creme de change 75ml CAR06",
+"category": "Dermo-Cos & Make-up",
+"brand": "CARELIA",
+"qty": 6,
+"price": 306.67,
+"cost": 227.84,
+"unit": "U"
+},
+{
+"id": 804,
+"name": "PURE BB tetine +18mois  CAR06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "CARELIA",
+"qty": 2,
+"price": 133.64,
+"cost": 109.19,
+"unit": "U"
+},
+{
+"id": 805,
+"name": "Remond biberon en plastique 120ml -12- c/24 REM06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "REMOND",
+"qty": 59,
+"price": 595.85,
+"cost": 509.25,
+"unit": "U"
+},
+{
+"id": 806,
+"name": "Remond biberon en plastique 270ml -11- c/24 REM06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "REMOND",
+"qty": 102,
+"price": 699.94,
+"cost": 501.26,
+"unit": "U"
+},
+{
+"id": 807,
+"name": "RF supper appetit herbal sirop 125ml",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 4,
+"price": 310.5,
+"cost": 245.0,
+"unit": "U"
+},
+{
+"id": 808,
+"name": "Rosaspharma aliovasc bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 5,
+"price": 1241.66,
+"cost": 756.61,
+"unit": "U"
+},
+{
+"id": 809,
+"name": "Rosaspharma D3 1000UI bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 26,
+"price": 591.67,
+"cost": 332.8,
+"unit": "U"
+},
+{
+"id": 810,
+"name": "Rosaspharma D3 50000UI bt/12",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 130,
+"price": 658.34,
+"cost": 370.3,
+"unit": "U"
+},
+{
+"id": 811,
+"name": "Rosaspharma E 400mg twistoff bt/20",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 5,
+"price": 758.13,
+"cost": 426.43,
+"unit": "U"
+},
+{
+"id": 812,
+"name": "Rosaspharma fertiole  bt/60",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 5,
+"price": 3825.01,
+"cost": 2796.94,
+"unit": "U"
+},
+{
+"id": 813,
+"name": "Rosaspharma grossesse omega 3 bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 58,
+"price": 829.17,
+"cost": 470.41,
+"unit": "U"
+},
+{
+"id": 814,
+"name": "Rosaspharma magno 3B mag+b1+b6+b12  bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 53,
+"price": 741.67,
+"cost": 420.77,
+"unit": "U"
+},
+{
+"id": 815,
+"name": "Rosaspharma magno B6  bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 2,
+"price": 908.34,
+"cost": 664.2,
+"unit": "U"
+},
+{
+"id": 816,
+"name": "Rosaspharma magnozinc  bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 26,
+"price": 875.0,
+"cost": 492.17,
+"unit": "U"
+},
+{
+"id": 817,
+"name": "Rosaspharma omega 3 1000mg bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 52,
+"price": 1041.66,
+"cost": 590.97,
+"unit": "U"
+},
+{
+"id": 818,
+"name": "Rosaspharma prostal  bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 3,
+"price": 1624.99,
+"cost": 1188.24,
+"unit": "U"
+},
+{
+"id": 819,
+"name": "Rosaspharma vit A 10000UI bt/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 19,
+"price": 1250.0,
+"cost": 703.1,
+"unit": "U"
+},
+{
+"id": 820,
+"name": "Rosaspharma vit C 500mg bt/20",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 18,
+"price": 375.0,
+"cost": 195.86,
+"unit": "U"
+},
+{
+"id": 821,
+"name": "Rossmax adaptateur 06v RSM11",
+"category": "Dispositifs Médicaux",
+"brand": "ROSSMAX",
+"qty": 2,
+"price": 1264.31,
+"cost": 1011.45,
+"unit": "U"
+},
+{
+"id": 822,
+"name": "Sachet pharmacie XL 100 bc011",
+"category": "Parapharm",
+"brand": "BC",
+"qty": 51,
+"price": 197.8,
+"cost": 166.5,
+"unit": "U"
+},
+{
+"id": 823,
+"name": "Saidal serum injectable 0.9% 500ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 2,
+"price": 148.35,
+"cost": 138.0,
+"unit": "U"
+},
+{
+"id": 824,
+"name": "Saned semelle en silicone T/S SND011",
+"category": "Matériel orthopédique",
+"brand": "Sans marque",
+"qty": 7,
+"price": 2100.0,
+"cost": 1920.0,
+"unit": "U"
+},
+{
+"id": 825,
+"name": "SanSiro Algo Bib Plastique S/B Doseur 60ML REF:P005",
+"category": "Puériculture et hygiéne bébé",
+"brand": "SANSIRO",
+"qty": 104,
+"price": 105.0,
+"cost": 84.6,
+"unit": "U"
+},
+{
+"id": 826,
+"name": "SanSiro Amuse dent silicone REF:S2027",
+"category": "Puériculture et hygiéne bébé",
+"brand": "SANSIRO",
+"qty": 157,
+"price": 164.0,
+"cost": 139.2,
+"unit": "U"
+},
+{
+"id": 827,
+"name": "SanSiro Papillon Bib Plastique S/B PM 150ML REF:SP0007",
+"category": "Puériculture et hygiéne bébé",
+"brand": "SANSIRO",
+"qty": 18,
+"price": 115.0,
+"cost": 100.0,
+"unit": "U"
+},
+{
+"id": 828,
+"name": "Sansiro pommade robb",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "SANSIRO",
+"qty": 27,
+"price": 119.0,
+"cost": 95.83,
+"unit": "U"
+},
+{
+"id": 829,
+"name": "SanSiro Sucette pleine REF: S2022",
+"category": "Puériculture et hygiéne bébé",
+"brand": "SANSIRO",
+"qty": 34,
+"price": 88.0,
+"cost": 72.15,
+"unit": "U"
+},
+{
+"id": 830,
+"name": "SanSiro Sucette Silicone Physiologique REF: S2013",
+"category": "Puériculture et hygiéne bébé",
+"brand": "SANSIRO",
+"qty": 1284,
+"price": 88.0,
+"cost": 74.97,
+"unit": "U"
+},
+{
+"id": 831,
+"name": "Sante kare ashwagandha 500mg",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 56,
+"price": 666.67,
+"cost": 281.25,
+"unit": "U"
+},
+{
+"id": 832,
+"name": "Sante kare collagen 1370mg hydrolise+vitC BT/30",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 60,
+"price": 1000.0,
+"cost": 523.74,
+"unit": "U"
+},
+{
+"id": 833,
+"name": "Sante propharm DAKIN 125ML RBB09",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 37,
+"price": 45.0,
+"cost": 29.52,
+"unit": "U"
+},
+{
+"id": 834,
+"name": "Sante propharm DAKIN 250ML RBB09",
+"category": "Parapharm",
+"brand": "RBB",
+"qty": 81,
+"price": 55.0,
+"cost": 35.12,
+"unit": "U"
+},
+{
+"id": 835,
+"name": "Santeva natuzen zinc gout fraise sirop F/100ml SNT07",
+"category": "Compléments alimentaires",
+"brand": "SANTEVA",
+"qty": 3,
+"price": 620.84,
+"cost": 507.96,
+"unit": "U"
+},
+{
+"id": 836,
+"name": "Sci appetit 4 bt/30 SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 53,
+"price": 741.67,
+"cost": 654.7,
+"unit": "U"
+},
+{
+"id": 837,
+"name": "SCI arthrofit + curcuma bt30 cmp SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 10,
+"price": 2487.5,
+"cost": 2204.83,
+"unit": "U"
+},
+{
+"id": 838,
+"name": "Sci desimax femme fortifiant sexuel bt/30 SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 3,
+"price": 2066.67,
+"cost": 1822.42,
+"unit": "U"
+},
+{
+"id": 839,
+"name": "Sci desimax homme fortifiant sexuel bt/20 SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 3,
+"price": 1900.0,
+"cost": 1684.09,
+"unit": "U"
+},
+{
+"id": 840,
+"name": "SCI endometirixx regle douleureuse bt/30 cmp",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 3,
+"price": 2375.0,
+"cost": 2051.14,
+"unit": "U"
+},
+{
+"id": 841,
+"name": "SCI Fertisitol ovaires polykystique+d3 bt/30",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 2,
+"price": 1875.0,
+"cost": 1661.94,
+"unit": "U"
+},
+{
+"id": 842,
+"name": "Sci Fyto max DHEA 75GR BT/30 SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 28,
+"price": 4883.34,
+"cost": 4217.42,
+"unit": "U"
+},
+{
+"id": 843,
+"name": "Sci fyto max men (PPA 4850) cure 15 jours SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 3,
+"price": 4041.66,
+"cost": 3499.71,
+"unit": "U"
+},
+{
+"id": 844,
+"name": "Sci fyto max men (PPA9480) 30j BT/60cmp & 60gll SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 3,
+"price": 7900.0,
+"cost": 6840.68,
+"unit": "U"
+},
+{
+"id": 845,
+"name": "SCI Fyto max SOPK ovaire bt/30 15jours SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 6,
+"price": 4041.66,
+"cost": 3490.53,
+"unit": "U"
+},
+{
+"id": 846,
+"name": "Sci fyto max women (PPA 4680) bt/30+30gll SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 3,
+"price": 3900.0,
+"cost": 3368.18,
+"unit": "U"
+},
+{
+"id": 847,
+"name": "Sci fyto max women (PPA 8980) bt/60+60gll SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 3,
+"price": 7483.34,
+"cost": 6462.88,
+"unit": "U"
+},
+{
+"id": 848,
+"name": "SCI kronicalm 50mg bt/30 SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 17,
+"price": 1541.67,
+"cost": 1365.17,
+"unit": "U"
+},
+{
+"id": 849,
+"name": "SCI les neuf b bt30 cmp SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 123,
+"price": 788.34,
+"cost": 688.51,
+"unit": "U"
+},
+{
+"id": 850,
+"name": "SCI noseflux nause vomissement 20cmp SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 10,
+"price": 716.67,
+"cost": 635.23,
+"unit": "U"
+},
+{
+"id": 851,
+"name": "SCI Nutrigest + propolis gelules bt/30",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 5,
+"price": 1000.0,
+"cost": 863.64,
+"unit": "U"
+},
+{
+"id": 852,
+"name": "SCI nutrigest d3 1000+magnesium bt/30",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 5,
+"price": 625.0,
+"cost": 553.98,
+"unit": "U"
+},
+{
+"id": 853,
+"name": "SCI Nutrigest Q10 120 mg bt/20",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 4,
+"price": 1316.67,
+"cost": 1137.08,
+"unit": "U"
+},
+{
+"id": 854,
+"name": "SCI NUTRIGEST VIT B12 30CMP SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 5,
+"price": 633.34,
+"cost": 546.97,
+"unit": "U"
+},
+{
+"id": 855,
+"name": "Sci nutrigest+ grossesse bt/30 SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 15,
+"price": 816.67,
+"cost": 723.86,
+"unit": "U"
+},
+{
+"id": 856,
+"name": "Sci nutrigest+ magnesium 150mg  bt/30 SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 86,
+"price": 820.83,
+"cost": 708.9,
+"unit": "U"
+},
+{
+"id": 857,
+"name": "SCI NUTRIGEST+ sommeil 150mg  20CMP SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 2,
+"price": 650.0,
+"cost": 561.34,
+"unit": "U"
+},
+{
+"id": 858,
+"name": "SCI NUTRIGEST+ vision confort BT30 SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 7,
+"price": 1483.34,
+"cost": 1281.06,
+"unit": "U"
+},
+{
+"id": 859,
+"name": "SCI nutrigest+SELENIUM SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 6,
+"price": 1366.67,
+"cost": 1180.3,
+"unit": "U"
+},
+{
+"id": 860,
+"name": "SCI Ultra PEA 400 bt/30",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 8,
+"price": 1562.5,
+"cost": 1384.94,
+"unit": "U"
+},
+{
+"id": 861,
+"name": "SCI vitamine C 500mg a croquer/sucer SCI07",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 15,
+"price": 350.0,
+"cost": 201.51,
+"unit": "U"
+},
+{
+"id": 862,
+"name": "SCI ZINC 10 MG BTE 30 COMP",
+"category": "Compléments alimentaires",
+"brand": "SCI PHARMA",
+"qty": 14,
+"price": 820.83,
+"cost": 354.45,
+"unit": "U"
+},
+{
+"id": 863,
+"name": "SCORPION Rub gel anti douleurs musculaires tubes 30ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 27,
+"price": 399.99,
+"cost": 342.0,
+"unit": "U"
+},
+{
+"id": 864,
+"name": "Sensodyne BAD + bouchon extra souple SDY04",
+"category": "Hygiène bucco-dentaire",
+"brand": "SENSODYNE",
+"qty": 6,
+"price": 199.99,
+"cost": 163.24,
+"unit": "U"
+},
+{
+"id": 865,
+"name": "SEPTIDINE Polyvidone iodee 10 % fl 125ml PHG11",
+"category": "Dispositifs Médicaux",
+"brand": "PHARMAGHREB",
+"qty": 338,
+"price": 221.75,
+"cost": 201.59,
+"unit": "U"
+},
+{
+"id": 866,
+"name": "Seromed Serum physiologique 500ml HND09",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 5,
+"price": 116.0,
+"cost": 100.8,
+"unit": "U"
+},
+{
+"id": 867,
+"name": "Signal dent anti caries 50 ml rouge classic SIG04",
+"category": "Hygiène bucco-dentaire",
+"brand": "SIGNAL",
+"qty": 19,
+"price": 154.8,
+"cost": 138.06,
+"unit": "U"
+},
+{
+"id": 868,
+"name": "Signal dent systeme blancheur simple 75ml SIG04",
+"category": "Hygiène bucco-dentaire",
+"brand": "SIGNAL",
+"qty": 17,
+"price": 260.0,
+"cost": 200.0,
+"unit": "U"
+},
+{
+"id": 869,
+"name": "Simbel huile d'amande douce spray 60ml",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "SIMBLE",
+"qty": 1,
+"price": 125.0,
+"cost": 99.5,
+"unit": "U"
+},
+{
+"id": 870,
+"name": "Simbel lotion anti poux  140ml",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "SIMBLE",
+"qty": 3,
+"price": 208.33,
+"cost": 142.27,
+"unit": "U"
+},
+{
+"id": 871,
+"name": "Simbel shampooing traitant anti pelliculaire 200ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "SIMBLE",
+"qty": 10,
+"price": 208.34,
+"cost": 145.71,
+"unit": "U"
+},
+{
+"id": 872,
+"name": "Simbel VASELINE BEBE 70ML",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 62,
+"price": 119.98,
+"cost": 109.0,
+"unit": "U"
+},
+{
+"id": 873,
+"name": "Simble maxi fresh menth bt/16",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 4,
+"price": 108.2,
+"cost": 95.5,
+"unit": "U"
+},
+{
+"id": 874,
+"name": "Skinesens creme émolliente 200ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "SKINESENS",
+"qty": 5,
+"price": 541.25,
+"cost": 492.04,
+"unit": "U"
+},
+{
+"id": 875,
+"name": "Skinesens creme émolliente 250ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "SKINESENS",
+"qty": 5,
+"price": 627.0,
+"cost": 570.0,
+"unit": "U"
+},
+{
+"id": 876,
+"name": "Skinesens creme émolliente 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "SKINESENS",
+"qty": 5,
+"price": 224.4,
+"cost": 204.0,
+"unit": "U"
+},
+{
+"id": 877,
+"name": "Skinesens creme glycerine eclaircissante 250ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "SKINESENS",
+"qty": 18,
+"price": 495.0,
+"cost": 450.0,
+"unit": "U"
+},
+{
+"id": 878,
+"name": "Skinesens creme glycerine eclaircissante 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "SKINESENS",
+"qty": 96,
+"price": 165.0,
+"cost": 150.0,
+"unit": "U"
+},
+{
+"id": 879,
+"name": "Skinesens creme glycerine eclaircissante 75ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "SKINESENS",
+"qty": 48,
+"price": 291.67,
+"cost": 265.15,
+"unit": "U"
+},
+{
+"id": 880,
+"name": "Skinesens créme pieds secs 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "SKINESENS",
+"qty": 5,
+"price": 316.58,
+"cost": 287.8,
+"unit": "U"
+},
+{
+"id": 881,
+"name": "Socothyd bande a gaz bt10",
+"category": "Parapharm",
+"brand": "SOCOTHYD",
+"qty": 190,
+"price": 29.92,
+"cost": 25.65,
+"unit": "U"
+},
+{
+"id": 882,
+"name": "Soins phyto gel intime ph 8.5 120ml c/42 SPH02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "SOINS PHYTO",
+"qty": 374,
+"price": 329.16,
+"cost": 269.32,
+"unit": "U"
+},
+{
+"id": 883,
+"name": "Soins phyto gel intime ph 8.5 200ml c/30 SPH02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "SOINS PHYTO",
+"qty": 60,
+"price": 458.33,
+"cost": 375.88,
+"unit": "U"
+},
+{
+"id": 884,
+"name": "Soins phyto nuirax gel lubrifiant contact classic SPH11",
+"category": "Dispositifs Médicaux",
+"brand": "SOINS PHYTO",
+"qty": 3,
+"price": 458.34,
+"cost": 375.0,
+"unit": "U"
+},
+{
+"id": 885,
+"name": "Soins phyto sointhod 225ml c/35 SPH11",
+"category": "Dispositifs Médicaux",
+"brand": "SOINS PHYTO",
+"qty": 24,
+"price": 250.0,
+"cost": 150.34,
+"unit": "U"
+},
+{
+"id": 886,
+"name": "Spengler stethoscop DOUBLE PAVILLON adulte SPN011",
+"category": "Dispositifs Médicaux",
+"brand": "SPENGLER",
+"qty": 28,
+"price": 650.0,
+"cost": 0.0,
+"unit": "U"
+},
+{
+"id": 887,
+"name": "Speromed mini semelle parfume bt/06",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 7,
+"price": 425.0,
+"cost": 363.64,
+"unit": "U"
+},
+{
+"id": 888,
+"name": "SPIC akilda pied diabetique protection globale 50ml SPC",
+"category": "Parapharm",
+"brand": "AKILEINE",
+"qty": 4,
+"price": 522.5,
+"cost": 441.75,
+"unit": "U"
+},
+{
+"id": 889,
+"name": "Spic Akileine bleu 50ml creme pieds tres secs SPC01",
+"category": "Dermo-Cos & Make-up",
+"brand": "SPIC",
+"qty": 7,
+"price": 522.5,
+"cost": 441.75,
+"unit": "U"
+},
+{
+"id": 890,
+"name": "Spic Akileine CICALEINE baume fissures et crevasses 50ml SPC01",
+"category": "Dermo-Cos & Make-up",
+"brand": "SPIC",
+"qty": 9,
+"price": 522.5,
+"cost": 441.75,
+"unit": "U"
+},
+{
+"id": 891,
+"name": "Spic Akileine spray noir deodorant pied anti transpirant 150ml SPC01",
+"category": "Dermo-Cos & Make-up",
+"brand": "SPIC",
+"qty": 11,
+"price": 444.36,
+"cost": 355.49,
+"unit": "U"
+},
+{
+"id": 892,
+"name": "Spic akipoux lotion anti poux et lentes 200ml SPIC01",
+"category": "Dermo-Cos & Make-up",
+"brand": "SPIC",
+"qty": 69,
+"price": 208.34,
+"cost": 163.09,
+"unit": "U"
+},
+{
+"id": 893,
+"name": "Spic Akipoux shamp anti poux et lentes 200ml SPIC01",
+"category": "Dermo-Cos & Make-up",
+"brand": "SPIC",
+"qty": 47,
+"price": 208.34,
+"cost": 163.3,
+"unit": "U"
+},
+{
+"id": 894,
+"name": "Spic akipoux talc poudre 100gr SPIC01",
+"category": "Puériculture et hygiéne bébé",
+"brand": "SPIC",
+"qty": 80,
+"price": 241.16,
+"cost": 195.02,
+"unit": "U"
+},
+{
+"id": 895,
+"name": "SPIC chambre d'hinalation 3 masques nourisson enfant adulte",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 7,
+"price": 1385.0,
+"cost": 1200.0,
+"unit": "U"
+},
+{
+"id": 896,
+"name": "Spic moustiderm creme apres piques 50ml SPC01",
+"category": "Dermo-Cos & Make-up",
+"brand": "SPIC",
+"qty": 5,
+"price": 329.0,
+"cost": 239.2,
+"unit": "U"
+},
+{
+"id": 897,
+"name": "Spic moustiderm spray corporel adulte (orange) SPC01",
+"category": "Dermo-Cos & Make-up",
+"brand": "SPIC",
+"qty": 10,
+"price": 293.25,
+"cost": 255.0,
+"unit": "U"
+},
+{
+"id": 898,
+"name": "Spic obebe embout nasal silicone +4mois",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 28,
+"price": 165.0,
+"cost": 145.0,
+"unit": "U"
+},
+{
+"id": 899,
+"name": "Spic obebe mouche nez +fil bt/12",
+"category": "Puériculture et hygiéne bébé",
+"brand": "SPIC",
+"qty": 22,
+"price": 224.0,
+"cost": 195.0,
+"unit": "U"
+},
+{
+"id": 900,
+"name": "Spic obebe rinceur nasal 01seringue+02embout",
+"category": "Puériculture et hygiéne bébé",
+"brand": "SPIC",
+"qty": 33,
+"price": 229.12,
+"cost": 195.0,
+"unit": "U"
+},
+{
+"id": 901,
+"name": "SPIC ORAL FRESH SPRAY 20ML P36",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "SPIC",
+"qty": 53,
+"price": 145.98,
+"cost": 122.8,
+"unit": "U"
+},
+{
+"id": 902,
+"name": "SPIC sos labail beurre CACAO CLASSIC SPC09",
+"category": "Parapharm",
+"brand": "SPIC",
+"qty": 288,
+"price": 185.48,
+"cost": 159.9,
+"unit": "U"
+},
+{
+"id": 903,
+"name": "SPIC sos labail beurre CACAO TRANSPARENT SPC09",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 216,
+"price": 185.48,
+"cost": 159.9,
+"unit": "U"
+},
+{
+"id": 904,
+"name": "SPIC XETRIL BAIN DE BOUCHE adulte 500ML",
+"category": "Hygiène bucco-dentaire",
+"brand": "SPIC",
+"qty": 1,
+"price": 516.67,
+"cost": 465.0,
+"unit": "U"
+},
+{
+"id": 905,
+"name": "Steri fine aiguilles pour stylo 8MM",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1499.98,
+"cost": 1290.61,
+"unit": "U"
+},
+{
+"id": 906,
+"name": "Steri fine aiguilles pour stylo d'insuline 4mm 32/G bt/100",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 27,
+"price": 1572.9,
+"cost": 1382.21,
+"unit": "U"
+},
+{
+"id": 907,
+"name": "Steri fine aiguilles pour stylo d'insuline 5mm 32/G bt/100",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 24,
+"price": 1572.9,
+"cost": 1383.42,
+"unit": "U"
+},
+{
+"id": 908,
+"name": "Steri fine aiguilles pour stylo d'insuline 6mm 32/G bt/100",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 19,
+"price": 1572.9,
+"cost": 1383.41,
+"unit": "U"
+},
+{
+"id": 909,
+"name": "Stevia edulcorants bt/100",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 170,
+"price": 483.34,
+"cost": 417.49,
+"unit": "U"
+},
+{
+"id": 910,
+"name": "STEVIA Nutrisante magnesium marin +vit b1 b2 b6 effervescents bt12",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 4,
+"price": 498.33,
+"cost": 395.37,
+"unit": "U"
+},
+{
+"id": 911,
+"name": "Sunexmack Epaullier A607",
+"category": "Matériel orthopédique",
+"brand": "YC",
+"qty": 5,
+"price": 899.98,
+"cost": 722.7,
+"unit": "U"
+},
+{
+"id": 912,
+"name": "Supradyn Boost eff bt10 SPD07",
+"category": "Compléments alimentaires",
+"brand": "SUPLEMENTO",
+"qty": 20,
+"price": 1158.33,
+"cost": 1025.78,
+"unit": "U"
+},
+{
+"id": 913,
+"name": "Supradyn energy eff bt10 SPD07",
+"category": "Compléments alimentaires",
+"brand": "SUPLEMENTO",
+"qty": 13,
+"price": 1125.0,
+"cost": 1022.1,
+"unit": "U"
+},
+{
+"id": 914,
+"name": "SUPRADYN MAG 120MG BTE15COMP EFFER",
+"category": "Compléments alimentaires",
+"brand": "SUPLEMENTO",
+"qty": 6,
+"price": 1231.66,
+"cost": 1119.69,
+"unit": "U"
+},
+{
+"id": 915,
+"name": "SUPRADYN MAG 120MG BTE30COMP EFFER",
+"category": "Compléments alimentaires",
+"brand": "SUPLEMENTO",
+"qty": 1,
+"price": 1833.34,
+"cost": 1666.66,
+"unit": "U"
+},
+{
+"id": 916,
+"name": "Surgi glove Gant STERILE 7.0 bt50",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 54,
+"price": 97.4,
+"cost": 84.7,
+"unit": "U"
+},
+{
+"id": 917,
+"name": "SW Hidjama islamia kit 6pcs PM",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 12,
+"price": 319.0,
+"cost": 259.1,
+"unit": "U"
+},
+{
+"id": 918,
+"name": "SW upper pen needles aiguille 6MM bt/100pcs",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 2,
+"price": 1695.0,
+"cost": 1379.4,
+"unit": "U"
+},
+{
+"id": 919,
+"name": "SW upper thermometre flexible adulte SW04",
+"category": "Parapharm",
+"brand": "SW",
+"qty": 4,
+"price": 566.73,
+"cost": 485.76,
+"unit": "U"
+},
+{
+"id": 920,
+"name": "SW upper thermometre flexible kids SW04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "SW",
+"qty": 22,
+"price": 545.69,
+"cost": 444.63,
+"unit": "U"
+},
+{
+"id": 921,
+"name": "SW upper thermometre RIGIDE adulte SW04",
+"category": "Parapharm",
+"brand": "SW",
+"qty": 12,
+"price": 556.6,
+"cost": 464.64,
+"unit": "U"
+},
+{
+"id": 922,
+"name": "Swingmed matelas anti escarres a air SM1006",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 1,
+"price": 4500.0,
+"cost": 3900.0,
+"unit": "U"
+},
+{
+"id": 923,
+"name": "Swingmed matelas anti escarres a EAU SM1006",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 1,
+"price": 5200.0,
+"cost": 4500.0,
+"unit": "U"
+},
+{
+"id": 924,
+"name": "Symbiose biafiderm emulsion rougeurs et brulures SMB01",
+"category": "Dermo-Cos & Make-up",
+"brand": "SYMBIOSE",
+"qty": 18,
+"price": 204.17,
+"cost": 131.47,
+"unit": "U"
+},
+{
+"id": 925,
+"name": "Symbiose Profreeeze GEL Soulages les Doleures Musculaires Et Articulaires 50ML REF:0302",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 7,
+"price": 241.66,
+"cost": 155.61,
+"unit": "U"
+},
+{
+"id": 926,
+"name": "Symbiose Profreeze ROLL-ON Soulage Les Douleurs Musculaires ET Articulaires 100ML",
+"category": "Dermo-Cos & Make-up",
+"brand": "Sans marque",
+"qty": 10,
+"price": 241.66,
+"cost": 155.61,
+"unit": "U"
+},
+{
+"id": 927,
+"name": "Symbiose Titarroide pommade hemorroides 30gr SMB01",
+"category": "Dermo-Cos & Make-up",
+"brand": "SYMBIOSE",
+"qty": 3,
+"price": 325.0,
+"cost": 157.06,
+"unit": "U"
+},
+{
+"id": 928,
+"name": "Technipharm compresse sterile 10*10 bt10 c/120",
+"category": "Parapharm",
+"brand": "TECHNI",
+"qty": 287,
+"price": 107.98,
+"cost": 87.78,
+"unit": "U"
+},
+{
+"id": 929,
+"name": "Technipharm compresse sterile 5*5 bt10 c/120",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 435,
+"price": 65.0,
+"cost": 43.1,
+"unit": "U"
+},
+{
+"id": 930,
+"name": "Technipharm compresse sterile 7.5*7.5 bt10 c/120",
+"category": "Parapharm",
+"brand": "TECHNI",
+"qty": 356,
+"price": 82.6,
+"cost": 67.45,
+"unit": "U"
+},
+{
+"id": 931,
+"name": "Tetra pansement predecoupe enfant BT/20 TRA09",
+"category": "Parapharm",
+"brand": "TETRA",
+"qty": 44,
+"price": 125.35,
+"cost": 107.11,
+"unit": "U"
+},
+{
+"id": 932,
+"name": "Tetra pansement predecoupe multi formes water resistant  BT/20 TRA09",
+"category": "Parapharm",
+"brand": "TETRA",
+"qty": 60,
+"price": 125.0,
+"cost": 106.26,
+"unit": "U"
+},
+{
+"id": 933,
+"name": "Tetra pansement predecoupe SENSIBLE BT/20 TRA09",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 123,
+"price": 125.0,
+"cost": 98.4,
+"unit": "U"
+},
+{
+"id": 934,
+"name": "Tetra pansement predecoupe transparant BT/20 TRA09",
+"category": "Parapharm",
+"brand": "TETRA",
+"qty": 100,
+"price": 129.95,
+"cost": 104.05,
+"unit": "U"
+},
+{
+"id": 935,
+"name": "Tetra tull 10*10bt/10 TTR011",
+"category": "Dispositifs Médicaux",
+"brand": "TEJ-PHARM",
+"qty": 7,
+"price": 739.2,
+"cost": 604.99,
+"unit": "U"
+},
+{
+"id": 936,
+"name": "Tetra tull 10*20bt/10 TTR011",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 7,
+"price": 1150.0,
+"cost": 981.07,
+"unit": "U"
+},
+{
+"id": 937,
+"name": "Theraplos Betafer (fe/c/cu/zn/b6/b9/b12) bt/30 cmp THR07",
+"category": "Compléments alimentaires",
+"brand": "THERAPLOS",
+"qty": 9,
+"price": 500.0,
+"cost": 227.28,
+"unit": "U"
+},
+{
+"id": 938,
+"name": "Theraplos Dolivit Immunite energie bt30/cmp THR07",
+"category": "Compléments alimentaires",
+"brand": "THERAPLOS",
+"qty": 12,
+"price": 625.0,
+"cost": 284.09,
+"unit": "U"
+},
+{
+"id": 939,
+"name": "Theraplos Vitamine c 500mg bt/30 gelule THR07",
+"category": "Compléments alimentaires",
+"brand": "THERAPLOS",
+"qty": 13,
+"price": 433.32,
+"cost": 196.96,
+"unit": "U"
+},
+{
+"id": 940,
+"name": "TK serum physiologique 0.9% 60ml colis 60",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 660,
+"price": 35.0,
+"cost": 24.72,
+"unit": "U"
+},
+{
+"id": 941,
+"name": "TRISA brossette inter-dentaire 1.3MM TRS04",
+"category": "Dermo-Cos & Make-up",
+"brand": "TRISA",
+"qty": 1,
+"price": 689.92,
+"cost": 616.0,
+"unit": "U"
+},
+{
+"id": 942,
+"name": "TRISA brossette inter-dentaire 1.6MM TRS04",
+"category": "Hygiène bucco-dentaire",
+"brand": "TRISA",
+"qty": 2,
+"price": 670.45,
+"cost": 616.0,
+"unit": "U"
+},
+{
+"id": 943,
+"name": "TWIN serum physiologique 500ml",
+"category": "Parapharm",
+"brand": "TWIN",
+"qty": 3,
+"price": 112.5,
+"cost": 79.55,
+"unit": "U"
+},
+{
+"id": 944,
+"name": "Ul juvamine A.C.E anti age  bt/45  JUV07",
+"category": "Compléments alimentaires",
+"brand": "JUVAMINE",
+"qty": 3,
+"price": 1666.66,
+"cost": 1513.22,
+"unit": "U"
+},
+{
+"id": 945,
+"name": "Ul juvamine magnesium 300mg + b6  JUV07",
+"category": "Compléments alimentaires",
+"brand": "JUVAMINE",
+"qty": 10,
+"price": 1041.67,
+"cost": 919.65,
+"unit": "U"
+},
+{
+"id": 946,
+"name": "Ul juvamine PCO peau-cheveux-ongle bt40  JUV07",
+"category": "Compléments alimentaires",
+"brand": "JUVAMINE",
+"qty": 6,
+"price": 1666.66,
+"cost": 1459.34,
+"unit": "U"
+},
+{
+"id": 947,
+"name": "UL stopcolic sirop 120ml UL07",
+"category": "Compléments alimentaires",
+"brand": "UNILAB",
+"qty": 8,
+"price": 658.34,
+"cost": 523.85,
+"unit": "U"
+},
+{
+"id": 948,
+"name": "Ul urgo coricide b/12 pansements ref:7111 URG09",
+"category": "Parapharm",
+"brand": "URGO",
+"qty": 22,
+"price": 475.0,
+"cost": 431.82,
+"unit": "U"
+},
+{
+"id": 949,
+"name": "Ul urgodermyl aphtes c/48 URG11",
+"category": "Dispositifs Médicaux",
+"brand": "URGO",
+"qty": 8,
+"price": 750.01,
+"cost": 681.83,
+"unit": "U"
+},
+{
+"id": 950,
+"name": "UPHARMA ugastro bt/10 UPH07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 4,
+"price": 406.88,
+"cost": 360.64,
+"unit": "U"
+},
+{
+"id": 951,
+"name": "UPHARMA uprane bt/10 UPH07",
+"category": "Compléments alimentaires",
+"brand": "UPHARMA",
+"qty": 10,
+"price": 410.62,
+"cost": 363.96,
+"unit": "U"
+},
+{
+"id": 952,
+"name": "UPHARMA utag sirop 100ml UPH07",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 5,
+"price": 762.55,
+"cost": 675.9,
+"unit": "U"
+},
+{
+"id": 953,
+"name": "Upper tire lait electrique portatif",
+"category": "Dispositifs Médicaux",
+"brand": "UPHARMA",
+"qty": 3,
+"price": 6795.98,
+"cost": 5702.42,
+"unit": "U"
+},
+{
+"id": 954,
+"name": "Ups coldent creme adhesive 40g (ROSE) UPS04",
+"category": "Hygiène bucco-dentaire",
+"brand": "UPS",
+"qty": 27,
+"price": 737.0,
+"cost": 670.0,
+"unit": "U"
+},
+{
+"id": 955,
+"name": "Ups coldent creme adhesive 40gr (BLEU) UPS04",
+"category": "Hygiène bucco-dentaire",
+"brand": "UPS",
+"qty": 27,
+"price": 737.0,
+"cost": 670.0,
+"unit": "U"
+},
+{
+"id": 956,
+"name": "Ups coldent creme adhesive blanche UPS011",
+"category": "Dispositifs Médicaux",
+"brand": "UPS",
+"qty": 30,
+"price": 737.0,
+"cost": 670.0,
+"unit": "U"
+},
+{
+"id": 957,
+"name": "Urgo eczecalm t/50ml",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 1,
+"price": 1166.66,
+"cost": 1060.6,
+"unit": "U"
+},
+{
+"id": 958,
+"name": "Uriage bariésun fluide toucher sec spf50+ 30 ml BST01",
+"category": "Dermo-Cos & Make-up",
+"brand": "URIAGE",
+"qty": 6,
+"price": 3000.0,
+"cost": 2500.0,
+"unit": "U"
+},
+{
+"id": 959,
+"name": "Uriage creme main 50ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "URIAGE",
+"qty": 1,
+"price": 916.66,
+"cost": 833.33,
+"unit": "U"
+},
+{
+"id": 960,
+"name": "Vaseline 200ml VAS02",
+"category": "Hygiène corporelle et cosmétique",
+"brand": "vaseline",
+"qty": 1,
+"price": 281.75,
+"cost": 245.0,
+"unit": "U"
+},
+{
+"id": 961,
+"name": "Venus viderm purifiant p+ doux peeling purifiant 150ml VEN01",
+"category": "Dermo-Cos & Make-up",
+"brand": "VENUS",
+"qty": 4,
+"price": 383.5,
+"cost": 295.0,
+"unit": "U"
+},
+{
+"id": 962,
+"name": "Venus viderm solaire s+ écran total invisible spf60 50ml VEN01",
+"category": "Dermo-Cos & Make-up",
+"brand": "VENUS",
+"qty": 24,
+"price": 365.0,
+"cost": 317.59,
+"unit": "U"
+},
+{
+"id": 963,
+"name": "Venus viderm solaire s+ écran total teinte spf60 50ml VEN01",
+"category": "Dermo-Cos & Make-up",
+"brand": "VENUS",
+"qty": 48,
+"price": 365.0,
+"cost": 317.59,
+"unit": "U"
+},
+{
+"id": 964,
+"name": "Verre hidjama 3*3 rouge",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 45,
+"price": 237.6,
+"cost": 198.0,
+"unit": "U"
+},
+{
+"id": 965,
+"name": "Verre hidjama de 1 A 6 gm bleu",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 123,
+"price": 237.6,
+"cost": 196.9,
+"unit": "U"
+},
+{
+"id": 966,
+"name": "Verre hidjama de 1 A 6 pm jaune",
+"category": "Dispositifs Médicaux",
+"brand": "Sans marque",
+"qty": 42,
+"price": 237.6,
+"cost": 187.0,
+"unit": "U"
+},
+{
+"id": 967,
+"name": "Verre hidjama de 2*2*2 vert",
+"category": "Parapharm",
+"brand": "Sans marque",
+"qty": 147,
+"price": 237.6,
+"cost": 197.08,
+"unit": "U"
+},
+{
+"id": 968,
+"name": "Vichy Dercos shampooing energisant 200ml",
+"category": "Dermo-Cos & Make-up",
+"brand": "VICHY",
+"qty": 8,
+"price": 2242.5,
+"cost": 1950.0,
+"unit": "U"
+},
+{
+"id": 969,
+"name": "Vigerm atriplex sopk 700mg bt/60",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 5,
+"price": 1191.66,
+"cost": 1002.08,
+"unit": "U"
+},
+{
+"id": 970,
+"name": "Vigor 250gr cereales miel effet bifidus 5M+ VIG06",
+"category": "Puériculture et hygiéne bébé",
+"brand": "VIGOR",
+"qty": 1,
+"price": 451.46,
+"cost": 410.68,
+"unit": "U"
+},
+{
+"id": 971,
+"name": "Vital Grossi vit plus vitamine sirop 150ml",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 14,
+"price": 791.66,
+"cost": 702.95,
+"unit": "U"
+},
+{
+"id": 972,
+"name": "Vital GrossiVit bebe et enfant sirop 250ml ref0015 VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 19,
+"price": 745.83,
+"cost": 657.69,
+"unit": "U"
+},
+{
+"id": 973,
+"name": "Vital GrossiVit gelules bt60 ref0046 VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 16,
+"price": 916.67,
+"cost": 817.2,
+"unit": "U"
+},
+{
+"id": 974,
+"name": "Vital GrossiVIT plus vitamine bt45 gelules ref0053 VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 21,
+"price": 954.16,
+"cost": 841.4,
+"unit": "U"
+},
+{
+"id": 975,
+"name": "Vital pediacttif gaz vit sirop 150ml ref0121 VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 19,
+"price": 541.66,
+"cost": 492.42,
+"unit": "U"
+},
+{
+"id": 976,
+"name": "Vital pediacttif sommeil sirop 150ml VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 8,
+"price": 541.67,
+"cost": 472.72,
+"unit": "U"
+},
+{
+"id": 977,
+"name": "Vital Vitonic allaitement b/45 gelules ref0084",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 12,
+"price": 791.67,
+"cost": 707.91,
+"unit": "U"
+},
+{
+"id": 978,
+"name": "Vital Vitonic CONCEPTION BT30 REF0060 VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 10,
+"price": 2291.67,
+"cost": 2020.83,
+"unit": "U"
+},
+{
+"id": 979,
+"name": "Vital Vitonic Fersang bt30 gelules ref8152 VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 6,
+"price": 625.0,
+"cost": 554.23,
+"unit": "U"
+},
+{
+"id": 980,
+"name": "Vital Vitonic fertilite b/120 VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 3,
+"price": 4041.66,
+"cost": 3545.64,
+"unit": "U"
+},
+{
+"id": 981,
+"name": "Vital Vitonic grossesses BT30 REF0022 VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 40,
+"price": 829.17,
+"cost": 740.86,
+"unit": "U"
+},
+{
+"id": 982,
+"name": "Vital Vitonic meno menopause b/45 VIT07",
+"category": "Compléments alimentaires",
+"brand": "VITAL",
+"qty": 7,
+"price": 1125.0,
+"cost": 997.16,
+"unit": "U"
+},
+{
+"id": 983,
+"name": "Viva genic cormax plus VG01",
+"category": "Dermo-Cos & Make-up",
+"brand": "VIVA GENIC",
+"qty": 37,
+"price": 588.06,
+"cost": 511.36,
+"unit": "U"
+},
+{
+"id": 984,
+"name": "Win dor nuit gouttes 1.9mg 50ml",
+"category": "Compléments alimentaires",
+"brand": "WINPHARMA",
+"qty": 7,
+"price": 666.66,
+"cost": 545.45,
+"unit": "U"
+},
+{
+"id": 985,
+"name": "WIN PHARMA aphtus 500mg soulage les aphtes a croquer bt/10",
+"category": "Compléments alimentaires",
+"brand": "Sans marque",
+"qty": 8,
+"price": 483.33,
+"cost": 395.45,
+"unit": "U"
+},
+{
+"id": 986,
+"name": "WIN tanakor en gouttes 45ml (ginko biloba)",
+"category": "Compléments alimentaires",
+"brand": "WINPHARMA",
+"qty": 3,
+"price": 833.34,
+"cost": 597.86,
+"unit": "U"
+},
+{
+"id": 987,
+"name": "WINET LINGETTE 36 PCS WSO04",
+"category": "Puériculture et hygiéne bébé",
+"brand": "WISSO",
+"qty": 98,
+"price": 49.99,
+"cost": 32.4,
+"unit": "U"
+},
+{
+"id": 988,
+"name": "WINET SAVON LIQUIDE 300ML",
+"category": "Puériculture et hygiéne bébé",
+"brand": "WISSO",
+"qty": 7,
+"price": 99.99,
+"cost": 73.47,
+"unit": "U"
+},
+{
+"id": 989,
+"name": "Xethol gel chauffant 100ml XET11",
+"category": "Dispositifs Médicaux",
+"brand": "SPIC",
+"qty": 152,
+"price": 280.0,
+"cost": 225.56,
+"unit": "U"
+},
+{
+"id": 990,
+"name": "Xethol Liquide bain de bouche 180ml XET11",
+"category": "Parapharm",
+"brand": "SPIC",
+"qty": 120,
+"price": 245.84,
+"cost": 197.38,
+"unit": "U"
+},
+{
+"id": 991,
+"name": "Xethol roll-on chauffant XET11",
+"category": "Dispositifs Médicaux",
+"brand": "SPIC",
+"qty": 289,
+"price": 329.17,
+"cost": 267.0,
+"unit": "U"
+},
+{
+"id": 992,
+"name": "Xethol spray chauffant 150ml XET11",
+"category": "Dispositifs Médicaux",
+"brand": "SPIC",
+"qty": 242,
+"price": 379.17,
+"cost": 292.24,
+"unit": "U"
+},
+{
+"id": 993,
+"name": "Xibei Lave biberon 2PCS",
+"category": "Puériculture et hygiéne bébé",
+"brand": "Sans marque",
+"qty": 1220,
+"price": 250.0,
+"cost": 351.31,
+"unit": "U"
+},
+{
+"id": 994,
+"name": "YC Attelle de pouce N7829",
+"category": "Matériel orthopédique",
+"brand": "YC",
+"qty": 8,
+"price": 695.75,
+"cost": 539.79,
+"unit": "U"
+},
+{
+"id": 995,
+"name": "YC Coudiere N7706",
+"category": "Matériel orthopédique",
+"brand": "Y.C",
+"qty": 3,
+"price": 491.99,
+"cost": 372.16,
+"unit": "U"
+},
+{
+"id": 996,
+"name": "YC Echarpe d'eapule pour enfant N202",
+"category": "Matériel orthopédique",
+"brand": "Sans marque",
+"qty": 3,
+"price": 409.86,
+"cost": 313.63,
+"unit": "U"
+},
+{
+"id": 997,
+"name": "YC Support grossesse comfortable N8652",
+"category": "Matériel orthopédique",
+"brand": "YC",
+"qty": 3,
+"price": 2125.2,
+"cost": 1626.24,
+"unit": "U"
+},
+{
+"id": 998,
+"name": "Yousra pharm yousderma pommade psoriasis eczema dermatites atopique 100gr YPH01",
+"category": "Dermo-Cos & Make-up",
+"brand": "YOUSRA PHARM",
+"qty": 8,
+"price": 541.66,
+"cost": 257.58,
+"unit": "U"
+},
+{
+"id": 999,
+"name": "Youssra pharm coryos soulagement du pied diabetique YPH01",
+"category": "Dermo-Cos & Make-up",
+"brand": "YOUSRA PHARM",
+"qty": 6,
+"price": 349.99,
+"cost": 321.96,
+"unit": "U"
+},
+{
+"id": 1000,
+"name": "Youssra pharm vick pot 60ml YPH09",
+"category": "Parapharm",
+"brand": "YOUSRA PHARM",
+"qty": 48,
+"price": 165.0,
+"cost": 150.0,
+"unit": "U"
+},
+{
+"id": 1001,
+"name": "Zein pharma LEBERTRAN huile de fois de morue 500mg bt/30",
+"category": "Compléments alimentaires",
+"brand": "ZEIN PHARMA",
+"qty": 13,
+"price": 1283.34,
+"cost": 1084.06,
+"unit": "U"
+},
+{
+"id": 1002,
+"name": "Zein pharma MYO-INOSITOL 500 MG BT/20 ZPH07",
+"category": "Compléments alimentaires",
+"brand": "ZEIN PHARMA",
+"qty": 10,
+"price": 1600.0,
+"cost": 1315.7,
+"unit": "U"
+},
+{
+"id": 1003,
+"name": "Zein pharma omega 3 1000mg+vit E bt30 ZPH07",
+"category": "Dermo-Cos & Make-up",
+"brand": "ZEIN PHARMA",
+"qty": 7,
+"price": 1150.0,
+"cost": 1042.92,
+"unit": "U"
+},
+{
+"id": 1004,
+"name": "Zein pharma Vitamine D3 14000UI ZPH07",
+"category": "Compléments alimentaires",
+"brand": "ZEIN PHARMA",
+"qty": 10,
+"price": 658.34,
+"cost": 550.6,
+"unit": "U"
+},
+{
+"id": 1005,
+"name": "Zms bande elastique adhesive 2.5m x 15cm ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 19,
+"price": 954.48,
+"cost": 779.0,
+"unit": "U"
+},
+{
+"id": 1006,
+"name": "Zms bande elastique adhesive 2.5m x 20cm ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 35,
+"price": 1155.0,
+"cost": 998.27,
+"unit": "U"
+},
+{
+"id": 1007,
+"name": "Zms bande elastique adhésive 2.5m x10cm ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 45,
+"price": 799.99,
+"cost": 621.89,
+"unit": "U"
+},
+{
+"id": 1008,
+"name": "Zms sparadrap adhesif NON perforé 18cm x 4m ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 2,
+"price": 586.46,
+"cost": 483.78,
+"unit": "U"
+},
+{
+"id": 1009,
+"name": "Zms sparadrap adhesif perforé 18cm x 4m ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 58,
+"price": 505.0,
+"cost": 471.05,
+"unit": "U"
+},
+{
+"id": 1010,
+"name": "Zms sparadrap adhesif perforé 18cm x 5m ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 48,
+"price": 713.0,
+"cost": 595.45,
+"unit": "U"
+},
+{
+"id": 1011,
+"name": "Zms sparadrap multi-extensible hypo 10m x 10cm ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 74,
+"price": 563.5,
+"cost": 384.28,
+"unit": "U"
+},
+{
+"id": 1012,
+"name": "Zms sparadrap multi-extensible hypo 10m x 15cm ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 25,
+"price": 684.2,
+"cost": 526.4,
+"unit": "U"
+},
+{
+"id": 1013,
+"name": "Zms sparadrap multi-extensible hypo 10m x 5cm ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 34,
+"price": 288.65,
+"cost": 220.5,
+"unit": "U"
+},
+{
+"id": 1014,
+"name": "Zms sparadrap multi-extensible hypo10m x 20cm ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 32,
+"price": 845.25,
+"cost": 694.94,
+"unit": "U"
+},
+{
+"id": 1015,
+"name": "Zms sparadrap rouleaux 1.25cm x 5m ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 359,
+"price": 115.0,
+"cost": 73.03,
+"unit": "U"
+},
+{
+"id": 1016,
+"name": "Zms sparadrap rouleaux 2.5cm x5m ZMS09",
+"category": "Parapharm",
+"brand": "ZMS",
+"qty": 129,
+"price": 136.85,
+"cost": 111.12,
+"unit": "U"
+}
+]
